@@ -1,0 +1,204 @@
+{
+  "restaurant": "Il Ristorante delle Dune Stellari",
+  "chef": "Chef Alessandro Temporini",
+  "planet": "Arrakis",
+  "licenses": {
+    "Psionica": 4,
+    "Temporale": 3,
+    "Gravitazionale": 1,
+    "Antimateria": 1,
+    "Magnetica": 1,
+    "Quantistica": 12,
+    "Luce": 3
+  },
+  "ltk": 2,
+  "ordini": [
+    "Andromeda",
+    "Naturalisti",
+    "Armonisti"
+  ],
+  "dishes": [
+    {
+      "name": "Sinfonia di Cristalli e Rigenerazione",
+      "ordine": null,
+      "ingredients": [
+        "Riso di Cassandra",
+        "Uova di Fenice",
+        "Liane di Plasmodio",
+        "Radici di Gravità",
+        "Shard di Prisma Stellare",
+        "Funghi dell'Etere",
+        "Essenza di Tachioni",
+        "Pane degli Abissi"
+      ],
+      "techniques": [
+        "Cottura a Vapore Ecodinamico Bilanciato",
+        "Cottura a Vapore Ecodinamico Bilanciato",
+        "Marinatura Sotto Zero a Polarità Inversa",
+        "Cottura a Vapore con Flusso di Particelle Isoarmoniche",
+        "Cryo-Tessitura Energetica Polarizzata"
+      ]
+    },
+    {
+      "name": "Stella Nova",
+      "ordine": null,
+      "ingredients": [
+        "Fusilli del Vento",
+        "Foglie di Nebulosa",
+        "Pane degli Abissi",
+        "Pane di Luce",
+        "Fibra di Sintetex",
+        "Lacrime di Unicorno",
+        "Cristalli di Nebulite",
+        "Erba Pipa"
+      ],
+      "techniques": [
+        "Affumicatura a Stratificazione Quantica",
+        "Grigliatura a Energia Stellare DiV",
+        "Marinatura tramite Reazioni d'Antimateria Diluite"
+      ]
+    },
+    {
+      "name": "Sinfonia del Multiverso",
+      "ordine": null,
+      "ingredients": [
+        "Fusilli del Vento",
+        "Radici di Singolarità",
+        "Cristalli di Memoria",
+        "Foglie di Mandragora",
+        "Plasma Vitale"
+      ],
+      "techniques": [
+        "Affumicatura Temporale Risonante",
+        "Marinatura Sotto Zero a Polarità Inversa",
+        "Amalgamazione Sintetica Molecolare",
+        "Fermentazione Quantico Biometrica"
+      ]
+    },
+    {
+      "name": "Sinfonia di Multiverso: La Danza degli Elementi",
+      "ordine": null,
+      "ingredients": [
+        "Carne di Balena Spaziale",
+        "Carne di Drago",
+        "Shard di Prisma Stellare",
+        "Teste di Idra",
+        "Essenza di Vuoto"
+      ],
+      "techniques": [
+        "Marinatura Psionica",
+        "Cottura a Forno Dinamico Inversionale",
+        "Impasto a Campi Magnetici Dualistici",
+        "Cryo-Tessitura Energetica Polarizzata",
+        "Decostruzione Bio-Fotonica Emotiva"
+      ]
+    },
+    {
+      "name": "Più Lontano delle Stelle",
+      "ordine": null,
+      "ingredients": [
+        "Polvere di Pulsar",
+        "Foglie di Mandragora",
+        "Teste di Idra",
+        "Lacrime di Unicorno",
+        "Essenza di Vuoto"
+      ],
+      "techniques": [
+        "Affumicatura Polarizzata a Freddo Iperbarico",
+        "Congelamento Bio-Luminiscente Sincronico",
+        "Grigliatura Eletro-Molecolare a Spaziatura Variabile",
+        "Cottura a Vapore Termocinetica Multipla",
+        "Cottura Sottovuoto Frugale Energeticamente Negativa"
+      ]
+    },
+    {
+      "name": "Sinfonia Cosmica del Multiverso",
+      "ordine": null,
+      "ingredients": [
+        "Frammenti di Supernova",
+        "Baccacedro",
+        "Radici di Gravità",
+        "Colonia di Mycoflora",
+        "Granuli di Nebbia Arcobaleno",
+        "Lacrime di Andromeda",
+        "Essenza di Vuoto"
+      ],
+      "techniques": [
+        "Decostruzione Ancestrale",
+        "Affumicatura a Stratificazione Quantica",
+        "Marinatura Temporale Sincronizzata",
+        "Amalgamazione Sintetica Molecolare",
+        "Congelamento Bio-Luminiscente Sincronico"
+      ]
+    },
+    {
+      "name": "Viaggio Celeste nel Multiverso",
+      "ordine": null,
+      "ingredients": [
+        "Lattuga Namecciana",
+        "Mandragora",
+        "Carne di Balena spaziale",
+        "Fibra di Sintetex",
+        "Lacrime di Unicorno",
+        "Salsa Szechuan",
+        "Cristalli di Memoria"
+      ],
+      "techniques": [
+        "Cottura a Vapore Termocinetica Multipla",
+        "Cottura a Vapore con Flusso di Particelle Isoarmoniche"
+      ]
+    },
+    {
+      "name": "Sinfonia di Gusti del Multiverso",
+      "ordine": null,
+      "ingredients": [
+        "Carne di Kraken",
+        "Carne di Drago",
+        "Fusilli del Vento",
+        "Pane degli Abissi",
+        "Pane di Luce",
+        "Alghe Bioluminescenti"
+      ],
+      "techniques": [
+        "Cottura a Vapore con Flusso di Particelle Isoarmoniche",
+        "Sferificazione con Campi Magnetici Entropici"
+      ]
+    },
+    {
+      "name": "Portale del Cosmo: Sinfonia di Sapori Multidimensionali",
+      "ordine": null,
+      "ingredients": [
+        "Granuli di Nebbia Arcobaleno",
+        "Lattuga Namecciana",
+        "Polvere di Stelle",
+        "Baccacedro",
+        "Essenza di Vuoto"
+      ],
+      "techniques": [
+        "Bollitura Termografica a Rotazione Veloce",
+        "Decostruzione Bio-Fotonica Emotiva",
+        "Grigliatura a Energia Stellare DiV",
+        "Amalgamazione Sintetica Molecolare"
+      ]
+    },
+    {
+      "name": "Sinfonia Galattica ai Cristalli di Nebulite",
+      "ordine": "Armonisti",
+      "ingredients": [
+        "Spaghi del Sole",
+        "Colonia di Mycoflora",
+        "Liane di Plasmodio",
+        "Cristalli di Nebulite",
+        "Lacrime di Unicorno",
+        "Petali di Eco"
+      ],
+      "techniques": [
+        "Decostruzione Bio-Fotonica Emotiva",
+        "Decostruzione Ancestrale",
+        "Cottura a Vapore Termocinetica Multipla",
+        "Cottura Idrodinamica Autoregolante",
+        "Amalgamazione Sintetica Molecolare"
+      ]
+    }
+  ]
+}

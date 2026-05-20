@@ -1,0 +1,168 @@
+{
+  "restaurant": "Stelle Astrofisiche",
+  "chef": "Alessandro Zod-Marinetti",
+  "planet": "Krypton",
+  "licenses": {
+    "Psionica": 0,
+    "Temporale": null,
+    "Gravitazionale": 2,
+    "Antimateria": 1,
+    "Magnetica": null,
+    "Quantistica": 4,
+    "Luce": 3
+  },
+  "ltk": 4,
+  "ordini": [
+    "Andromeda"
+  ],
+  "dishes": [
+    {
+      "name": "Viaggio Cosmico tra Mare e Stelle",
+      "ordine": "Andromeda",
+      "ingredients": [
+        "Carne di Balena Spaziale",
+        "Carne di Kraken",
+        "Teste di Idra",
+        "Lacrime di Andromeda",
+        "Riso di Cassandra",
+        "Pane degli Abissi",
+        "Spezie Melange"
+      ],
+      "techniques": [
+        "Cottura a Vapore Termocinetica Multipla",
+        "Taglio a Risonanza Sonica Rigenerativa",
+        "Cottura con Microonde Entropiche Sincronizzate"
+      ]
+    },
+    {
+      "name": "Nebulosa di Dragone all'Essenza di Vuoto",
+      "ordine": "Naturalisti",
+      "ingredients": [
+        "Lattuga Namecciana",
+        "Polvere di stelle",
+        "Carne di Drago",
+        "Spore Quantiche"
+      ],
+      "techniques": [
+        "Bollitura Termografica a Rotazione Veloce"
+      ]
+    },
+    {
+      "name": "Il Viaggio Cosmico di Marinetti",
+      "ordine": null,
+      "ingredients": [
+        "Pane degli Abissi",
+        "Polvere di Crononite",
+        "Teste di Idra",
+        "Granuli di Nebbia Arcobaleno",
+        "Alghe Bioluminescenti",
+        "Amalgamazione Sintetica Molecolare",
+        "Cryo-Tessitura Energetica Polarizzata",
+        "Colonia di Mycoflora"
+      ],
+      "techniques": [
+        "Cottura a Vapore Ecodinamico Bilanciato"
+      ]
+    },
+    {
+      "name": "IL PRIMO DEL GIORNO",
+      "ordine": null,
+      "ingredients": [],
+      "techniques": []
+    },
+    {
+      "name": "Piastrella Celestiale di Gnocchi del Crepuscolo con Nebulosa di Riso di Cassandra, Lacrime di Unicorno e Velo di Materia Oscura",
+      "ordine": null,
+      "ingredients": [
+        "Gnocchi del Crepuscolo",
+        "Nebulosa di Riso di Cassandra",
+        "Lacrime di Unicorno",
+        "Materia Oscura"
+      ],
+      "techniques": [
+        "Cottura a Vapore Termocinetica Multipla",
+        "Amalgamazione Sintetica Molecolare",
+        "Cottura a Vapore con Flusso di Particelle Isoarmoniche"
+      ]
+    },
+    {
+      "name": "Sinfonia Celeste di Granuli Arcobaleno e Riso di Cassandra",
+      "ordine": null,
+      "ingredients": [
+        "Granuli di Nebbia Arcobaleno",
+        "Riso di Cassandra",
+        "Fusilli del Vento",
+        "Essenza di Speziaria",
+        "Nettare di Sirena"
+      ],
+      "techniques": [
+        "Cottura a Vapore con Flusso di Particelle Isoarmoniche",
+        "Bollitura Termografica a Rotazione Veloce",
+        "Amalgamazione Sintetica Molecolare"
+      ]
+    },
+    {
+      "name": "Cosmos in Tavola",
+      "ordine": null,
+      "ingredients": [
+        "Gnocchi del Crepuscolo",
+        "Carne di Drago",
+        "Cristalli di Nebulite",
+        "Amido di Stellarion",
+        "Nettare di Sirena",
+        "Biscotti della Galassia"
+      ],
+      "techniques": [
+        "Cottura a Vapore Termocinetica Multipla",
+        "Saltare in Padella Classica"
+      ]
+    },
+    {
+      "name": "Eclissi del Drago nell'Abbraccio del Kraken",
+      "ordine": null,
+      "ingredients": [
+        "Carne di Drago",
+        "Riso di Cassandra",
+        "Colonia di Mycoflora",
+        "Plasma Vitale",
+        "Shard di Materia Oscura"
+      ],
+      "techniques": [
+        "Grigliatura Elettro-Molecolare a Spaziatura Variabile",
+        "Cottura a Vapore Ecodinamico Bilanciato"
+      ]
+    },
+    {
+      "name": "Sinfonia Quantica Galattica",
+      "ordine": null,
+      "ingredients": [
+        "Lattuga Namecciana",
+        "Carne di Drago",
+        "Riso di Cassandra",
+        "Salsa Szechuan",
+        "Biscotti della Galassia"
+      ],
+      "techniques": [
+        "Taglio a Risonanza Sonica Rigenerativa",
+        "Cottura a Vapore Termocinetica Multipla",
+        "Flusso di Particelle Isoarmoniche"
+      ]
+    },
+    {
+      "name": "Sinfonia Galattica Agentica",
+      "ordine": null,
+      "ingredients": [
+        "Pane di Luce",
+        "Carne di Drago",
+        "Carne di Balena spaziale",
+        "Carne di Kraken",
+        "Plasma Vitale"
+      ],
+      "techniques": [
+        "Cottura con Microonde Entropiche Sincronizzate",
+        "Cryo-Tessitura Energetica Polarizzata",
+        "Taglio a Risonanza Sonica Rigenerativa"
+      ]
+    }
+  ]
+}

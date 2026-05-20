@@ -1,0 +1,3 @@
+API_KEY_ENV_NAME = "GROQ_API_KEY"
+GROQ_MODEL_LLAMA_INSTANT = "llama-3.1-8b-instant"
+GROQ_MODEL_LLAMA_VERSATILE = "llama-3.3-70b-versatile"

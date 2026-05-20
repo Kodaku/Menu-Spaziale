@@ -1,0 +1,193 @@
+{
+  "restaurant": "Datapizza",
+  "chef": "Alessandro-Pierpaolo-Jack Quantum",
+  "planet": "Pandora",
+  "licenses": {
+    "Psionica": 0,
+    "Temporale": 2,
+    "Gravitazionale": 0,
+    "Antimateria": 1,
+    "Magnetica": 1,
+    "Quantistica": 11,
+    "Luce": 1
+  },
+  "ltk": 9,
+  "ordini": [
+    "Andromeda",
+    "Naturalisti",
+    "Armonisti"
+  ],
+  "dishes": [
+    {
+      "name": "Pizza Fra",
+      "ordine": "Andromeda",
+      "ingredients": [
+        "Amido di Stellarion",
+        "Fibra di Sintetex",
+        "Vero Ghiaccio",
+        "Radici di Gravità",
+        "Baccacedro",
+        "Lacrime di Unicorno",
+        "Farina di Nettuno",
+        "Salsa Szechuan"
+      ],
+      "techniques": [
+        "Forno Dinamico Inversionale",
+        "Affettamento a Pulsazioni Quantistiche",
+        "Marinatura Temporale Sincronizzata",
+        "Fermentazione Quantico Biometrica",
+        "Ebollizione Magneto-Cinetica Pulsante"
+      ]
+    },
+    {
+      "name": "Pizza Gio",
+      "ordine": null,
+      "ingredients": [
+        "Pane di Luce",
+        "Risotto malinconico",
+        "Cristalli di Memoria",
+        "Lacrime di Andromeda",
+        "Radici di Gravità",
+        "Liane di Plasmodio",
+        "Erba Pipa"
+      ],
+      "techniques": [
+        "Sferificazione Filamentare a Molecole Vibrazionali",
+        "Idro-Cristallizzazione Sonora Quantistica",
+        "Affumicatura Temporale Risonante",
+        "Marinatura tramite Reazioni d'Antimateria Diluite",
+        "Ebollizione Magneto-Cinetica Pulsante"
+      ]
+    },
+    {
+      "name": "Pizza Emma",
+      "ordine": null,
+      "ingredients": [
+        "Liane di Plasmodio",
+        "Colonia di Mycoflora",
+        "Funghi dell'Etere",
+        "Foglie di Mandragora",
+        "Essenza di Speziaria",
+        "Farina di Nettuno"
+      ],
+      "techniques": [
+        "Affettamento a Pulsazioni Quantistiche",
+        "Cottura con microonde e entropiche sincronizzate",
+        "Idro-Cristallizzazione Sonora Quantistica",
+        "Congelazione Iperdimensionalmente Stratificata"
+      ]
+    },
+    {
+      "name": "Pizza Luca",
+      "ordine": null,
+      "ingredients": [
+        "Riso di Cassandra",
+        "Amido di Stellarion",
+        "Farina di Nettuno",
+        "Spore Quantiche",
+        "Essenza di Vuoto",
+        "Radici di Gravità"
+      ],
+      "techniques": [
+        "Marinatura Sotto Zero a Polarità Inversa",
+        "Cottura a Forno Dinamico Inversionale",
+        "Affumicatura a Stratificazione Quantica",
+        "Decostruzione Magnetica Risonante"
+      ]
+    },
+    {
+      "name": "Pizza Raul",
+      "ordine": null,
+      "ingredients": [
+        "Idra",
+        "Riso di Cassandra",
+        "Farina di Nettuno",
+        "Lacrime di Unicorno",
+        "Essenza di Speziaria"
+      ],
+      "techniques": [
+        "Marinatura Sotto Zero a Polarità Inversa",
+        "Cottura a Forno Dinamico Inversionale",
+        "Affumicatura a Stratificazione Quantica"
+      ]
+    },
+    {
+      "name": "Pizza Cri",
+      "ordine": "Armonisti",
+      "ingredients": [
+        "Fusilli del Vento",
+        "Funghi dell'Etere",
+        "Essenza di Speziaria",
+        "Cristalli di Memoria",
+        "Farina di Nettuno",
+        "Radici di Gravità",
+        "Uova di Fenice"
+      ],
+      "techniques": [
+        "Sferificazione con Campi Magnetici Entropici",
+        "Affumicatura a Stratificazione Quantica",
+        "Idro-Cristallizzazione Sonora Quantistica",
+        "Congelazione Iperdimensionalmente Stratificata"
+      ]
+    },
+    {
+      "name": "Pizza Baby Daniele",
+      "ordine": null,
+      "ingredients": [
+        "Spaghi del Sole",
+        "Carne di Balena Spaziale",
+        "Lacrime di Andromeda",
+        "Foglie di Nebulosa",
+        "Radici di Singolarità",
+        "Uova di Fenice",
+        "Biscotti della Galassia",
+        "Frammenti di Supernova"
+      ],
+      "techniques": [
+        "Cottura a Vapore Termocinetica Multipla",
+        "Bollitura Termografica a Rotazione Veloce",
+        "Grigliatura Elettro-Molecolare a Spaziatura Variabile",
+        "Congelazione Iperdimensionalmente Stratificata"
+      ]
+    },
+    {
+      "name": "Pizza Baby Lorenzo",
+      "ordine": "Naturalisti",
+      "ingredients": [
+        "Riso di Cassandra",
+        "Carne di Balena spaziale",
+        "Carne di Drago",
+        "Radici di Gravità",
+        "Uova di Fenice",
+        "Baccacedro",
+        "Sale Temporale",
+        "Pane di Luce"
+      ],
+      "techniques": [
+        "Bollitura Entropica Sincronizzata",
+        "Amalgamazione Sintetica Molecolare",
+        "Idro-Cristallizzazione Sonora Quantistica"
+      ]
+    },
+    {
+      "name": "Pizza Baby Simone e Alessandro",
+      "ordine": null,
+      "ingredients": [
+        "Fusilli del Vento",
+        "Spaghi del Sole",
+        "Nduja Fritta",
+        "Radici di Singolarità",
+        "Carne di Xenodonte",
+        "Pane di Luce",
+        "Lattuga Namecciana",
+        "Baccacedro"
+      ],
+      "techniques": [
+        "Taglio a Risonanza Sonica",
+        "Forno dinamico inversionale",
+        "Bollitura Termografica a Rotazione Veloce",
+        "Cryo-Jeansatura Energetica Polarizzata"
+      ]
+    }
+  ]
+}

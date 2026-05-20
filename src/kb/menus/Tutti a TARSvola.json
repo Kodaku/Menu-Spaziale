@@ -1,0 +1,203 @@
+{
+  "restaurant": "Tutti a TARSvola",
+  "chef": "Isabella Quantum-Stellari",
+  "planet": "Tatooine",
+  "licenses": {
+    "Psionica": 4,
+    "Temporale": null,
+    "Gravitazionale": 1,
+    "Antimateria": 1,
+    "Magnetica": null,
+    "Quantistica": 8,
+    "Luce": 2
+  },
+  "ltk": 16,
+  "ordini": [
+    "Andromeda",
+    "Naturalisti",
+    "Armonisti"
+  ],
+  "dishes": [
+    {
+      "name": "Galassia Sensoriale",
+      "ordine": null,
+      "ingredients": [
+        "Frammenti di Supernova Pane di Luce",
+        "Spaghi del Sole",
+        "Riso di Cassandra",
+        "Nettare di Sirena",
+        "Petali di Eco"
+      ],
+      "techniques": [
+        "Marinatura Psionica",
+        "Cottura a Vapore",
+        "Termocinetica Multipla"
+      ]
+    },
+    {
+      "name": "Cosmopastico di Meraviglie Celesti",
+      "ordine": null,
+      "ingredients": [
+        "Carne di Kraken",
+        "Uova di Fenice",
+        "Carne di Drago",
+        "Pane di Luce",
+        "Spaghi del Sole",
+        "Riso di Cassandra",
+        "Spezie Melange"
+      ],
+      "techniques": [
+        "Impasto Gravitazionale Vorticoso",
+        "Sinergia Elettro-Osmotica Programmabile",
+        "Bollitura Infrasonica Armonizzata",
+        "Grigliatura Eletro-Molecolare a Spaziatura Variabile",
+        "Marinatura Psionica"
+      ]
+    },
+    {
+      "name": "Sinfonia Cosmica all'Alba di Fenice",
+      "ordine": null,
+      "ingredients": [
+        "Cristalli di Nebulite",
+        "Uova di Fenice",
+        "Carne di Mucca",
+        "Carne di Kraken",
+        "Funghi dell'Etere",
+        "Essenza di Tachioni"
+      ],
+      "techniques": [
+        "Impasto Gravitazionale Vorticoso",
+        "Cottura con Microonde Entropiche Sincronizzate",
+        "Cottura a Vapore Ecodinamico Bilanciato",
+        "Taglio a Risonanza Sonica Rigenerativa",
+        "Grigliatura Eletro-Molecolare a Spaziatura Variabile"
+      ]
+    },
+    {
+      "name": "Sinfonia Cosmica alla Szechuan",
+      "ordine": null,
+      "ingredients": [
+        "Lattuga Namecciana Colonia di Mycoflora Teste di Idra",
+        "Granuli di Nebbia Arcobaleno Plasma Vitale Salsa Szechuan"
+      ],
+      "techniques": [
+        "Saltare in Padella Classica",
+        "Cottura a Vapore con Flusso di Particelle Isoarmoniche",
+        "Cottura a Vapore Ecodinamico Bilanciato",
+        "Cottura a Vapore Ecodinamico Bilanciato",
+        "Impasto Gravitazionale Vorticoso",
+        "Cottura con Microonde Entropiche Sincronizzate"
+      ]
+    },
+    {
+      "name": "Sinfonia Cosmica: Il Crescendo delle Stelle",
+      "ordine": null,
+      "ingredients": [
+        "Radici di Gravità",
+        "Radici di Singolarità",
+        "Liane di Plasmodio",
+        "Carne di Balena spaziale",
+        "Uova di Fenice",
+        "Carne di Kraken",
+        "Gnocchi del Crepuscolo",
+        "Pane di Luce Funghi Orbitali Petali di Eco"
+      ],
+      "techniques": [
+        "Cottura a Forno Dinamico Inversionale",
+        "Cottura a Vapore Termocinetica Multipla",
+        "Amalgamazione Sintetica Molecolare"
+      ]
+    },
+    {
+      "name": "Cosmofantasia di Terra e Mare nel Vortice delle Stelle",
+      "ordine": null,
+      "ingredients": [
+        "Shard di Materia Oscura",
+        "Lattuga Namecciana",
+        "Radici di Gravità",
+        "Carne di Kraken",
+        "Carne di Mucca",
+        "Carne di Balena spaziale",
+        "Amido di Stellarion",
+        "Nettare di Sirena Essenza di Tachioni"
+      ],
+      "techniques": [
+        "Impasto Gravitazionale Vorticoso",
+        "Marinatura Psionica",
+        "Cottura a Vapore Termocinetica Multipla"
+      ]
+    },
+    {
+      "name": "Cosmic Symphony di Ghiaccio e Fuoco",
+      "ordine": "Andromeda",
+      "ingredients": [
+        "Vero Ghiaccio",
+        "Colonia di Mycoflora",
+        "Radici di Gravità",
+        "Pane di Luce",
+        "Lacrime di Andromeda Nduja Fritta Tanto"
+      ],
+      "techniques": [
+        "Cryo-Tessitura Energetica Polarizzata",
+        "Grigliatura Eletro-Molecolare a Spaziatura Variabile",
+        "Amalgamazione Sintetica Molecolare",
+        "Marinatura Psionica"
+      ]
+    },
+    {
+      "name": "Odissea Celestiale",
+      "ordine": null,
+      "ingredients": [
+        "Cristalli di Memoria",
+        "Fibra di Sintetex",
+        "Carne di Drago",
+        "Biscotti della Galassia",
+        "Pane degli Abissi",
+        "Gnocchi del Crepuscolo",
+        "Muffa Lunare",
+        "Spezie Melange"
+      ],
+      "techniques": [
+        "Impasto Gravitazionale Vorticoso",
+        "Amalgamazione Sintetica Molecolare",
+        "Cottura a Vapore con Flusso di Particelle Isoarmoniche"
+      ]
+    },
+    {
+      "name": "Il Banchetto delle Galassie",
+      "ordine": null,
+      "ingredients": [
+        "Lattuga Namecciana",
+        "Liane di Plasmodio",
+        "Carne di Kraken",
+        "Carne di Mucca",
+        "Pane di Luce",
+        "Pane degli Abissi",
+        "Funghi dell'Etere",
+        "Essenza di Speziaria"
+      ],
+      "techniques": [
+        "Cottura a Vapore Ecodinamico Bilanciato",
+        "Cottura a Vapore Ecodinamico Bilanciato",
+        "Sinergia Elettro-Osmotica Programmabile",
+        "Cottura con Microonde Entropiche Sincronizzate",
+        "Bollitura Infrasonica Armonizzata"
+      ]
+    },
+    {
+      "name": "Cosmologia Terrestre: Viaggio in Otto Dimensioni",
+      "ordine": null,
+      "ingredients": [
+        "Baccacedro",
+        "Radici di Gravità",
+        "Foglie di Mandragora",
+        "Carne di Mucca",
+        "Salsa Szechuan"
+      ],
+      "techniques": [
+        "Cottura a Vapore Ecodinamico Bilanciato",
+        "Sinergia Elettro-Osmotica Programmabile"
+      ]
+    }
+  ]
+}

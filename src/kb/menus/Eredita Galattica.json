@@ -1,0 +1,208 @@
+{
+  "restaurant": "L'Eredità Galattica",
+  "chef": "Alessandro Chronos",
+  "planet": "Cybertron",
+  "licenses": {
+    "Psionica": 0,
+    "Temporale": 3,
+    "Gravitazionale": 3,
+    "Antimateria": 1,
+    "Magnetica": 0,
+    "Quantistica": null,
+    "Luce": 2
+  },
+  "ltk": 3,
+  "ordini": [
+    "Naturalisti",
+    "Armonisti",
+    "Andromeda"
+  ],
+  "dishes": [
+    {
+      "name": "Sinfonia Tempolare Galattica",
+      "ordine": null,
+      "ingredients": [
+        "Radici di Gravità",
+        "Funghi Orbitali",
+        "Liane di Plasmodio",
+        "Cristalli di brodo di Kraken",
+        "Carne di Mucca",
+        "Spaghi del Sole",
+        "Foglie di Nebulosa",
+        "Amido di Stellarion",
+        "Polvere di Crononite",
+        "Erba Pipa"
+      ],
+      "techniques": [
+        "Bollitura Infrasonica Armonizzata",
+        "Fermentazione Temporale Sincronizzata",
+        "Cottura con Microonde Entropiche Sincronizzate"
+      ]
+    },
+    {
+      "name": "Cosmopolis delle Galassie Perdute",
+      "ordine": null,
+      "ingredients": [
+        "Farina di Nettuno",
+        "Carne di Balena Spaziale",
+        "Lacrime di Unicorno",
+        "Spezie Melange",
+        "Carne di Drago",
+        "Teste di Idra",
+        "Colonia di Mycoflora",
+        "Polvere di Stelle"
+      ],
+      "techniques": [
+        "Cottura a Vapore Ecodinamico Bilanciato",
+        "Cottura con Microonde Entropiche Sincronizzate",
+        "Cryo-Tessitura Energetica Polarizzata"
+      ]
+    },
+    {
+      "name": "Galassia Risvegliata",
+      "ordine": null,
+      "ingredients": [
+        "Riso di Cassandra",
+        "Colonia di Mycoflora",
+        "Fibra di Sintetex",
+        "Uova di Fenice",
+        "Amido di Stellarion",
+        "Nettare di Sirena"
+      ],
+      "techniques": [
+        "Taglio a Risonanza Sonica Rigenerativa",
+        "Decostruzione Ancestrale",
+        "Cottura a Forno Dinamico Inversionale"
+      ]
+    },
+    {
+      "name": "Sinfonia Temporale nello Spaghi del Sole",
+      "ordine": null,
+      "ingredients": [
+        "Polvere di Crononite",
+        "Alghe Bioluminescenti",
+        "Carne di Xenodonte",
+        "Teste di Idra",
+        "Spaghi del Sole",
+        "Spezie Melange"
+      ],
+      "techniques": [
+        "Cottura a Vapore Termocinetica Multipla",
+        "Idro-Cristallizzazione Sonora Quantistica",
+        "Decostruzione Atomica a Strati Energetici",
+        "Affettamento a Pulsazioni Quantistiche",
+        "Marinatura tramite Reazioni d'Antimateria Diluite"
+      ]
+    },
+    {
+      "name": "Sinfonia di Crepuscolo Celestiale",
+      "ordine": null,
+      "ingredients": [
+        "Cristalli di Nebulite",
+        "Gnocchi del Crepuscolo",
+        "Amido di Stellarion",
+        "Farina di Nettuno",
+        "Lacrime di Unicorno",
+        "Salsa Szechuan"
+      ],
+      "techniques": [
+        "Cottura Sottovuoto Antimateria",
+        "Fermentazione Quantico Biometrica",
+        "Marinatura Temporale Sincronizzata"
+      ]
+    },
+    {
+      "name": "Sinfonia di Stagioni Stellari",
+      "ordine": null,
+      "ingredients": [
+        "Cristalli di Memoria",
+        "Alghe Bioluminescenti",
+        "Foglie di Nebulosa",
+        "Carne di Drago",
+        "Carne di Xenodonte",
+        "Fibra di Sintetex",
+        "Amido di Stellarion",
+        "Funghi Orbitali",
+        "Sale Temporale"
+      ],
+      "techniques": [
+        "Taglio a Risonanza Sonica Rigenerativa",
+        "Decostruzione Ancestrale",
+        "Bollitura Termografica a Rotazione Veloce",
+        "Bollitura Infrasonica Armonizzata",
+        "Cottura Idrodinamica Autoregolante"
+      ]
+    },
+    {
+      "name": "Viaggio dei Sensi: Bolla Temporale di Aromi Ancestrali",
+      "ordine": null,
+      "ingredients": [
+        "Cristalli di Memoria",
+        "Carne di Xenodonte",
+        "Carne di Kraken",
+        "Teste di Idra",
+        "Essenza di Tachioni"
+      ],
+      "techniques": [
+        "Cottura a Vapore Termocinetica Multipla",
+        "Affumicatura a Stratificazione Quantica",
+        "Amalgamazione Sintetica Molecolare"
+      ]
+    },
+    {
+      "name": "Sfogliare Galattico di Sogni Temporali",
+      "ordine": null,
+      "ingredients": [
+        "Shard di Prisma Stellare",
+        "Alghe Bioluminescenti",
+        "Lattuga Namecciana",
+        "Carne di Xenodonte",
+        "Fusilli del Vento",
+        "Essenza di Vuoto"
+      ],
+      "techniques": [
+        "Cottura al Forno con Paradosso Temporale Cronospeculare",
+        "Marinatura a Infusione Gravitazionale",
+        "Grigliatura Eletro-Molecolare a Spaziatura Variabile",
+        "Taglio a Risonanza Sonica Rigenerativa",
+        "Impasto Gravitazionale Vorticoso"
+      ]
+    },
+    {
+      "name": "Nebulosa di Fenice con Sinfonia Eterea",
+      "ordine": null,
+      "ingredients": [
+        "Cristalli di Nebulite",
+        "Fibra di Sintetex",
+        "Uova di Fenice",
+        "Funghi dell’Etere",
+        "Petali di Eco"
+      ],
+      "techniques": [
+        "Bollitura Termografica a Rotazione Veloce",
+        "Marinatura tramite Reazioni d'Antimateria Diluite",
+        "Sinergia Elettro-Osmotica Programmabile"
+      ]
+    },
+    {
+      "name": "Sinfonia Temporale al Tocco di Crono",
+      "ordine": null,
+      "ingredients": [
+        "Vero Ghiaccio",
+        "Lattuga Namecciana",
+        "Baccacedro",
+        "Carne di Mucca",
+        "Uova di Fenice",
+        "Pane degli Abissi",
+        "Riso di Cassandra",
+        "Spaghi del Sole",
+        "Spore Quantiche",
+        "Essenza di Tachioni"
+      ],
+      "techniques": [
+        "Sinergia Elettro-Osmotica Programmabile",
+        "Cottura a Vapore Ecodinamico Bilanciato"
+      ]
+    }
+  ]
+}

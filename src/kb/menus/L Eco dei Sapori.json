@@ -1,0 +1,184 @@
+{
+  "restaurant": "L'Eco dei Sapori",
+  "chef": "Aurora Vessanti",
+  "planet": "Ego",
+  "licenses": {
+    "Psionica": 3,
+    "Temporale": 2,
+    "Gravitazionale": 0,
+    "Antimateria": 1,
+    "Magnetica": 1,
+    "Quantistica": 4,
+    "Luce": 2
+  },
+  "ltk": 4,
+  "ordini": [],
+  "dishes": [
+    {
+      "name": "Galassia Infinita Viaggio tra Memorie e Stelle",
+      "ordine": null,
+      "ingredients": [
+        "Pane di Luce",
+        "Spore Quantiche",
+        "proteine di mare e terra",
+        "Essenza di Tachioni",
+        "Farina di Nettuno",
+        "Sferificazione tramite Matrici Biofotiche",
+        "Cristalli di Memoria",
+        "Biscotti della Galassia"
+      ],
+      "techniques": [
+        "Marinatura Temporale Sincronizzata"
+      ]
+    },
+    {
+      "name": "Eterna Sinfonia del Cosmo",
+      "ordine": null,
+      "ingredients": [
+        "carne di mucca",
+        "Nettare di Sirena",
+        "proteine delle teste di idra",
+        "Alghe Bioluminescenti",
+        "Biscotti della Galassia",
+        "Shard di Materia Oscura",
+        "Farina di Nettuno"
+      ],
+      "techniques": [
+        "Marinatura Sotto Zero a Polarità Inversa",
+        "Cottura Idrodinamica Autoregolante",
+        "Decostruzione Magnetica Risonante",
+        "Marinatura Temporale Sincronizzata",
+        "Bollitura Infrasonica Armonizzata"
+      ]
+    },
+    {
+      "name": "Sinfonia Cosmica di Aurora",
+      "ordine": null,
+      "ingredients": [
+        "Riso di Cassandra",
+        "Pane di Luce",
+        "Granuli di Nebbia Arcobaleno",
+        "Erba Pipa"
+      ],
+      "techniques": [
+        "Ebollizione Magneto-Cinetica Pulsante"
+      ]
+    },
+    {
+      "name": "Galaxia Gustativa",
+      "ordine": null,
+      "ingredients": [
+        "Amido di Stellarion",
+        "Shard di Materia Oscura",
+        "Funghi Orbitali",
+        "Granuli di Nebbia Arcobaleno",
+        "Baccacedro"
+      ],
+      "techniques": [
+        "Bollitura Infrasonica Armonizzata",
+        "Fermentazione Quantico Biometrica",
+        "CryoTessitura Energetica Polarizzata"
+      ]
+    },
+    {
+      "name": "Crescendo Cosmico",
+      "ordine": null,
+      "ingredients": [
+        "Spaghi del Sole",
+        "Gnocchi del Crepuscolo",
+        "carni succulente di Xenodonte",
+        "Radici di Singolarità",
+        "Colonia di Mycoflora",
+        "Spore Quantiche"
+      ],
+      "techniques": [
+        "Amalgamazione Sintetica Molecolare",
+        "Congelamento Bio-Luminiscente Sincronico"
+      ]
+    },
+    {
+      "name": "Simfonia Celeste di Aurora",
+      "ordine": null,
+      "ingredients": [
+        "Fusilli del Vento",
+        "Carne di Xenodonte",
+        "Amido di Stellarion",
+        "Colonia di Mycoflora",
+        "Alghe Bioluminescenti",
+        "Polvere di Pulsar",
+        "Muffa Lunare"
+      ],
+      "techniques": [
+        "Cottura a Vapore con Flusso di Particelle Isoarmoniche",
+        "Decostruzione Magnetica Risonante",
+        "Cryo-Tessitura Energetica Polarizzata"
+      ]
+    },
+    {
+      "name": "Portale del Cosmo Sinfonia di Sapori e Tempi",
+      "ordine": null,
+      "ingredients": [
+        "Pane degli Abissi",
+        "Muffa Lunare",
+        "Fibra di Sintetex",
+        "Radici di Gravità",
+        "Colonia di Mycoflora",
+        "Shard di Prisma Stellare",
+        "Baccacedro",
+        "Nduja Fritta Tanto"
+      ],
+      "techniques": [
+        "Marinatura Psionica",
+        "Affumicatura Temporal Risonante"
+      ]
+    },
+    {
+      "name": "Verso l'Inedito Oltre",
+      "ordine": null,
+      "ingredients": [
+        "Lattuga Namecciana",
+        "Carne di Drago",
+        "Carne di Mucca",
+        "Teste di Idra",
+        "Spezie Melange"
+      ],
+      "techniques": [
+        "incisioni elettromagnetiche plasmatiche"
+      ]
+    },
+    {
+      "name": "Sinfonia di Galassie Perdute",
+      "ordine": null,
+      "ingredients": [
+        "Radici di Singolarità",
+        "Lattuga Namecciana",
+        "Muffa Lunare",
+        "Cristalli di Memoria",
+        "Spezie Melange"
+      ],
+      "techniques": [
+        "Incisione Elettromagnetica Plasmica",
+        "Sferificazione tramite Matrici Biofotiche",
+        "Stratificazione Quantica"
+      ]
+    },
+    {
+      "name": "Sinfonia degli Elementi Eterni",
+      "ordine": null,
+      "ingredients": [
+        "Liane di Plasmodio",
+        "Radici di Singolarità",
+        "Foglie di Mandragora",
+        "Uova di Fenice",
+        "Carne di Kraken",
+        "Farina di Nettuno",
+        "Pane di Luce",
+        "Lacrime di Andromeda"
+      ],
+      "techniques": [
+        "Marinatura Psionica",
+        "bollitura termografica a rotazione veloce"
+      ]
+    }
+  ]
+}

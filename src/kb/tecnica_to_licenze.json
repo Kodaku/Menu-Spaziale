@@ -1,0 +1,414 @@
+{
+  "Marinatura a Infusione Gravitazionale": {
+    "licenses": {
+      "G": 2
+    }
+  },
+  "Marinatura Temporale Sincronizzata": {
+    "licenses": {
+      "t": 1
+    }
+  },
+  "Marinatura Psionica": {
+    "licenses": {
+      "P": 3
+    }
+  },
+  "Marinatura tramite Reazioni d'Antimateria Diluite": {
+    "licenses": {
+      "e+": 1
+    }
+  },
+  "Marinatura Sotto Zero a Polarità Inversa": {
+    "licenses": {
+      "Mx": 1
+    },
+    "ltk": 2
+  },
+  "Affumicatura a Stratificazione Quantica": {
+    "licenses": {
+      "P": 0,
+      "G": 0,
+      "e+": 0,
+      "Mx": 0,
+      "Q": 0,
+      "c": 0,
+      "t": 0
+    },
+    "ltk": 2
+  },
+  "Affumicatura Temporale Risonante": {
+    "licenses": {
+      "t": 1
+    },
+    "ltk": 2
+  },
+  "Affumicatura Psionica Sensoriale": {
+    "licenses": {
+      "P": 2
+    },
+    "ltk": 3
+  },
+  "Affumicatura tramite Big Bang Microcosmico": {
+    "licenses": {
+      "e+": 1,
+      "Q": 10
+    },
+    "ltk": 3
+  },
+  "Affumicatura Polarizzata a Freddo Iperbarico": {
+    "licenses": {
+      "Mx": 1
+    },
+    "ltk": 2
+  },
+  "Fermentazione Quantica a Strati Multiversali": {
+    "licenses": {
+      "Q": 5
+    },
+    "ltk": 7
+  },
+  "Fermentazione Temporale Sincronizzata": {
+    "licenses": {
+      "t": 3
+    },
+    "ltk": 3
+  },
+  "Fermentazione Psionica Energetica": {
+    "licenses": {
+      "P": 1
+    },
+    "ltk": 3
+  },
+  "Fermentazione tramite Singolarità": {
+    "licenses": {
+      "G": 3,
+      "e+": 1,
+      "Mx": 1
+    },
+    "ltk": 4
+  },
+  "Fermentazione Quantico Biometrica": {
+    "licenses": {
+      "Q": 3
+    },
+    "ltk": 2
+  },
+  "Decostruzione Atomica a Strati Energetici": {
+    "licenses": {
+      "e+": 1,
+      "Q": 1
+    },
+    "ltk": 3
+  },
+  "Decostruzione Magnetica Risonante": {
+    "licenses": {
+      "Mx": 1
+    },
+    "ltk": 2
+  },
+  "Decostruzione Bio-Fotonica Emotiva": {
+    "licenses": {
+      "P": 3,
+      "c": 3
+    },
+    "ltk": 2
+  },
+  "Decostruzione Ancestrale": {
+    "licenses": {
+      "t": 3
+    },
+    "ltk": 2
+  },
+  "Decostruzione Interdimensionale Lovecraftiana": {
+    "licenses": {
+      "Q": 7
+    },
+    "ltk": 6
+  },
+  "Sferificazione a Gravità Psionica Variabile": {
+    "licenses": {
+      "P": 0,
+      "G": 0,
+      "e+": 0,
+      "Mx": 0,
+      "Q": 0,
+      "c": 0,
+      "t": 0
+    },
+    "ltk": 4
+  },
+  "Sferificazione Filamentare a Molecole Vibrazionali": {
+    "licenses": {
+      "Mx": 1,
+      "Q": 4
+    },
+    "ltk": 2
+  },
+  "Sferificazione Cromatica Interdimensionale": {
+    "licenses": {
+      "Q": 6,
+      "c": 3
+    },
+    "ltk": 3
+  },
+  "Sferificazione con Campi Magnetici Entropici": {
+    "licenses": {
+      "Mx": 1
+    },
+    "ltk": 2
+  },
+  "Sferificazione tramite Matrici Biofotiche": {
+    "licenses": {
+      "e+": 1,
+      "Q": 3,
+      "c": 2
+    },
+    "ltk": 2
+  },
+  "Taglio Dimensionale a Lame Fotofiliche": {
+    "licenses": {
+      "c": 3
+    },
+    "ltk": 4
+  },
+  "Taglio a Risonanza Sonica Rigenerativa": {
+    "licenses": {
+      "Q": 4
+    },
+    "ltk": 3
+  },
+  "Affettamento a Pulsazioni Quantistiche": {
+    "licenses": {
+      "Q": 4
+    },
+    "ltk": 3
+  },
+  "Taglio Sinaptico Biomimetico": {
+    "licenses": {
+      "P": 4
+    },
+    "ltk": 3
+  },
+  "Incisione Elettromagnetica Plasmica": {
+    "licenses": {
+      "e+": 1,
+      "Mx": 1
+    },
+    "ltk": 2
+  },
+  "Impasto Gravitazionale Vorticoso": {
+    "licenses": {
+      "G": 1
+    }
+  },
+  "Amalgamazione Sintetica Molecolare": {
+    "licenses": {
+      "Q": 3
+    }
+  },
+  "Impasto a Campi Magnetici Dualistici": {
+    "licenses": {
+      "Mx": 1
+    }
+  },
+  "Sinergia Elettro-Osmotica Programmabile": {
+    "licenses": {
+      "e+": 1
+    }
+  },
+  "Modellatura Onirica Tetrazionale": {
+    "licenses": {
+      "P": 4,
+      "Q": 4
+    },
+    "ltk": 4
+  },
+  "Cryo-Tessitura Energetica Polarizzata": {
+    "licenses": {
+      "e+": 1
+    }
+  },
+  "Congelamento Bio-Luminiscente Sincronico": {
+    "licenses": {
+      "c": 2
+    },
+    "ltk": 2
+  },
+  "Cristallizzazione Temporale Reversiva": {
+    "licenses": {
+      "t": 3
+    },
+    "ltk": 3
+  },
+  "Congelazione Iperdimensionalmente Stratificata": {
+    "licenses": {
+      "Q": 5
+    },
+    "ltk": 4
+  },
+  "Surgelamento Antimaterico a Risonanza Inversa": {
+    "licenses": {
+      "e+": 1,
+      "Mx": 1,
+      "Q": 3
+    },
+    "ltk": 3
+  },
+  "Ebollizione Magneto-Cinetica Pulsante": {
+    "licenses": {
+      "Mx": 1
+    }
+  },
+  "Bollitura Infrasonica Armonizzata": {
+    "licenses": {
+      "Q": 3
+    }
+  },
+  "Bollitura Entropica Sincronizzata": {
+    "licenses": {
+      "Q": 4
+    },
+    "ltk": 3
+  },
+  "Idro-Cristallizzazione Sonora Quantistica": {
+    "licenses": {
+      "Q": 5
+    },
+    "ltk": 3
+  },
+  "Grigliatura a Energia Stellare DiV": {
+    "licenses": {
+      "c": 3
+    },
+    "ltk": 2
+  },
+  "Grigliatura Plasma Sintetico Risonante": {
+    "licenses": {
+      "e+": 1,
+      "Mx": 1
+    },
+    "ltk": 3
+  },
+  "Grigliatura Eletro-Molecolare a Spaziatura Variabile": {
+    "licenses": {
+      "Q": 3
+    }
+  },
+  "Grigliatura Tachionica Refrattaria": {
+    "licenses": {
+      "t": 2,
+      "c": 3
+    },
+    "ltk": 5
+  },
+  "Grigliatura Psionica Dinamica Ritmica": {
+    "licenses": {
+      "P": 3
+    },
+    "ltk": 3
+  },
+  "Cottura al Forno con Paradosso Temporale Cronospeculare": {
+    "licenses": {
+      "t": 3,
+      "Q": 1
+    },
+    "ltk": 3
+  },
+  "Cottura con Microonde Entropiche Sincronizzate": {
+    "licenses": {
+      "Q": 4
+    }
+  },
+  "Cottura a Forno Dinamico Inversionale": {
+    "licenses": {
+      "e+": 1
+    }
+  },
+  "Cottura Olografica Quantum Fluttuante": {
+    "licenses": {
+      "Q": 5
+    },
+    "ltk": 3
+  },
+  "Cottura Geomagnetica Psicosincronizzata": {
+    "licenses": {
+      "P": 5,
+      "Mx": 1
+    },
+    "ltk": 4
+  },
+  "Cottura a Vapore Risonante Simbiotico": {
+    "licenses": {
+      "P": 3
+    },
+    "ltk": 3
+  },
+  "Cottura Idrodinamica Autoregolante": {
+    "licenses": {
+      "e+": 1
+    },
+    "ltk": 2
+  },
+  "Cottura Sottovuoto Antimateria": {
+    "licenses": {
+      "G": 1,
+      "e+": 1
+    },
+    "ltk": 3
+  },
+  "Cottura Sottovuoto Multirealità Collassante": {
+    "licenses": {
+      "G": 1,
+      "Q": 5
+    },
+    "ltk": 6
+  },
+  "Cottura Sottovuoto Frugale Energeticamente Negativa": {
+    "licenses": {
+      "G": 1,
+      "Q": 3
+    },
+    "ltk": 2
+  },
+  "Cottura Sottovuoto Pulsar Magnetica": {
+    "licenses": {
+      "G": 1,
+      "Mx": 1
+    },
+    "ltk": 3
+  },
+  "Cottura Sottovuoto Bioma Sintetico": {
+    "licenses": {
+      "P": 2,
+      "G": 1
+    },
+    "ltk": 3
+  },
+  "Saltare in Padella Big Bang Termico": {
+    "licenses": {
+      "G": 3,
+      "e+": 1
+    },
+    "ltk": 5
+  },
+  "Saltare in Padella Realtà Energetiche Parallele": {
+    "licenses": {
+      "Q": 6
+    },
+    "ltk": 4
+  },
+  "Saltare in Padella Singolarità Inversa": {
+    "licenses": {
+      "G": 3,
+      "e+": 1
+    },
+    "ltk": 4
+  },
+  "Saltare in Padella Sinergia Psionica": {
+    "licenses": {
+      "P": 5
+    },
+    "ltk": 3
+  }
+}

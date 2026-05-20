@@ -1,0 +1,200 @@
+{
+  "restaurant": "Cosmica Essenza",
+  "chef": "Aurelio Starweaver Celestini",
+  "planet": "Tatooine",
+  "licenses": {
+    "Psionica": 5,
+    "Temporale": null,
+    "Gravitazionale": 3,
+    "Antimateria": 1,
+    "Magnetica": null,
+    "Quantistica": 9,
+    "Luce": 2
+  },
+  "ltk": 3,
+  "ordini": [],
+  "dishes": [
+    {
+      "name": "Galassie in Epifania Risotto Celestiale con Preziosi dellUniverso",
+      "ordine": null,
+      "ingredients": [
+        "Polvere di Pulsar",
+        "Carne di Xenodonte",
+        "Carne di Balena spaziale",
+        "Teste di Idra",
+        "Spaghi del Sole",
+        "Riso di Cassandra",
+        "Farina di Nettuno",
+        "Lacrime di Andromeda",
+        "Petali di Eco"
+      ],
+      "techniques": [
+        "Marinatura a Infusione Gravitazionale",
+        "Cryo-Tessitura Energetica Polarizzata",
+        "Saltare in Padella Classica",
+        "Cottura Olografica Quantum Fluttuante"
+      ]
+    },
+    {
+      "name": "Galassia Suprema",
+      "ordine": null,
+      "ingredients": [
+        "Shard di Prisma Stellare",
+        "Foglie di Nebulosa",
+        "Carne di Drago",
+        "Carne di Mucca",
+        "Fibra di Sintetex",
+        "Lacrime di Unicorno",
+        "Essenza di Tachioni"
+      ],
+      "techniques": [
+        "Idro-Cristallizzazione Sonora Quantistica",
+        "Cottura Sottovuoto Antimateria",
+        "Taglio a Risonanza Sonica Rigenerativa",
+        "Bollitura Infrasonica Armonizzata"
+      ]
+    },
+    {
+      "name": "Fusione Celeste",
+      "ordine": null,
+      "ingredients": [
+        "Radici di Singolarità",
+        "Foglie di Nebulosa",
+        "Colonia di Mycoflora",
+        "Carne di Mucca",
+        "Carne di Kraken",
+        "Riso di Cassandra",
+        "Fusilli del Vento",
+        "Biscotti della Galassia",
+        "Spore Quantiche",
+        "Essenza di Speziaria"
+      ],
+      "techniques": [
+        "Cryo-Tessitura Energetica Polarizzata",
+        "Sferificazione a Gravità Psionica Variabile",
+        "Bollitura Termografica a Rotazione Veloce"
+      ]
+    },
+    {
+      "name": "Sinfonia Cosmica di Andromeda",
+      "ordine": null,
+      "ingredients": [
+        "Foglie di Mandragora",
+        "Radici di Singolarità",
+        "Riso di Cassandra",
+        "Lacrime di Andromeda",
+        "Petali di Eco"
+      ],
+      "techniques": [
+        "Cottura Sottovuoto Antimateria",
+        "Sferificazione a Gravità Psionica Variabile"
+      ]
+    },
+    {
+      "name": "Risveglio Cosmico Una Sinfonia di Sapori Universali",
+      "ordine": null,
+      "ingredients": [
+        "Shard di Prisma Stellare",
+        "Lattuga Namecciana",
+        "Carne di Mucca",
+        "Fibra di Sintetex",
+        "Amido di Stellarion",
+        "Riso di Cassandra",
+        "Muffa Lunare",
+        "Erba Pipa"
+      ],
+      "techniques": [
+        "Grigliatura Psionica Dinamica Ritmica",
+        "Cottura a Vapore Ecodinamico Bilanciato"
+      ]
+    },
+    {
+      "name": "Galassia Incantata Un Viaggio Attraverso lInfinito",
+      "ordine": null,
+      "ingredients": [
+        "Shard di Materia Oscura",
+        "Carne di Xenodonte",
+        "Teste di Idra",
+        "Fibra di Sintetex",
+        "Riso di Cassandra",
+        "Pane di Luce",
+        "Pane degli Abissi",
+        "Nduja Fritta",
+        "Tanto"
+      ],
+      "techniques": [
+        "Grigliatura Psionica Dinamica Ritmica",
+        "Cottura a Forno Dinamico Inversionale",
+        "Cottura a Vapore Risonante Simbiotico"
+      ]
+    },
+    {
+      "name": "Sinfonia Celestiale di Echi Galattici",
+      "ordine": null,
+      "ingredients": [
+        "Baccacedro",
+        "Fibra di Sintetex",
+        "Carne di Balena spaziale",
+        "Carne di Kraken",
+        "Lacrime di Unicorno"
+      ],
+      "techniques": [
+        "Cottura Idrodinamica Autoregolante",
+        "Fermentazione Psionica Energetica",
+        "Affettamento a Pulsazioni Quantistiche",
+        "Decostruzione Atomica a Strati Energetici",
+        "Cottura con Microonde Entropiche Sincronizzate"
+      ]
+    },
+    {
+      "name": "Porta Celestiale alle Stelle",
+      "ordine": null,
+      "ingredients": [
+        "Vero Ghiaccio",
+        "Liane di Plasmodio",
+        "Carne di Kraken",
+        "Teste di Idra",
+        "Funghi dellEtere",
+        "Erba Pipa"
+      ],
+      "techniques": [
+        "Bollitura Entropica Sincronizzata",
+        "Cottura Sottovuoto Frugale Energeticamente Negativa",
+        "Marinatura a Infusione Gravitazionale"
+      ]
+    },
+    {
+      "name": "Sinfonia Celeste dellEquilibrio Temporale",
+      "ordine": null,
+      "ingredients": [
+        "Polvere di Crononite",
+        "Carne di Balena spaziale",
+        "Carne di Mucca",
+        "Uova di Fenice",
+        "Funghi dellEtere",
+        "Spezie Melange"
+      ],
+      "techniques": [
+        "Idro-Cristallizzazione Sonora Quantistica",
+        "Cryo-Tessitura Energetica Polarizzata",
+        "Sinergia Elettro-Osmotica Programmabile"
+      ]
+    },
+    {
+      "name": "Il Risveglio delle Stelle",
+      "ordine": null,
+      "ingredients": [
+        "Polvere di Stelle",
+        "Baccacedro",
+        "Carne di Balena spaziale",
+        "Biscotti della Galassia",
+        "Pane degli Abissi",
+        "Muffa Lunare"
+      ],
+      "techniques": [
+        "Marinatura a Infusione Gravitazionale",
+        "Marinatura tramite Reazioni dAntimateria Diluite"
+      ]
+    }
+  ]
+}

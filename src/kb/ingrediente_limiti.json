@@ -1,0 +1,41 @@
+{
+  "Erba Pipa": {
+    "category": "Psicotrope",
+    "properties": {
+      "CRP": 0.89,
+      "IEI": 0.3
+    },
+    "limit_pct": 1.0
+  },
+  "Cristalli di Memoria": {
+    "category": "Psicotrope",
+    "properties": {
+      "CRP": 0.92
+    },
+    "limit_pct": 0.5
+  },
+  "Petali di Eco": {
+    "category": "Psicotrope",
+    "properties": {
+      "CRP": 0.87,
+      "IPM": 0.6
+    },
+    "limit_pct": 1.0
+  },
+  "Carne di Drago": {
+    "category": "Mitica",
+    "properties": {
+      "IPM": 0.85
+    },
+    "limit_pct": 4.0
+  },
+  "Uova di Fenice": {
+    "category": "Mitica",
+    "properties": {
+      "IPM": 0.98,
+      "IBX": 0.75,
+      "CDT": 0.8
+    },
+    "limit_pct": 0.1
+  }
+}

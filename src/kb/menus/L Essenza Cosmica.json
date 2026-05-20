@@ -1,0 +1,202 @@
+{
+  "restaurant": "L'Essenza Cosmica",
+  "chef": "Alessandro Stellanova",
+  "planet": "Pandora",
+  "licenses": {
+    "Psionica": 5,
+    "Temporale": 1,
+    "Gravitazionale": 1,
+    "Antimateria": 0,
+    "Magnetica": null,
+    "Quantistica": 3,
+    "Luce": null
+  },
+  "ltk": 3,
+  "ordini": [
+    "Andromeda",
+    "Naturalisti",
+    "Armonisti"
+  ],
+  "dishes": [
+    {
+      "name": "Nebulosa di Drago Interdimensionale",
+      "ordine": null,
+      "ingredients": [
+        "Carne di Drago",
+        "Pane di Luce",
+        "Amido di Stellarion",
+        "Nettare di Sirena",
+        "Salsa Szechuan",
+        "Verdure stagionali"
+      ],
+      "techniques": [
+        "Marinatura Temporale Sincronizzata",
+        "Grigliatura Elettro-Molecolare a Spaziatura Variabile",
+        "Taglio a Risonanza Sonica Rigenerativa"
+      ]
+    },
+    {
+      "name": "Sinfonia Cosmica: La Danza dell'Universo",
+      "ordine": null,
+      "ingredients": [
+        "Pane di Luce",
+        "Alghe Bioluminescenti",
+        "Foglie di Nebulosa",
+        "Carne di Drago",
+        "Pane degli Abissi",
+        "Lacrime di Andromeda",
+        "Polvere di Crononite",
+        "Mycoflora",
+        "Essenza di Speziaria"
+      ],
+      "techniques": [
+        "Cottura Olografica Quantum Fluttuante",
+        "Affumicatura a Stratificazione Quantica"
+      ]
+    },
+    {
+      "name": "Interstellar Requiem",
+      "ordine": null,
+      "ingredients": [
+        "Colonia di Mycoflora",
+        "Shard di Prisma Stellare",
+        "Alghe Bioluminescenti",
+        "Funghi Orbitali",
+        "Essenza di Speziaria"
+      ],
+      "techniques": [
+        "Cottura a Vapore Termocinetica Multipla",
+        "Fermentazione Psionica Energetica"
+      ]
+    },
+    {
+      "name": "Nebulae Di-Cedri Risvegliati",
+      "ordine": null,
+      "ingredients": [
+        "Polvere di Pulsar",
+        "Granuli di Nebbia Arcobaleno",
+        "Radici di Singolarità",
+        "Foglie di Mandragora",
+        "Salsa Szechuan",
+        "Baccacedro",
+        "Spore Quantiche"
+      ],
+      "techniques": [
+        "Bollitura Infrasonica Armonizzata",
+        "Cottura Olografica Quantum Fluttuante",
+        "Cottura Sottovuoto Bioma Sintetico",
+        "Cottura Sottovuoto Frugale Energeticamente Negativa"
+      ]
+    },
+    {
+      "name": "Nebulosa dell'Infinito: Un Viaggio attraverso il Cosmo del Gusto",
+      "ordine": null,
+      "ingredients": [
+        "Carne di Kraken",
+        "Tagliatelle Spaghi del Sole",
+        "Granuli di Nebbia Arcobaleno",
+        "Alghe Bioluminescenti",
+        "Shard di Materia Oscura",
+        "Pane di Luce",
+        "Nettare di Sirena",
+        "Salsa Szechuan",
+        "Carne di Balena spaziale"
+      ],
+      "techniques": [
+        "Affumicatura Temporale Risonante",
+        "Cottura a Vapore Risonante Simbiotico",
+        "Taglio a Risonanza Sonica Rigenerativa"
+      ]
+    },
+    {
+      "name": "Nebulosa Eterna",
+      "ordine": null,
+      "ingredients": [
+        "Riso di Cassandra",
+        "Carne di Drago",
+        "Alghe Bioluminescenti",
+        "Foglie di Nebulosa",
+        "Granuli di Nebbia Arcobaleno",
+        "Pane degli Abissi",
+        "Plasma Vitale",
+        "Essenza di Vuoto",
+        "Cristalli di Memoria"
+      ],
+      "techniques": [
+        "Bollitura Entropica Sincronizzata",
+        "Affumicatura a Stratificazione Quantica"
+      ]
+    },
+    {
+      "name": "Risveglio Cosmico",
+      "ordine": null,
+      "ingredients": [
+        "Carpaccio di Carne di Kraken",
+        "Muffa Lunare",
+        "Sale Temporale",
+        "Farina di Nettuno",
+        "Amido di Stellarion",
+        "Pane di Luce",
+        "Shard di Prisma Stellare"
+      ],
+      "techniques": [
+        "Pulsazioni Quantistiche",
+        "Cottura Sottovuoto Bioma Sintetico",
+        "Affumicatura Psionica Sensoriale",
+        "Affumicatura Temporale Risonante"
+      ]
+    },
+    {
+      "name": "Aurora del Cosmo",
+      "ordine": null,
+      "ingredients": [
+        "Radici di Singolarità",
+        "Nettare di Sirena",
+        "Shard di Prisma Stellare",
+        "Foglie di Nebulosa",
+        "Fibra di Sintetex",
+        "Petali di Eco"
+      ],
+      "techniques": [
+        "Cottura Sottovuoto Frugale Energeticamente Negativa",
+        "Cottura con Microonde Entropiche Sincronizzate",
+        "Sferificazione a Gravità Psionica Variabile",
+        "Cottura a Vapore Termocinetica Multipla",
+        "Affumicatura a Stratificazione Quantica"
+      ]
+    },
+    {
+      "name": "Galassia nel Piatto: Sinfonia di Sapori e Dimensioni",
+      "ordine": null,
+      "ingredients": [
+        "Gnocchi del Crepuscolo",
+        "Nettare di Sirena",
+        "Lattuga Namecciana",
+        "Radici di Singolarità",
+        "Frammenti di Supernova",
+        "Petali di Eco"
+      ],
+      "techniques": [
+        "Affettamento a Pulsazioni Quantistiche",
+        "Bollitura Infrasonica Armonizzata",
+        "Cottura Sottovuoto Bioma Sintetico"
+      ]
+    },
+    {
+      "name": "Nebulosa Celeste di Terrafirma",
+      "ordine": null,
+      "ingredients": [
+        "Fusilli del Vento",
+        "Carne di Drago",
+        "Carne di Balena spaziale",
+        "Uovo di Fenice",
+        "Pane di Luce",
+        "Lacrime di Unicorno"
+      ],
+      "techniques": [
+        "Amalgamazione Sintetica Molecolare",
+        "Affumicatura temporale risonante"
+      ]
+    }
+  ]
+}

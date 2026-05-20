@@ -1,0 +1,154 @@
+{
+  "restaurant": "Il Firmamento",
+  "chef": "Maestro Alessio Eterno Stellaris",
+  "planet": "Ego",
+  "licenses": {
+    "Psionica": 4,
+    "Temporale": 2,
+    "Gravitazionale": 1,
+    "Antimateria": 1,
+    "Magnetica": 1,
+    "Quantistica": 2,
+    "Luce": 2
+  },
+  "ltk": 4,
+  "ordini": [],
+  "dishes": [
+    {
+      "name": "Galassia di Fusilli Sferici alla Risonanza Crononica",
+      "ordine": null,
+      "ingredients": [
+        "Fusilli del Vento",
+        "Nettare di Sirena",
+        "Carne di Kraken",
+        "Balena Spaziale",
+        "Salsa Szechuan",
+        "Farina di Nettuno",
+        "Polvere di Crononite",
+        "Fibra di Sintetex"
+      ],
+      "techniques": [
+        "Bollitura Infrasonica Armonizzata",
+        "Impasto a Campi Magnetici Dualistici"
+      ]
+    },
+    {
+      "name": "Galassia Rinascente",
+      "ordine": null,
+      "ingredients": [
+        "Lattuga Namecciana",
+        "Muffa Lunare",
+        "Carne di Drago",
+        "Uovo di Fenice",
+        "Biscotti della Galassia",
+        "Carne delle Teste di Idra"
+      ],
+      "techniques": [
+        "Vero Ghiaccio",
+        "Cottura a Vapore Ecodinamico Bilanciato",
+        "Bollitura Entropica Sincronizzata"
+      ]
+    },
+    {
+      "name": "Mandragora e Radici",
+      "ordine": null,
+      "ingredients": [
+        "Polvere di Stelle",
+        "Radici di Gravità",
+        "Foglie di Mandragora",
+        "Lacrime di Unicorno",
+        "Nduja Fritta Tanto"
+      ],
+      "techniques": [
+        "Congelamento Bio-Luminiscente Sincronico",
+        "Cottura Sottovuoto Bioma Sintetico",
+        "Cottura Sottovuoto Pulsar Magnetica"
+      ]
+    },
+    {
+      "name": "Galaxia Rinasciata",
+      "ordine": null,
+      "ingredients": [
+        "Uova di Fenice",
+        "Lacrime di Unicorno",
+        "Spezie Melange",
+        "Baccacedro",
+        "Biscotti della Galassia"
+      ],
+      "techniques": [
+        "Modellatura Onirica Tetrazionale",
+        "Surgelamento Antimaterico a Risonanza Inversa",
+        "Affumicatura Psionica Sensoriale",
+        "Cottura a Vapore Ecodinamico Bilanciato",
+        "Cottura a Vapore Ecodinamico Bilanciato"
+      ]
+    },
+    {
+      "name": "Cosmic Harmony",
+      "ordine": null,
+      "ingredients": [
+        "Foglie di Mandragora",
+        "Radici di Gravità",
+        "Lacrime di Unicorno",
+        "Lattuga Namecciana",
+        "Petali di Eco"
+      ],
+      "techniques": [
+        "Cryo-Tessitura Energetica Polarizzata",
+        "Decostruzione Atomica a Strati Energetici",
+        "Affumicatura Psionica Sensoriale"
+      ]
+    },
+    {
+      "name": "Nebulosa di Sapori Quantici",
+      "ordine": null,
+      "ingredients": [
+        "Riso di Cassandra",
+        "Funghi Orbitali",
+        "Essenza di Vuoto",
+        "Radici di Singolarità",
+        "Cristalli di Nebulite"
+      ],
+      "techniques": [
+        "Bollitura Infrasonica Armonizzata",
+        "Grigliatura Elettro-Molecolare a Spaziatura Variabile",
+        "Decostruzione Magnetica Risonante"
+      ]
+    },
+    {
+      "name": "Galassia in Tavola: Sinfonia dei Sensi",
+      "ordine": null,
+      "ingredients": [
+        "Spaghi del Sole",
+        "Gnocchi del Crepuscolo",
+        "Muffa Lunare",
+        "Baccacedro",
+        "Spezie Melange"
+      ],
+      "techniques": [
+        "Cottura a Vapore con Flusso di Particelle Isoarmoniche",
+        "Congelamento BioLuminiscente Sincronico",
+        "Cottura Sottovuoto Pulsar Magnetica"
+      ]
+    },
+    {
+      "name": "Galassie alla Spirale di Vento con Sfera di Ghiaccio Eterno",
+      "ordine": null,
+      "ingredients": [
+        "Fusilli del Vento",
+        "Carne di Xenodonte",
+        "Teste di Idra",
+        "Farina di Nettuno",
+        "Gnocchi del Crepuscolo",
+        "Vero Ghiaccio",
+        "Radici di Gravità",
+        "Lacrime di Andromeda"
+      ],
+      "techniques": [
+        "Marinatura Psionica",
+        "Modellazione Onirica Tetrazionale",
+        "Polarizzata a Freddo Iperbarico"
+      ]
+    }
+  ]
+}

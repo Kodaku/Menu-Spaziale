@@ -1,0 +1,244 @@
+{
+  "restaurant": "Universo Gastronomico di Namecc",
+  "chef": "Alice Quantum-Rossi",
+  "planet": "Namecc",
+  "licenses": {
+    "Psionica": 2,
+    "Temporale": 1,
+    "Gravitazionale": 1,
+    "Antimateria": 0,
+    "Magnetica": 1,
+    "Quantistica": 15,
+    "Luce": 1
+  },
+  "ltk": 6,
+  "ordini": [
+    "Andromeda",
+    "Naturalisti",
+    "Armonisti"
+  ],
+  "dishes": [
+    {
+      "name": "Risotto dei Multiversi",
+      "ordine": null,
+      "ingredients": [
+        "Riso di Cassandra",
+        "Cristalli di Nebulite",
+        "Lacrime di Unicorno",
+        "Sale Temporale",
+        "Spaghi del Sole",
+        "Fermentazione Psionica Energetica",
+        "Decostruzione Interdimensionale Lovecraftiana",
+        "Cottura Olografica Quantum Fluttuante",
+        "Affumicatura Psionica Sensoriale"
+      ],
+      "techniques": [
+        "Cottura a Vapore Ecodinamico Bilanciato",
+        "Cottura a Vapore Ecodinamico Bilanciato",
+        "Cottura Olografica Quantum Fluttuante",
+        "Affumicatura Psionica Sensoriale"
+      ]
+    },
+    {
+      "name": "Panetto di Carne",
+      "ordine": null,
+      "ingredients": [
+        "Farina di Nettuno",
+        "Funghi Orbitali",
+        "Pane di Luce",
+        "Carne di Kraken",
+        "Xenodonte",
+        "Sale Temporale",
+        "Cristalli di Nebulite",
+        "Pane degli Abissi"
+      ],
+      "techniques": [
+        "Decostruzione Interdimensionale Lovecraftiana",
+        "Affumicatura Temporale Risonante",
+        "Sferificazione Filamentare a Molecole Vibrazionali",
+        "Affumicatura Polarizzata a Freddo Iperbarico"
+      ]
+    },
+    {
+      "name": "Cosmos Risotto Reale",
+      "ordine": null,
+      "ingredients": [
+        "Amido di Stellarion",
+        "Carne di Kraken",
+        "Funghi Orbitali",
+        "Pane di Luce",
+        "Essenza di Vuoto",
+        "Ghiaccio di Criofenice"
+      ],
+      "techniques": [
+        "Saltare in Padella Realtà Energetiche Parallele",
+        "Bollitura Infrasonica Armonizzata",
+        "Cottura a Vapore Ecodinamico Bilanciato"
+      ]
+    },
+    {
+      "name": "Vero Ghiaccio",
+      "ordine": null,
+      "ingredients": [
+        "Ghiaccio"
+      ],
+      "techniques": [
+        "Taglio a Risonanza Sonica Rigenerativa"
+      ]
+    },
+    {
+      "name": "Radici di Singolarità",
+      "ordine": null,
+      "ingredients": [
+        "Radici di Singolarità"
+      ],
+      "techniques": []
+    },
+    {
+      "name": "Carne di Balena spaziale",
+      "ordine": null,
+      "ingredients": [
+        "Carne di Balena spaziale",
+        "Muffa Lunare"
+      ],
+      "techniques": [
+        "Marinatura Temporale Sincronizzata"
+      ]
+    },
+    {
+      "name": "Foglie di Mandragora",
+      "ordine": null,
+      "ingredients": [
+        "Foglie di Mandragora"
+      ],
+      "techniques": []
+    },
+    {
+      "name": "Pane di Luce",
+      "ordine": null,
+      "ingredients": [
+        "Pane di Luce"
+      ],
+      "techniques": [
+        "Cotto al calore di una lontana stella"
+      ]
+    },
+    {
+      "name": "Petali di Eco",
+      "ordine": null,
+      "ingredients": [
+        "Petali di Eco"
+      ],
+      "techniques": []
+    },
+    {
+      "name": "La Balena incontra la Mandragora",
+      "ordine": null,
+      "ingredients": [
+        "Ghiaccio",
+        "Radici di Singolarità",
+        "Carne di Balena spaziale",
+        "Muffa Lunare",
+        "Foglie di Mandragora",
+        "Pane di Luce",
+        "Petali di Eco"
+      ],
+      "techniques": [
+        "Taglio a Risonanza Sonica Rigenerativa",
+        "Marinatura Temporale Sincronizzata",
+        "Cotto al calore di una lontana stella"
+      ]
+    },
+    {
+      "name": "Armonia Cosmica della Fenice",
+      "ordine": null,
+      "ingredients": [
+        "Polvere di Stelle",
+        "Carne di mucca",
+        "Uova di Fenice",
+        "Fibra di Sintetex",
+        "Lacrime di Unicorno",
+        "Essenza di Tachioni"
+      ],
+      "techniques": [
+        "Taglio a Risonanza Sonica Rigenerativa",
+        "Fermentazione psionica energetica",
+        "Decostruzione Magnetica Risonante",
+        "Decostruzione Interdimensionale Lovecraftiana",
+        "Cottura Sottovuoto Bioma Sintetico"
+      ]
+    },
+    {
+      "name": "Fenice Galattica",
+      "ordine": null,
+      "ingredients": [
+        "Riso di Cassandra",
+        "Cristalli di Nebulite",
+        "Alghe Bioluminescenti",
+        "Lattuga Namecciana",
+        "Uova di Fenice",
+        "Muffa Lunare"
+      ],
+      "techniques": [
+        "Marinatura Temporale Sincronizzata",
+        "Congelazione Iperdimensionalmente Stratificata",
+        "Cottura con Microonde Entropiche Sincronizzate",
+        "Bioma Sintetico"
+      ]
+    },
+    {
+      "name": "Rapsodia Quantistica nel Cosmo",
+      "ordine": null,
+      "ingredients": [
+        "Carne di Balena Spaziale",
+        "terra",
+        "Carne di Xenodonte",
+        "Nebulite",
+        "Fibra di Sintetex",
+        "Lacrime di Unicorno"
+      ],
+      "techniques": [
+        "Risonanza Sonica Rigenerativa",
+        "Pulsazioni Quantistiche",
+        "Marinatura Sotto Zero a Polarità Inversa"
+      ]
+    },
+    {
+      "name": "Galassia di Sapore Quantum",
+      "ordine": null,
+      "ingredients": [
+        "Fusilli del Vento",
+        "Alghe Bioluminescenti",
+        "Risotto dei Multiversi",
+        "Polvere di Crononite",
+        "Biscotti della Galassia",
+        "Essenza di Tachioni"
+      ],
+      "techniques": [
+        "Idro-Cristallizzazione Sonora Quantistica",
+        "Cottura a Vapore Ecodinamico Bilanciato"
+      ]
+    },
+    {
+      "name": "Tris di Carne con Pane",
+      "ordine": null,
+      "ingredients": [
+        "Pane di Luce",
+        "Carne di Xenodonte",
+        "Carne di Kraken",
+        "Fusilli del Vento",
+        "Cristalli di Memoria",
+        "Pane degli Abissi",
+        "Sale Temporale",
+        "Lacrime di Unicorno"
+      ],
+      "techniques": [
+        "Impasto a Campi Magnetici Dualistici",
+        "Decostruzione Magnetica Risonante",
+        "Ebollizione Magneto-Cinetica Pulsante",
+        "Sferificazione Filamentare a Molecole Vibrazionali",
+        "Cottura Olografica Quantum Fluttuante"
+      ]
+    }
+  ]
+}

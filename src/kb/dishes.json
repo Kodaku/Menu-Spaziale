@@ -1,0 +1,5953 @@
+{
+  "restaurants": [
+    {
+      "restaurant": "Anima Cosmica",
+      "chef": "Aurora Stellaris",
+      "planet": "Pandora",
+      "licenses": {
+        "Psionica": 3,
+        "Temporale": 1,
+        "Gravitazionale": 1,
+        "Antimateria": 1,
+        "Magnetica": 0,
+        "Quantistica": 16,
+        "Luce": 2
+      },
+      "ltk": 2,
+      "ordini": [
+        "Naturalisti",
+        "Armonisti"
+      ],
+      "dishes": [
+        {
+          "name": "Nebulosa Celestiale alla Stellaris",
+          "ordine": null,
+          "ingredients": [
+            "Carne di Balena Spaziale",
+            "Carne di Mucca",
+            "Funghi dell’Etere",
+            "Riso di Cassandra",
+            "Shard di Materia Oscura",
+            "Teste di Idra",
+            "Biscotti della Galassia",
+            "Pane di Luce",
+            "Spezie Melange"
+          ],
+          "techniques": [
+            "Cottura a Vapore Termocinetica Multipla",
+            "Cottura con Microonde Entropiche Sincronizzate",
+            "Taglio a Risonanza Sonica Rigenerativa",
+            "Cottura a Vapore con Flusso di Particelle Isoarmoniche"
+          ]
+        },
+        {
+          "name": "Sinfonia Cosmica ma Fatta Male",
+          "ordine": null,
+          "ingredients": [
+            "Granuli di Nebbia Arcobaleno",
+            "Funghi dell’Etere",
+            "Radici di Singolarità",
+            "Lattuga Namecciana",
+            "Baccacedro",
+            "Polvere di Pulsar",
+            "Erba Pipa"
+          ],
+          "techniques": [
+            "Affumicatura a Stratificazione Quantica",
+            "Cottura a Forno Dinamico Inversionale"
+          ]
+        },
+        {
+          "name": "Astro-Risotto alle Onde Temporali",
+          "ordine": null,
+          "ingredients": [
+            "Polvere di Pulsar",
+            "Foglie di Nebulosa",
+            "Radici di Singolarità",
+            "Baccacedro",
+            "Sale Temporale"
+          ],
+          "techniques": [
+            "Saltare in Padella Classica",
+            "Marinatura tramite Reazioni d'Antimateria Diluite"
+          ]
+        },
+        {
+          "name": "Sinfonia Galattica alla Griglia Cangiante",
+          "ordine": null,
+          "ingredients": [
+            "Shard di Materia Oscura",
+            "Teste di Idra",
+            "Amido di Stellarion",
+            "Fusilli del Vento",
+            "Spore Quantiche",
+            "Erba Pipa"
+          ],
+          "techniques": [
+            "Congelamento Bio-Luminiscente Sincronico",
+            "Bollitura Infrasonica Armonizzata",
+            "Marinatura a Infusione Gravitazionale",
+            "Grigliatura Eletro-Molecolare a Spaziatura Variabile"
+          ]
+        },
+        {
+          "name": "Galassie Infiammate: Sinfonia Cosmica in Sei Dimensioni",
+          "ordine": null,
+          "ingredients": [
+            "Frammenti di Supernova",
+            "Uova di Fenice",
+            "Carne di Mucca",
+            "Riso di Cassandra",
+            "Spaghi del Sole",
+            "Biscotti della Galassia",
+            "Lacrime di Unicorno",
+            "Nduja Fritta Tanto"
+          ],
+          "techniques": [
+            "Cottura a Vapore Ecodinamico Bilanciato",
+            "Cottura Idrodinamica Autoregolante",
+            "Marinatura tramite Reazioni d'Antimateria Diluite",
+            "Bollitura Termografica a Rotazione Veloce"
+          ]
+        },
+        {
+          "name": "Galassie Sospese: Un Viaggio di Sapori Cosmogalattici",
+          "ordine": null,
+          "ingredients": [
+            "Cristalli di Memoria",
+            "Radici di Gravità",
+            "Pane degli Abissi",
+            "Biscotti della Galassia",
+            "Lacrime di Unicorno",
+            "Nduja Fritta Tanto"
+          ],
+          "techniques": [
+            "Affumicatura a Stratificazione Quantica",
+            "Cottura a Vapore Termocinetica Multipla",
+            "Marinatura Temporale Sincronizzata"
+          ]
+        },
+        {
+          "name": "Pioggia di Andromeda",
+          "ordine": "Andromeda",
+          "ingredients": [
+            "Cristalli di Memoria",
+            "Lattuga Namecciana",
+            "Radici di Singolarità",
+            "Carne di Kraken",
+            "Uova di Fenice",
+            "Fibra di Sintetex",
+            "Fusilli del Vento",
+            "Lacrime di Andromeda",
+            "Essenza di Speziaria"
+          ],
+          "techniques": [
+            "Bollitura Termografica a Rotazione Veloce",
+            "Bollitura Infrasonica Armonizzata",
+            "Cottura Idrodinamica Autoregolante",
+            "Sinergia Elettro-Osmotica Programmabile",
+            "Marinatura Temporale Sincronizzata"
+          ]
+        },
+        {
+          "name": "Sinfonia Cosmica ma Fatta Bene",
+          "ordine": null,
+          "ingredients": [
+            "Shard di Materia Oscura",
+            "Colonia di Mycoflora",
+            "Carne di Balena spaziale",
+            "Amido di Stellarion",
+            "Nettare di Sirena",
+            "Petali di Eco"
+          ],
+          "techniques": [
+            "Affumicatura Temporale Risonante",
+            "Congelamento Bio-Luminiscente Sincronico",
+            "Bollitura Infrasonica Armonizzata",
+            "Impasto Gravitazionale Vorticoso"
+          ]
+        },
+        {
+          "name": "Odissea Cosmica di Nettuno",
+          "ordine": null,
+          "ingredients": [
+            "Pane di Luce",
+            "Farina di Nettuno",
+            "Amido di Stellarion",
+            "Nettare di Sirena",
+            "Essenza di Vuoto"
+          ],
+          "techniques": [
+            "Bollitura Infrasonica Armonizzata",
+            "Cottura Sottovuoto Frugale Energeticamente Negativa",
+            "Bollitura Termografica a Rotazione Veloce"
+          ]
+        },
+        {
+          "name": "Galassia Commovente di Stellari",
+          "ordine": null,
+          "ingredients": [
+            "Polvere di Stelle",
+            "Alghe Bioluminescenti",
+            "Baccacedro",
+            "Carne di Balena spaziale",
+            "Teste di Idra",
+            "Fibra di Sintetex",
+            "Funghi Orbitali",
+            "Essenza di Tachioni"
+          ],
+          "techniques": [
+            "Grigliatura Eletro-Molecolare a Spaziatura Variabile",
+            "Marinatura a Infusione Gravitazionale",
+            "Cryo-Tessitura Energetica Polarizzata"
+          ]
+        }
+      ]
+    },
+    {
+      "restaurant": "Armonia Universale",
+      "chef": "Maestro Alessandro Stellanova",
+      "planet": "Pandora",
+      "licenses": {
+        "Psionica": 1,
+        "Temporale": null,
+        "Gravitazionale": 1,
+        "Antimateria": 0,
+        "Magnetica": 1,
+        "Quantistica": 8,
+        "Luce": 2
+      },
+      "ltk": 5,
+      "ordini": [],
+      "dishes": [
+        {
+          "name": "Sinfonia Cosmica Versione Pizza",
+          "ordine": null,
+          "ingredients": [
+            "Polvere di Pulsar",
+            "Radici di Gravità",
+            "Radici di Singolarità",
+            "Spaghi del Sole",
+            "Riso di Cassandra",
+            "Farina di Nettuno",
+            "Funghi Orbitali",
+            "Spezie Melange",
+            "Cioccorane"
+          ],
+          "techniques": [
+            "Amalgamazione Sintetica Molecolare",
+            "Cottura a Vapore con Flusso di Particelle Isoarmoniche",
+            "Impasto Gravitazionale Vorticoso"
+          ]
+        },
+        {
+          "name": "Galassia di Sapore Interstellare",
+          "ordine": null,
+          "ingredients": [
+            "Frammenti di Supernova",
+            "Colonia di Mycoflora",
+            "Foglie di Nebulosa",
+            "Carne di Mucca",
+            "Fibra di Sintetex",
+            "Carne di Kraken",
+            "Spaghi del Sole",
+            "Nettare di Sirena",
+            "Spezie Melange",
+            "Burrobirra"
+          ],
+          "techniques": [
+            "Impasto a Campi Magnetici Dualistici",
+            "Decostruzione Magnetica Risonante",
+            "Amalgamazione Sintetica Molecolare",
+            "Bollitura Infrasonica Armonizzata"
+          ]
+        },
+        {
+          "name": "Sinfonia Cosmica di Sapore",
+          "ordine": null,
+          "ingredients": [
+            "Shard di Materia Oscura",
+            "Carne di Xenodonte",
+            "Fibra di Sintetex",
+            "Farina di Nettuno",
+            "Granuli di Nebbia Arcobaleno",
+            "Nduja Fritta",
+            "Tanto Ravioli al Vaporeon"
+          ],
+          "techniques": [
+            "Idro-Cristallizzazione Sonora Quantistica",
+            "Saltare in Padella Realtà Energetiche Parallele",
+            "Sferificazione tramite Matrici Biofotiche",
+            "Affumicatura a Stratificazione Quantica",
+            "Sferificazione con Campi Magnetici Entropici"
+          ]
+        },
+        {
+          "name": "Sinfonia Cosmica di Luminiscenze e Contrasti",
+          "ordine": null,
+          "ingredients": [
+            "Uova di Fenice",
+            "Carne di Drago",
+            "Carne di Kraken",
+            "Amido di Stellarion",
+            "Riso di Cassandra",
+            "Spezie Melange",
+            "Slurm"
+          ],
+          "techniques": [
+            "Ebollizione Magneto-Cinetica Pulsante",
+            "Grigliatura Eletro-Molecolare a Spaziatura Variabile"
+          ]
+        },
+        {
+          "name": "Sinfonia Cosmica in Otto Movimenti",
+          "ordine": null,
+          "ingredients": [
+            "Frammenti di Supernova",
+            "Foglie di Nebulosa",
+            "Alghe Bioluminescenti",
+            "Fibra di Sintetex",
+            "Carne di Mucca",
+            "Gnocchi del Crepuscolo",
+            "Lacrime di Andromeda",
+            "Spezie Melange"
+          ],
+          "techniques": [
+            "Sferificazione con Campi Magnetici Entropici",
+            "Saltare in Padella Classica",
+            "Bollitura Termografica a Rotazione Veloce",
+            "Grigliatura Eletro-Molecolare a Spaziatura Variabile"
+          ]
+        },
+        {
+          "name": "Portale Cosmico Sinfonia di Gnocchi del Crepuscolo con Essenza di Tachioni e Sfumature di Fenice",
+          "ordine": null,
+          "ingredients": [
+            "Shard di Materia Oscura",
+            "Uova di Fenice",
+            "Gnocchi del Crepuscolo",
+            "Plasma Vitale",
+            "Essenza di Tachioni"
+          ],
+          "techniques": [
+            "Bollitura Infrasonica Armonizzata",
+            "Cottura a Vapore Ecodinamico Bilanciato",
+            "Decostruzione Magnetica Risonante",
+            "Cottura a Vapore con Flusso di Particelle Isoarmoniche",
+            "Affumicatura Polarizzata a Freddo Iperbarico"
+          ]
+        },
+        {
+          "name": "Sinfonia Cosmica Versione Data",
+          "ordine": null,
+          "ingredients": [
+            "Polvere di Stelle",
+            "Radici di Gravità",
+            "Colonia di Mycoflora",
+            "Fusilli del Vento",
+            "Pane degli Abissi",
+            "Essenza di Tachioni"
+          ],
+          "techniques": [
+            "Cottura a Vapore Termocinetica Multipla",
+            "Affumicatura a Stratificazione Quantica",
+            "Fermentazione Psionica Energetica"
+          ]
+        },
+        {
+          "name": "Sinfonia Cosmologica",
+          "ordine": null,
+          "ingredients": [
+            "Shard di Materia Oscura",
+            "Radici di Gravità",
+            "Foglie di Nebulosa",
+            "Biscotti della Galassia",
+            "Essenza di Vuoto"
+          ],
+          "techniques": [
+            "Affettamento a Pulsazioni Quantistiche",
+            "Cottura Sottovuoto Pulsar Magnetica",
+            "Marinatura Sotto Zero a Polarità Inversa",
+            "Grigliatura Eletro-Molecolare a Spaziatura Variabile"
+          ]
+        },
+        {
+          "name": "Sinfonia Cosmica di Armonie Terrestri e Celesti",
+          "ordine": null,
+          "ingredients": [
+            "Cristalli di Memoria",
+            "Uova di Fenice",
+            "Carne di Kraken",
+            "Fibra di Sintetex",
+            "Granuli di Nebbia Arcobaleno",
+            "Lacrime di Andromeda",
+            "Spezie Melange"
+          ],
+          "techniques": [
+            "Sferificazione tramite Matrici Biofotiche",
+            "Idro-Cristallizzazione Sonora Quantistica",
+            "Affettamento a Pulsazioni Quantistiche",
+            "Cottura Sottovuoto Pulsar Magnetica"
+          ]
+        },
+        {
+          "name": "Cosmo Sferico di Sogni Rigenerativi",
+          "ordine": null,
+          "ingredients": [
+            "Radici di Gravità",
+            "Baccacedro",
+            "Lattuga Namecciana",
+            "Teste di Idra",
+            "Carne di Xenodonte",
+            "Farina di Nettuno",
+            "Nettare di Sirena"
+          ],
+          "techniques": [
+            "Sferificazione con Campi Magnetici Entropici",
+            "Cottura a Vapore Ecodinamico Bilanciato",
+            "Congelamento Bio-Luminiscente Sincronico"
+          ]
+        }
+      ]
+    },
+    {
+      "restaurant": "Cosmica Essenza",
+      "chef": "Aurelio Starweaver Celestini",
+      "planet": "Tatooine",
+      "licenses": {
+        "Psionica": 5,
+        "Temporale": null,
+        "Gravitazionale": 3,
+        "Antimateria": 1,
+        "Magnetica": null,
+        "Quantistica": 9,
+        "Luce": 2
+      },
+      "ltk": 3,
+      "ordini": [],
+      "dishes": [
+        {
+          "name": "Galassie in Epifania Risotto Celestiale con Preziosi dellUniverso",
+          "ordine": null,
+          "ingredients": [
+            "Polvere di Pulsar",
+            "Carne di Xenodonte",
+            "Carne di Balena spaziale",
+            "Teste di Idra",
+            "Spaghi del Sole",
+            "Riso di Cassandra",
+            "Farina di Nettuno",
+            "Lacrime di Andromeda",
+            "Petali di Eco"
+          ],
+          "techniques": [
+            "Marinatura a Infusione Gravitazionale",
+            "Cryo-Tessitura Energetica Polarizzata",
+            "Saltare in Padella Classica",
+            "Cottura Olografica Quantum Fluttuante"
+          ]
+        },
+        {
+          "name": "Galassia Suprema",
+          "ordine": null,
+          "ingredients": [
+            "Shard di Prisma Stellare",
+            "Foglie di Nebulosa",
+            "Carne di Drago",
+            "Carne di Mucca",
+            "Fibra di Sintetex",
+            "Lacrime di Unicorno",
+            "Essenza di Tachioni"
+          ],
+          "techniques": [
+            "Idro-Cristallizzazione Sonora Quantistica",
+            "Cottura Sottovuoto Antimateria",
+            "Taglio a Risonanza Sonica Rigenerativa",
+            "Bollitura Infrasonica Armonizzata"
+          ]
+        },
+        {
+          "name": "Fusione Celeste",
+          "ordine": null,
+          "ingredients": [
+            "Radici di Singolarità",
+            "Foglie di Nebulosa",
+            "Colonia di Mycoflora",
+            "Carne di Mucca",
+            "Carne di Kraken",
+            "Riso di Cassandra",
+            "Fusilli del Vento",
+            "Biscotti della Galassia",
+            "Spore Quantiche",
+            "Essenza di Speziaria"
+          ],
+          "techniques": [
+            "Cryo-Tessitura Energetica Polarizzata",
+            "Sferificazione a Gravità Psionica Variabile",
+            "Bollitura Termografica a Rotazione Veloce"
+          ]
+        },
+        {
+          "name": "Sinfonia Cosmica di Andromeda",
+          "ordine": null,
+          "ingredients": [
+            "Foglie di Mandragora",
+            "Radici di Singolarità",
+            "Riso di Cassandra",
+            "Lacrime di Andromeda",
+            "Petali di Eco"
+          ],
+          "techniques": [
+            "Cottura Sottovuoto Antimateria",
+            "Sferificazione a Gravità Psionica Variabile"
+          ]
+        },
+        {
+          "name": "Risveglio Cosmico Una Sinfonia di Sapori Universali",
+          "ordine": null,
+          "ingredients": [
+            "Shard di Prisma Stellare",
+            "Lattuga Namecciana",
+            "Carne di Mucca",
+            "Fibra di Sintetex",
+            "Amido di Stellarion",
+            "Riso di Cassandra",
+            "Muffa Lunare",
+            "Erba Pipa"
+          ],
+          "techniques": [
+            "Grigliatura Psionica Dinamica Ritmica",
+            "Cottura a Vapore Ecodinamico Bilanciato"
+          ]
+        },
+        {
+          "name": "Galassia Incantata Un Viaggio Attraverso lInfinito",
+          "ordine": null,
+          "ingredients": [
+            "Shard di Materia Oscura",
+            "Carne di Xenodonte",
+            "Teste di Idra",
+            "Fibra di Sintetex",
+            "Riso di Cassandra",
+            "Pane di Luce",
+            "Pane degli Abissi",
+            "Nduja Fritta",
+            "Tanto"
+          ],
+          "techniques": [
+            "Grigliatura Psionica Dinamica Ritmica",
+            "Cottura a Forno Dinamico Inversionale",
+            "Cottura a Vapore Risonante Simbiotico"
+          ]
+        },
+        {
+          "name": "Sinfonia Celestiale di Echi Galattici",
+          "ordine": null,
+          "ingredients": [
+            "Baccacedro",
+            "Fibra di Sintetex",
+            "Carne di Balena spaziale",
+            "Carne di Kraken",
+            "Lacrime di Unicorno"
+          ],
+          "techniques": [
+            "Cottura Idrodinamica Autoregolante",
+            "Fermentazione Psionica Energetica",
+            "Affettamento a Pulsazioni Quantistiche",
+            "Decostruzione Atomica a Strati Energetici",
+            "Cottura con Microonde Entropiche Sincronizzate"
+          ]
+        },
+        {
+          "name": "Porta Celestiale alle Stelle",
+          "ordine": null,
+          "ingredients": [
+            "Vero Ghiaccio",
+            "Liane di Plasmodio",
+            "Carne di Kraken",
+            "Teste di Idra",
+            "Funghi dellEtere",
+            "Erba Pipa"
+          ],
+          "techniques": [
+            "Bollitura Entropica Sincronizzata",
+            "Cottura Sottovuoto Frugale Energeticamente Negativa",
+            "Marinatura a Infusione Gravitazionale"
+          ]
+        },
+        {
+          "name": "Sinfonia Celeste dellEquilibrio Temporale",
+          "ordine": null,
+          "ingredients": [
+            "Polvere di Crononite",
+            "Carne di Balena spaziale",
+            "Carne di Mucca",
+            "Uova di Fenice",
+            "Funghi dellEtere",
+            "Spezie Melange"
+          ],
+          "techniques": [
+            "Idro-Cristallizzazione Sonora Quantistica",
+            "Cryo-Tessitura Energetica Polarizzata",
+            "Sinergia Elettro-Osmotica Programmabile"
+          ]
+        },
+        {
+          "name": "Il Risveglio delle Stelle",
+          "ordine": null,
+          "ingredients": [
+            "Polvere di Stelle",
+            "Baccacedro",
+            "Carne di Balena spaziale",
+            "Biscotti della Galassia",
+            "Pane degli Abissi",
+            "Muffa Lunare"
+          ],
+          "techniques": [
+            "Marinatura a Infusione Gravitazionale",
+            "Marinatura tramite Reazioni dAntimateria Diluite"
+          ]
+        }
+      ]
+    },
+    {
+      "restaurant": "Datapizza",
+      "chef": "Alessandro-Pierpaolo-Jack Quantum",
+      "planet": "Pandora",
+      "licenses": {
+        "Psionica": 0,
+        "Temporale": 2,
+        "Gravitazionale": 0,
+        "Antimateria": 1,
+        "Magnetica": 1,
+        "Quantistica": 11,
+        "Luce": 1
+      },
+      "ltk": 9,
+      "ordini": [
+        "Andromeda",
+        "Naturalisti",
+        "Armonisti"
+      ],
+      "dishes": [
+        {
+          "name": "Pizza Fra",
+          "ordine": "Andromeda",
+          "ingredients": [
+            "Amido di Stellarion",
+            "Fibra di Sintetex",
+            "Vero Ghiaccio",
+            "Radici di Gravità",
+            "Baccacedro",
+            "Lacrime di Unicorno",
+            "Farina di Nettuno",
+            "Salsa Szechuan"
+          ],
+          "techniques": [
+            "Forno Dinamico Inversionale",
+            "Affettamento a Pulsazioni Quantistiche",
+            "Marinatura Temporale Sincronizzata",
+            "Fermentazione Quantico Biometrica",
+            "Ebollizione Magneto-Cinetica Pulsante"
+          ]
+        },
+        {
+          "name": "Pizza Gio",
+          "ordine": null,
+          "ingredients": [
+            "Pane di Luce",
+            "Risotto malinconico",
+            "Cristalli di Memoria",
+            "Lacrime di Andromeda",
+            "Radici di Gravità",
+            "Liane di Plasmodio",
+            "Erba Pipa"
+          ],
+          "techniques": [
+            "Sferificazione Filamentare a Molecole Vibrazionali",
+            "Idro-Cristallizzazione Sonora Quantistica",
+            "Affumicatura Temporale Risonante",
+            "Marinatura tramite Reazioni d'Antimateria Diluite",
+            "Ebollizione Magneto-Cinetica Pulsante"
+          ]
+        },
+        {
+          "name": "Pizza Emma",
+          "ordine": null,
+          "ingredients": [
+            "Liane di Plasmodio",
+            "Colonia di Mycoflora",
+            "Funghi dell'Etere",
+            "Foglie di Mandragora",
+            "Essenza di Speziaria",
+            "Farina di Nettuno"
+          ],
+          "techniques": [
+            "Affettamento a Pulsazioni Quantistiche",
+            "Cottura con microonde e entropiche sincronizzate",
+            "Idro-Cristallizzazione Sonora Quantistica",
+            "Congelazione Iperdimensionalmente Stratificata"
+          ]
+        },
+        {
+          "name": "Pizza Luca",
+          "ordine": null,
+          "ingredients": [
+            "Riso di Cassandra",
+            "Amido di Stellarion",
+            "Farina di Nettuno",
+            "Spore Quantiche",
+            "Essenza di Vuoto",
+            "Radici di Gravità"
+          ],
+          "techniques": [
+            "Marinatura Sotto Zero a Polarità Inversa",
+            "Cottura a Forno Dinamico Inversionale",
+            "Affumicatura a Stratificazione Quantica",
+            "Decostruzione Magnetica Risonante"
+          ]
+        },
+        {
+          "name": "Pizza Raul",
+          "ordine": null,
+          "ingredients": [
+            "Idra",
+            "Riso di Cassandra",
+            "Farina di Nettuno",
+            "Lacrime di Unicorno",
+            "Essenza di Speziaria"
+          ],
+          "techniques": [
+            "Marinatura Sotto Zero a Polarità Inversa",
+            "Cottura a Forno Dinamico Inversionale",
+            "Affumicatura a Stratificazione Quantica"
+          ]
+        },
+        {
+          "name": "Pizza Cri",
+          "ordine": "Armonisti",
+          "ingredients": [
+            "Fusilli del Vento",
+            "Funghi dell'Etere",
+            "Essenza di Speziaria",
+            "Cristalli di Memoria",
+            "Farina di Nettuno",
+            "Radici di Gravità",
+            "Uova di Fenice"
+          ],
+          "techniques": [
+            "Sferificazione con Campi Magnetici Entropici",
+            "Affumicatura a Stratificazione Quantica",
+            "Idro-Cristallizzazione Sonora Quantistica",
+            "Congelazione Iperdimensionalmente Stratificata"
+          ]
+        },
+        {
+          "name": "Pizza Baby Daniele",
+          "ordine": null,
+          "ingredients": [
+            "Spaghi del Sole",
+            "Carne di Balena Spaziale",
+            "Lacrime di Andromeda",
+            "Foglie di Nebulosa",
+            "Radici di Singolarità",
+            "Uova di Fenice",
+            "Biscotti della Galassia",
+            "Frammenti di Supernova"
+          ],
+          "techniques": [
+            "Cottura a Vapore Termocinetica Multipla",
+            "Bollitura Termografica a Rotazione Veloce",
+            "Grigliatura Elettro-Molecolare a Spaziatura Variabile",
+            "Congelazione Iperdimensionalmente Stratificata"
+          ]
+        },
+        {
+          "name": "Pizza Baby Lorenzo",
+          "ordine": "Naturalisti",
+          "ingredients": [
+            "Riso di Cassandra",
+            "Carne di Balena spaziale",
+            "Carne di Drago",
+            "Radici di Gravità",
+            "Uova di Fenice",
+            "Baccacedro",
+            "Sale Temporale",
+            "Pane di Luce"
+          ],
+          "techniques": [
+            "Bollitura Entropica Sincronizzata",
+            "Amalgamazione Sintetica Molecolare",
+            "Idro-Cristallizzazione Sonora Quantistica"
+          ]
+        },
+        {
+          "name": "Pizza Baby Simone e Alessandro",
+          "ordine": null,
+          "ingredients": [
+            "Fusilli del Vento",
+            "Spaghi del Sole",
+            "Nduja Fritta",
+            "Radici di Singolarità",
+            "Carne di Xenodonte",
+            "Pane di Luce",
+            "Lattuga Namecciana",
+            "Baccacedro"
+          ],
+          "techniques": [
+            "Taglio a Risonanza Sonica",
+            "Forno dinamico inversionale",
+            "Bollitura Termografica a Rotazione Veloce",
+            "Cryo-Jeansatura Energetica Polarizzata"
+          ]
+        }
+      ]
+    },
+    {
+      "restaurant": "L'Eco di Pandora",
+      "chef": "Alessandra Novastella",
+      "planet": "Pandora",
+      "licenses": {
+        "Psionica": 3,
+        "Temporale": 1,
+        "Gravitazionale": 1,
+        "Antimateria": 1,
+        "Magnetica": 1,
+        "Quantistica": 3,
+        "Luce": 1
+      },
+      "ltk": 6,
+      "ordini": [
+        "Andromeda",
+        "Naturalisti",
+        "Armonisti"
+      ],
+      "dishes": [
+        {
+          "name": "Serenata del Multiverso",
+          "ordine": null,
+          "ingredients": [
+            "Carne di Balena Spaziale",
+            "Frammenti di Supernova",
+            "Liane di Plasmodio",
+            "Fibra di Sintetex",
+            "Nettare di Sirena",
+            "Essenza di Speziaria"
+          ],
+          "techniques": [
+            "Cottura Sottovuoto Multirealità Collassante",
+            "Sferificazione Filamentare a Molecole Vibrazionali",
+            "Grigliatura Psionica Dinamica Ritmica",
+            "Cottura a Forno Dinamico Inversionale",
+            "Taglio a Risonanza Sonica Rigenerativa"
+          ]
+        },
+        {
+          "name": "Euforia Cosmica",
+          "ordine": null,
+          "ingredients": [
+            "Vero Ghiaccio",
+            "Radici di Singolarità",
+            "Alghe Bioluminescenti",
+            "Carne di Drago",
+            "Uova di Fenice",
+            "Funghi dell’Etere",
+            "Essenza di Vuoto"
+          ],
+          "techniques": [
+            "Grigliatura Eletro-Molecolare a Spaziatura Variabile",
+            "Amalgamazione Sintetica Molecolare",
+            "Surgelamento Antimaterico a Risonanza Inversa"
+          ]
+        },
+        {
+          "name": "Galassie Riflesse: Sinfonia del Multiverso",
+          "ordine": null,
+          "ingredients": [
+            "Polvere di Pulsar",
+            "Radici di Singolarità",
+            "Liane di Plasmodio",
+            "Carne di Drago",
+            "Teste di Idra",
+            "Carne di Mucca",
+            "Pane di Luce",
+            "Gnocchi del Crepuscolo",
+            "Riso di Cassandra",
+            "Funghi dell’Etere",
+            "Sale Temporale"
+          ],
+          "techniques": [
+            "Cottura Olografica Quantum Fluttuante",
+            "Cottura a Vapore Termocinetica Multipla",
+            "Affumicatura tramite Big Bang Microcosmico",
+            "Marinatura tramite Reazioni d'Antimateria Diluite"
+          ]
+        },
+        {
+          "name": "Sinfonia Cosmica di Terracotta",
+          "ordine": null,
+          "ingredients": [
+            "Polvere di Crononite",
+            "Radici di Gravità",
+            "Foglie di Mandragora",
+            "Plasma Vitale",
+            "Sale Temporale"
+          ],
+          "techniques": [
+            "Amalgamazione Sintetica Molecolare",
+            "Incisione Elettromagnetica Plasmica",
+            "Sferificazione Filamentare a Molecole Vibrazionali",
+            "Impasto Gravitazionale Vorticoso"
+          ]
+        },
+        {
+          "name": "Viaggio Cosmico nel Multiverso",
+          "ordine": null,
+          "ingredients": [
+            "Shard di Prisma Stellare",
+            "Foglie di Nebulosa",
+            "Foglie di Mandragora",
+            "Carne di Mucca",
+            "Essenza di Speziaria"
+          ],
+          "techniques": [
+            "Affumicatura Polarizzata a Freddo Iperbarico",
+            "Sferificazione Filamentare a Molecole Vibrazionali"
+          ]
+        },
+        {
+          "name": "Dimensioni del Mare Stellato",
+          "ordine": null,
+          "ingredients": [
+            "Liane di Plasmodio",
+            "Carne di Kraken",
+            "Carne di Xenodonte",
+            "Nettare di Sirena",
+            "Essenza di Vuoto"
+          ],
+          "techniques": [
+            "Affumicatura Psionica Sensoriale",
+            "Fermentazione Quantico Biometrica"
+          ]
+        },
+        {
+          "name": "Danza Luminosa del Multiverso",
+          "ordine": null,
+          "ingredients": [
+            "Uova di Fenice",
+            "Biscotti della Galassia",
+            "Farina di Nettuno",
+            "Nettare di Sirena",
+            "Essenza di Vuoto"
+          ],
+          "techniques": [
+            "Bollitura Entropica Sincronizzata",
+            "Saltare in Padella Classica"
+          ]
+        },
+        {
+          "name": "Microcosmo in un Boccone",
+          "ordine": null,
+          "ingredients": [
+            "Cristalli di Memoria",
+            "Baccacedro",
+            "Carne di Mucca",
+            "Carne di Xenodonte",
+            "Carne di Drago",
+            "Biscotti della Galassia",
+            "Pane di Luce",
+            "Granuli di Nebbia Arcobaleno",
+            "Funghi Orbitali",
+            "Essenza di Speziaria"
+          ],
+          "techniques": [
+            "Impasto a Campi Magnetici Dualistici",
+            "Decostruzione Magnetica Risonante",
+            "Cryo-Tessitura Energetica Polarizzata"
+          ]
+        },
+        {
+          "name": "Nebulose della Fenice su Vento Lunare",
+          "ordine": null,
+          "ingredients": [
+            "Polvere di Stelle",
+            "Baccacedro",
+            "Foglie di Nebulosa",
+            "Uova di Fenice",
+            "Fusilli del Vento",
+            "Muffa Lunare",
+            "Sale Temporale"
+          ],
+          "techniques": [
+            "Fermentazione Quantico Biometrica",
+            "Congelazione Iperdimensionalmente Stratificata",
+            "Incisione Elettromagnetica Plasmica"
+          ]
+        },
+        {
+          "name": "Nebulose Pensanti: Sinfonia del Multiverso",
+          "ordine": null,
+          "ingredients": [
+            "Vero Ghiaccio",
+            "Foglie di Nebulosa",
+            "Radici di Gravità",
+            "Carne di Kraken",
+            "Gnocchi del Crepuscolo",
+            "Fusilli del Vento",
+            "Farina di Nettuno",
+            "Funghi Orbitali",
+            "Sale Temporale"
+          ],
+          "techniques": [
+            "Fermentazione Psionica Energetica",
+            "Affumicatura a Stratificazione Quantica"
+          ]
+        }
+      ]
+    },
+    {
+      "restaurant": "L'Eredità Galattica",
+      "chef": "Alessandro Chronos",
+      "planet": "Cybertron",
+      "licenses": {
+        "Psionica": 0,
+        "Temporale": 3,
+        "Gravitazionale": 3,
+        "Antimateria": 1,
+        "Magnetica": 0,
+        "Quantistica": null,
+        "Luce": 2
+      },
+      "ltk": 3,
+      "ordini": [
+        "Naturalisti",
+        "Armonisti",
+        "Andromeda"
+      ],
+      "dishes": [
+        {
+          "name": "Sinfonia Tempolare Galattica",
+          "ordine": null,
+          "ingredients": [
+            "Radici di Gravità",
+            "Funghi Orbitali",
+            "Liane di Plasmodio",
+            "Cristalli di brodo di Kraken",
+            "Carne di Mucca",
+            "Spaghi del Sole",
+            "Foglie di Nebulosa",
+            "Amido di Stellarion",
+            "Polvere di Crononite",
+            "Erba Pipa"
+          ],
+          "techniques": [
+            "Bollitura Infrasonica Armonizzata",
+            "Fermentazione Temporale Sincronizzata",
+            "Cottura con Microonde Entropiche Sincronizzate"
+          ]
+        },
+        {
+          "name": "Cosmopolis delle Galassie Perdute",
+          "ordine": null,
+          "ingredients": [
+            "Farina di Nettuno",
+            "Carne di Balena Spaziale",
+            "Lacrime di Unicorno",
+            "Spezie Melange",
+            "Carne di Drago",
+            "Teste di Idra",
+            "Colonia di Mycoflora",
+            "Polvere di Stelle"
+          ],
+          "techniques": [
+            "Cottura a Vapore Ecodinamico Bilanciato",
+            "Cottura con Microonde Entropiche Sincronizzate",
+            "Cryo-Tessitura Energetica Polarizzata"
+          ]
+        },
+        {
+          "name": "Galassia Risvegliata",
+          "ordine": null,
+          "ingredients": [
+            "Riso di Cassandra",
+            "Colonia di Mycoflora",
+            "Fibra di Sintetex",
+            "Uova di Fenice",
+            "Amido di Stellarion",
+            "Nettare di Sirena"
+          ],
+          "techniques": [
+            "Taglio a Risonanza Sonica Rigenerativa",
+            "Decostruzione Ancestrale",
+            "Cottura a Forno Dinamico Inversionale"
+          ]
+        },
+        {
+          "name": "Sinfonia Temporale nello Spaghi del Sole",
+          "ordine": null,
+          "ingredients": [
+            "Polvere di Crononite",
+            "Alghe Bioluminescenti",
+            "Carne di Xenodonte",
+            "Teste di Idra",
+            "Spaghi del Sole",
+            "Spezie Melange"
+          ],
+          "techniques": [
+            "Cottura a Vapore Termocinetica Multipla",
+            "Idro-Cristallizzazione Sonora Quantistica",
+            "Decostruzione Atomica a Strati Energetici",
+            "Affettamento a Pulsazioni Quantistiche",
+            "Marinatura tramite Reazioni d'Antimateria Diluite"
+          ]
+        },
+        {
+          "name": "Sinfonia di Crepuscolo Celestiale",
+          "ordine": null,
+          "ingredients": [
+            "Cristalli di Nebulite",
+            "Gnocchi del Crepuscolo",
+            "Amido di Stellarion",
+            "Farina di Nettuno",
+            "Lacrime di Unicorno",
+            "Salsa Szechuan"
+          ],
+          "techniques": [
+            "Cottura Sottovuoto Antimateria",
+            "Fermentazione Quantico Biometrica",
+            "Marinatura Temporale Sincronizzata"
+          ]
+        },
+        {
+          "name": "Sinfonia di Stagioni Stellari",
+          "ordine": null,
+          "ingredients": [
+            "Cristalli di Memoria",
+            "Alghe Bioluminescenti",
+            "Foglie di Nebulosa",
+            "Carne di Drago",
+            "Carne di Xenodonte",
+            "Fibra di Sintetex",
+            "Amido di Stellarion",
+            "Funghi Orbitali",
+            "Sale Temporale"
+          ],
+          "techniques": [
+            "Taglio a Risonanza Sonica Rigenerativa",
+            "Decostruzione Ancestrale",
+            "Bollitura Termografica a Rotazione Veloce",
+            "Bollitura Infrasonica Armonizzata",
+            "Cottura Idrodinamica Autoregolante"
+          ]
+        },
+        {
+          "name": "Viaggio dei Sensi: Bolla Temporale di Aromi Ancestrali",
+          "ordine": null,
+          "ingredients": [
+            "Cristalli di Memoria",
+            "Carne di Xenodonte",
+            "Carne di Kraken",
+            "Teste di Idra",
+            "Essenza di Tachioni"
+          ],
+          "techniques": [
+            "Cottura a Vapore Termocinetica Multipla",
+            "Affumicatura a Stratificazione Quantica",
+            "Amalgamazione Sintetica Molecolare"
+          ]
+        },
+        {
+          "name": "Sfogliare Galattico di Sogni Temporali",
+          "ordine": null,
+          "ingredients": [
+            "Shard di Prisma Stellare",
+            "Alghe Bioluminescenti",
+            "Lattuga Namecciana",
+            "Carne di Xenodonte",
+            "Fusilli del Vento",
+            "Essenza di Vuoto"
+          ],
+          "techniques": [
+            "Cottura al Forno con Paradosso Temporale Cronospeculare",
+            "Marinatura a Infusione Gravitazionale",
+            "Grigliatura Eletro-Molecolare a Spaziatura Variabile",
+            "Taglio a Risonanza Sonica Rigenerativa",
+            "Impasto Gravitazionale Vorticoso"
+          ]
+        },
+        {
+          "name": "Nebulosa di Fenice con Sinfonia Eterea",
+          "ordine": null,
+          "ingredients": [
+            "Cristalli di Nebulite",
+            "Fibra di Sintetex",
+            "Uova di Fenice",
+            "Funghi dell’Etere",
+            "Petali di Eco"
+          ],
+          "techniques": [
+            "Bollitura Termografica a Rotazione Veloce",
+            "Marinatura tramite Reazioni d'Antimateria Diluite",
+            "Sinergia Elettro-Osmotica Programmabile"
+          ]
+        },
+        {
+          "name": "Sinfonia Temporale al Tocco di Crono",
+          "ordine": null,
+          "ingredients": [
+            "Vero Ghiaccio",
+            "Lattuga Namecciana",
+            "Baccacedro",
+            "Carne di Mucca",
+            "Uova di Fenice",
+            "Pane degli Abissi",
+            "Riso di Cassandra",
+            "Spaghi del Sole",
+            "Spore Quantiche",
+            "Essenza di Tachioni"
+          ],
+          "techniques": [
+            "Sinergia Elettro-Osmotica Programmabile",
+            "Cottura a Vapore Ecodinamico Bilanciato"
+          ]
+        }
+      ]
+    },
+    {
+      "restaurant": "L'Essenza dell'Infinito",
+      "chef": "Luna Celestini",
+      "planet": "Ego",
+      "licenses": {
+        "Psionica": 4,
+        "Temporale": 3,
+        "Gravitazionale": 0,
+        "Antimateria": 0,
+        "Magnetica": 0,
+        "Quantistica": 8,
+        "Luce": 2
+      },
+      "ltk": 5,
+      "ordini": [],
+      "dishes": [
+        {
+          "name": "Rinascita Cosmica",
+          "ordine": null,
+          "ingredients": [
+            "Frammenti di Supernova",
+            "Alghe Bioluminescenti",
+            "Radici di Singolarità",
+            "Teste di Idra",
+            "Uova di Fenice",
+            "Amido di Stellarion",
+            "Nettare di Sirena",
+            "Frutti del Diavolo"
+          ],
+          "techniques": [
+            "Taglio Sinaptico Biomimetico",
+            "Cottura a Vapore Termocinetica Multipla"
+          ]
+        },
+        {
+          "name": "Il Rapsodo Celestiale",
+          "ordine": null,
+          "ingredients": [
+            "Shard di Materia Oscura",
+            "Colonia di Mycoflora",
+            "Uova di Fenice",
+            "Pane di Luce",
+            "Gnocchi del Crepuscolo",
+            "Biscotti della Galassia",
+            "Funghi Orbitali",
+            "Essenza di Vuoto",
+            "Sashimi di Magicarp"
+          ],
+          "techniques": [
+            "Saltare in Padella Realtà Energetiche Parallele",
+            "Cottura a Vapore Risonante Simbiotico",
+            "Affumicatura Temporale Risonante",
+            "Affumicatura a Stratificazione Quantica"
+          ]
+        },
+        {
+          "name": "Bistecca Cacofonica dell'Infinito",
+          "ordine": null,
+          "ingredients": [
+            "Frammenti di Supernova",
+            "Alghe Bioluminescenti",
+            "Carne di Kraken",
+            "Pane degli Abissi",
+            "Farina di Nettuno",
+            "Spaghi del Sole",
+            "Sale Temporale",
+            "Pickle Rick Croccante"
+          ],
+          "techniques": [
+            "Affumicatura Psionica Sensoriale",
+            "Affumicatura a Stratificazione Quantica",
+            "Cottura a Vapore Termocinetica Multipla",
+            "Cottura a Vapore Risonante Simbiotico"
+          ]
+        },
+        {
+          "name": "Galassia di Sapori Il Viaggio Senza Tempo",
+          "ordine": null,
+          "ingredients": [
+            "Shard di Materia Oscura",
+            "Foglie di Mandragora",
+            "Foglie di Nebulosa",
+            "Fibra di Sintetex",
+            "Spaghi del Sole",
+            "Pane di Luce",
+            "Fusilli del Vento",
+            "Muffa Lunare",
+            "Chocobo Wings"
+          ],
+          "techniques": [
+            "Affumicatura Psionica Sensoriale",
+            "Modellatura Onirica Tetrazionale",
+            "Fermentazione Quantico Biometrica"
+          ]
+        },
+        {
+          "name": "Pizza Cosmica all'Essenza di Drago con Nebbia Arcobaleno e Funghi Orbitali",
+          "ordine": null,
+          "ingredients": [
+            "Cristalli di Nebulite",
+            "Teste di Idra",
+            "Carne di Drago",
+            "Carne di Balena spaziale",
+            "Granuli di Nebbia Arcobaleno",
+            "Biscotti della Galassia",
+            "Amido di Stellarion",
+            "Funghi Orbitali",
+            "Essenza di Tachioni",
+            "Latte+"
+          ],
+          "techniques": [
+            "Affumicatura a Stratificazione Quantica",
+            "Affumicatura Psionica Sensoriale"
+          ]
+        },
+        {
+          "name": "Mycoflora con Polvere di Stelle Sbagliato",
+          "ordine": null,
+          "ingredients": [
+            "Polvere di Stelle",
+            "Colonia di Mycoflora",
+            "Teste di Idra",
+            "Lacrime di Andromeda",
+            "Essenza di Speziaria"
+          ],
+          "techniques": [
+            "Decostruzione Ancestrale",
+            "Amalgamazione Sintetica Molecolare",
+            "Fermentazione Quantico Biometrica",
+            "Bollitura Termografica a Rotazione Veloce"
+          ]
+        },
+        {
+          "name": "Nebulosa di Sapori dell'Infinito",
+          "ordine": null,
+          "ingredients": [
+            "Lattuga Namecciana",
+            "Foglie di Nebulosa",
+            "Carne di Xenodonte",
+            "Plasma Vitale",
+            "Nduja Fritta",
+            "Tanto"
+          ],
+          "techniques": [
+            "Congelamento Bio-Luminiscente Sincronico",
+            "Saltare in Padella Realtà Energetiche Parallele",
+            "Saltare in Padella Classica",
+            "Fermentazione Quantico Biometrica"
+          ]
+        },
+        {
+          "name": "Sinfonia dell'Infinito Un Viaggio Gnodale tra Terra e Universi",
+          "ordine": null,
+          "ingredients": [
+            "Radici di Gravità",
+            "Uova di Fenice",
+            "Carne di Mucca",
+            "Carne di Kraken",
+            "Lacrime di Andromeda",
+            "Essenza di Speziaria"
+          ],
+          "techniques": [
+            "Affumicatura Psionica Sensoriale",
+            "Affumicatura Temporale Risonante"
+          ]
+        },
+        {
+          "name": "Tris di Verdure con Xenodonte",
+          "ordine": null,
+          "ingredients": [
+            "Cristalli di Memoria",
+            "Radici di Gravità",
+            "Foglie di Mandragora",
+            "Foglie di Nebulosa",
+            "Carne di Xenodonte",
+            "Fibra di Sintetex",
+            "Pane degli Abissi",
+            "Essenza di Tachioni"
+          ],
+          "techniques": [
+            "Modellatura Onirica Tetrazionale",
+            "Idro-Cristallizzazione Sonora Quantistica",
+            "Fermentazione Quantico Biometrica"
+          ]
+        },
+        {
+          "name": "Falso Risotto dell'Infinito Multiverso",
+          "ordine": null,
+          "ingredients": [
+            "Cristalli di Memoria",
+            "Uova di Fenice",
+            "Carne di Balena spaziale",
+            "Granuli di Nebbia Arcobaleno",
+            "Farina di Nettuno",
+            "Funghi Orbitali",
+            "Spezie Melange"
+          ],
+          "techniques": [
+            "Congelamento Bio-Luminiscente Sincronico",
+            "Fermentazione Psionica Energetica",
+            "Saltare in Padella Realtà Energetiche Parallele",
+            "Cottura a Vapore Termocinetica Multipla",
+            "Taglio Sinaptico Biomimetico"
+          ]
+        }
+      ]
+    },
+    {
+      "restaurant": "Il Firmamento",
+      "chef": "Maestro Alessio Eterno Stellaris",
+      "planet": "Ego",
+      "licenses": {
+        "Psionica": 4,
+        "Temporale": 2,
+        "Gravitazionale": 1,
+        "Antimateria": 1,
+        "Magnetica": 1,
+        "Quantistica": 2,
+        "Luce": 2
+      },
+      "ltk": 4,
+      "ordini": [],
+      "dishes": [
+        {
+          "name": "Galassia di Fusilli Sferici alla Risonanza Crononica",
+          "ordine": null,
+          "ingredients": [
+            "Fusilli del Vento",
+            "Nettare di Sirena",
+            "Carne di Kraken",
+            "Balena Spaziale",
+            "Salsa Szechuan",
+            "Farina di Nettuno",
+            "Polvere di Crononite",
+            "Fibra di Sintetex"
+          ],
+          "techniques": [
+            "Bollitura Infrasonica Armonizzata",
+            "Impasto a Campi Magnetici Dualistici"
+          ]
+        },
+        {
+          "name": "Galassia Rinascente",
+          "ordine": null,
+          "ingredients": [
+            "Lattuga Namecciana",
+            "Muffa Lunare",
+            "Carne di Drago",
+            "Uovo di Fenice",
+            "Biscotti della Galassia",
+            "Carne delle Teste di Idra"
+          ],
+          "techniques": [
+            "Vero Ghiaccio",
+            "Cottura a Vapore Ecodinamico Bilanciato",
+            "Bollitura Entropica Sincronizzata"
+          ]
+        },
+        {
+          "name": "Mandragora e Radici",
+          "ordine": null,
+          "ingredients": [
+            "Polvere di Stelle",
+            "Radici di Gravità",
+            "Foglie di Mandragora",
+            "Lacrime di Unicorno",
+            "Nduja Fritta Tanto"
+          ],
+          "techniques": [
+            "Congelamento Bio-Luminiscente Sincronico",
+            "Cottura Sottovuoto Bioma Sintetico",
+            "Cottura Sottovuoto Pulsar Magnetica"
+          ]
+        },
+        {
+          "name": "Galaxia Rinasciata",
+          "ordine": null,
+          "ingredients": [
+            "Uova di Fenice",
+            "Lacrime di Unicorno",
+            "Spezie Melange",
+            "Baccacedro",
+            "Biscotti della Galassia"
+          ],
+          "techniques": [
+            "Modellatura Onirica Tetrazionale",
+            "Surgelamento Antimaterico a Risonanza Inversa",
+            "Affumicatura Psionica Sensoriale",
+            "Cottura a Vapore Ecodinamico Bilanciato",
+            "Cottura a Vapore Ecodinamico Bilanciato"
+          ]
+        },
+        {
+          "name": "Cosmic Harmony",
+          "ordine": null,
+          "ingredients": [
+            "Foglie di Mandragora",
+            "Radici di Gravità",
+            "Lacrime di Unicorno",
+            "Lattuga Namecciana",
+            "Petali di Eco"
+          ],
+          "techniques": [
+            "Cryo-Tessitura Energetica Polarizzata",
+            "Decostruzione Atomica a Strati Energetici",
+            "Affumicatura Psionica Sensoriale"
+          ]
+        },
+        {
+          "name": "Nebulosa di Sapori Quantici",
+          "ordine": null,
+          "ingredients": [
+            "Riso di Cassandra",
+            "Funghi Orbitali",
+            "Essenza di Vuoto",
+            "Radici di Singolarità",
+            "Cristalli di Nebulite"
+          ],
+          "techniques": [
+            "Bollitura Infrasonica Armonizzata",
+            "Grigliatura Elettro-Molecolare a Spaziatura Variabile",
+            "Decostruzione Magnetica Risonante"
+          ]
+        },
+        {
+          "name": "Galassia in Tavola: Sinfonia dei Sensi",
+          "ordine": null,
+          "ingredients": [
+            "Spaghi del Sole",
+            "Gnocchi del Crepuscolo",
+            "Muffa Lunare",
+            "Baccacedro",
+            "Spezie Melange"
+          ],
+          "techniques": [
+            "Cottura a Vapore con Flusso di Particelle Isoarmoniche",
+            "Congelamento BioLuminiscente Sincronico",
+            "Cottura Sottovuoto Pulsar Magnetica"
+          ]
+        },
+        {
+          "name": "Galassie alla Spirale di Vento con Sfera di Ghiaccio Eterno",
+          "ordine": null,
+          "ingredients": [
+            "Fusilli del Vento",
+            "Carne di Xenodonte",
+            "Teste di Idra",
+            "Farina di Nettuno",
+            "Gnocchi del Crepuscolo",
+            "Vero Ghiaccio",
+            "Radici di Gravità",
+            "Lacrime di Andromeda"
+          ],
+          "techniques": [
+            "Marinatura Psionica",
+            "Modellazione Onirica Tetrazionale",
+            "Polarizzata a Freddo Iperbarico"
+          ]
+        }
+      ]
+    },
+    {
+      "restaurant": "L'Architetto dell'Universo",
+      "chef": "Alessandra Tempesti",
+      "planet": "Klyntar",
+      "licenses": {
+        "Psionica": 0,
+        "Temporale": 3,
+        "Gravitazionale": 1,
+        "Antimateria": 0,
+        "Magnetica": 0,
+        "Quantistica": 0,
+        "Luce": 2
+      },
+      "ltk": 5,
+      "ordini": [],
+      "dishes": [
+        {
+          "name": "Galassia Riflessa",
+          "ordine": null,
+          "ingredients": [
+            "Pane degli Abissi",
+            "Foglie di Nebulosa",
+            "Carne di Balena spaziale",
+            "Colonia di Mycoflora",
+            "Uova di Fenice",
+            "Lacrime di Unicorno",
+            "Petali di Eco"
+          ],
+          "techniques": [
+            "Affettamento a Pulsazioni Quantistiche",
+            "Congelamento Bio-Luminiscente Sincronico"
+          ]
+        },
+        {
+          "name": "Enigma Celeste",
+          "ordine": null,
+          "ingredients": [
+            "Carne di drago",
+            "Gnocchi del Crepuscolo",
+            "Spore Quantiche",
+            "Vero Ghiaccio",
+            "Pane di Luce"
+          ],
+          "techniques": [
+            "Affumicatura a stratificazione quantica",
+            "Cottura Olografica Quantum Fluttuante"
+          ]
+        },
+        {
+          "name": "Galassia d'Aromi Perduti",
+          "ordine": null,
+          "ingredients": [
+            "Spaghi del Sole",
+            "Pane di Luce",
+            "Erba Pipa",
+            "Lacrime di Unicorno",
+            "Cristalli di Nebulite"
+          ],
+          "techniques": [
+            "Bollitura Entropica Sincronizzata",
+            "Congelamento Bio-Luminiscente Sincronico",
+            "Decostruzione Ancestrale"
+          ]
+        },
+        {
+          "name": "Galassia a Tavola Sinfonia di Tempeste Cosmiche",
+          "ordine": null,
+          "ingredients": [
+            "Carne di Xenodonte",
+            "Teste di Idra",
+            "Funghi Orbitali",
+            "Liane di Plasmodio",
+            "Foglie di Nebulosa"
+          ],
+          "techniques": [
+            "Grigliatura Elettro-Molecolare a Spaziatura Variabile",
+            "Cottura al Forno con Paradosso Temporale Cronospeculare",
+            "Cristallizzazione Temporale Reversiva"
+          ]
+        },
+        {
+          "name": "Portale Astrale di Sapori",
+          "ordine": null,
+          "ingredients": [
+            "Carne di Kraken",
+            "Carne di Balena spaziale",
+            "Nebulite",
+            "Pane di Luce",
+            "Nettare di Sirena",
+            "Nduja Fritta Tanto"
+          ],
+          "techniques": [
+            "Amalgamazione Sintetica Molecolare"
+          ]
+        },
+        {
+          "name": "Cosmic Harmony Risotto",
+          "ordine": null,
+          "ingredients": [
+            "Riso di Cassandra",
+            "Polvere di Pulsar",
+            "Pane di Luce",
+            "Lacrime di Unicorno",
+            "Spezie Melange"
+          ],
+          "techniques": [
+            "Cottura Sottovuoto Frugale Energeticamente Negativa",
+            "Bollitura Termografica a Rotazione Veloce",
+            "Cottura a Vapore Termocinetica Multipla"
+          ]
+        },
+        {
+          "name": "Galassia di Celestial Delight",
+          "ordine": null,
+          "ingredients": [
+            "Vero Ghiaccio",
+            "Uova di Fenice",
+            "Radici di Singolarità",
+            "Colonia di Mycoflora",
+            "Essenza di Tachioni",
+            "Pane di Farina di Nettuno"
+          ],
+          "techniques": [
+            "Impasto Gravitazionale Vorticoso",
+            "Cottura a Vapore Termocinetica Multipla"
+          ]
+        },
+        {
+          "name": "Pioggia Calante dell'Universo",
+          "ordine": null,
+          "ingredients": [
+            "Carne di balena spaziale",
+            "Spaghi del Sole",
+            "Shard di materia oscura",
+            "Plasma vitale",
+            "Foglie di mandragora",
+            "Petali di eco",
+            "Baccacedro"
+          ],
+          "techniques": [
+            "Taglio a risonanza sonica rigenerativa",
+            "Bollitura infrasonica armonizzata"
+          ]
+        },
+        {
+          "name": "Creazione Celestiale L'Alba del Cosmo",
+          "ordine": null,
+          "ingredients": [
+            "Liane di Plasmodio",
+            "Carne di Balena spaziale",
+            "Spaghi del Sole",
+            "Polvere di Pulsar",
+            "Muffa Lunare"
+          ],
+          "techniques": [
+            "Fermentazione Quantico Biometrica",
+            "Taglio a Risonanza Sonica Rigenerativa",
+            "Congelamento Bio-Luminiscente Sincronico"
+          ]
+        },
+        {
+          "name": "Cosmic Rhapsody",
+          "ordine": null,
+          "ingredients": [
+            "Carne di Drago",
+            "Carne di Kraken",
+            "Funghi dell'Etere",
+            "Amido di Stellarion",
+            "Polvere di Pulsar"
+          ],
+          "techniques": [
+            "Cottura a Vapore Termocinetica Multipla",
+            "Affettamento a Pulsazioni Quantistiche"
+          ]
+        }
+      ]
+    },
+    {
+      "restaurant": "L'Eco dei Sapori",
+      "chef": "Aurora Vessanti",
+      "planet": "Ego",
+      "licenses": {
+        "Psionica": 3,
+        "Temporale": 2,
+        "Gravitazionale": 0,
+        "Antimateria": 1,
+        "Magnetica": 1,
+        "Quantistica": 4,
+        "Luce": 2
+      },
+      "ltk": 4,
+      "ordini": [],
+      "dishes": [
+        {
+          "name": "Galassia Infinita Viaggio tra Memorie e Stelle",
+          "ordine": null,
+          "ingredients": [
+            "Pane di Luce",
+            "Spore Quantiche",
+            "proteine di mare e terra",
+            "Essenza di Tachioni",
+            "Farina di Nettuno",
+            "Sferificazione tramite Matrici Biofotiche",
+            "Cristalli di Memoria",
+            "Biscotti della Galassia"
+          ],
+          "techniques": [
+            "Marinatura Temporale Sincronizzata"
+          ]
+        },
+        {
+          "name": "Eterna Sinfonia del Cosmo",
+          "ordine": null,
+          "ingredients": [
+            "carne di mucca",
+            "Nettare di Sirena",
+            "proteine delle teste di idra",
+            "Alghe Bioluminescenti",
+            "Biscotti della Galassia",
+            "Shard di Materia Oscura",
+            "Farina di Nettuno"
+          ],
+          "techniques": [
+            "Marinatura Sotto Zero a Polarità Inversa",
+            "Cottura Idrodinamica Autoregolante",
+            "Decostruzione Magnetica Risonante",
+            "Marinatura Temporale Sincronizzata",
+            "Bollitura Infrasonica Armonizzata"
+          ]
+        },
+        {
+          "name": "Sinfonia Cosmica di Aurora",
+          "ordine": null,
+          "ingredients": [
+            "Riso di Cassandra",
+            "Pane di Luce",
+            "Granuli di Nebbia Arcobaleno",
+            "Erba Pipa"
+          ],
+          "techniques": [
+            "Ebollizione Magneto-Cinetica Pulsante"
+          ]
+        },
+        {
+          "name": "Galaxia Gustativa",
+          "ordine": null,
+          "ingredients": [
+            "Amido di Stellarion",
+            "Shard di Materia Oscura",
+            "Funghi Orbitali",
+            "Granuli di Nebbia Arcobaleno",
+            "Baccacedro"
+          ],
+          "techniques": [
+            "Bollitura Infrasonica Armonizzata",
+            "Fermentazione Quantico Biometrica",
+            "CryoTessitura Energetica Polarizzata"
+          ]
+        },
+        {
+          "name": "Crescendo Cosmico",
+          "ordine": null,
+          "ingredients": [
+            "Spaghi del Sole",
+            "Gnocchi del Crepuscolo",
+            "carni succulente di Xenodonte",
+            "Radici di Singolarità",
+            "Colonia di Mycoflora",
+            "Spore Quantiche"
+          ],
+          "techniques": [
+            "Amalgamazione Sintetica Molecolare",
+            "Congelamento Bio-Luminiscente Sincronico"
+          ]
+        },
+        {
+          "name": "Simfonia Celeste di Aurora",
+          "ordine": null,
+          "ingredients": [
+            "Fusilli del Vento",
+            "Carne di Xenodonte",
+            "Amido di Stellarion",
+            "Colonia di Mycoflora",
+            "Alghe Bioluminescenti",
+            "Polvere di Pulsar",
+            "Muffa Lunare"
+          ],
+          "techniques": [
+            "Cottura a Vapore con Flusso di Particelle Isoarmoniche",
+            "Decostruzione Magnetica Risonante",
+            "Cryo-Tessitura Energetica Polarizzata"
+          ]
+        },
+        {
+          "name": "Portale del Cosmo Sinfonia di Sapori e Tempi",
+          "ordine": null,
+          "ingredients": [
+            "Pane degli Abissi",
+            "Muffa Lunare",
+            "Fibra di Sintetex",
+            "Radici di Gravità",
+            "Colonia di Mycoflora",
+            "Shard di Prisma Stellare",
+            "Baccacedro",
+            "Nduja Fritta Tanto"
+          ],
+          "techniques": [
+            "Marinatura Psionica",
+            "Affumicatura Temporal Risonante"
+          ]
+        },
+        {
+          "name": "Verso l'Inedito Oltre",
+          "ordine": null,
+          "ingredients": [
+            "Lattuga Namecciana",
+            "Carne di Drago",
+            "Carne di Mucca",
+            "Teste di Idra",
+            "Spezie Melange"
+          ],
+          "techniques": [
+            "incisioni elettromagnetiche plasmatiche"
+          ]
+        },
+        {
+          "name": "Sinfonia di Galassie Perdute",
+          "ordine": null,
+          "ingredients": [
+            "Radici di Singolarità",
+            "Lattuga Namecciana",
+            "Muffa Lunare",
+            "Cristalli di Memoria",
+            "Spezie Melange"
+          ],
+          "techniques": [
+            "Incisione Elettromagnetica Plasmica",
+            "Sferificazione tramite Matrici Biofotiche",
+            "Stratificazione Quantica"
+          ]
+        },
+        {
+          "name": "Sinfonia degli Elementi Eterni",
+          "ordine": null,
+          "ingredients": [
+            "Liane di Plasmodio",
+            "Radici di Singolarità",
+            "Foglie di Mandragora",
+            "Uova di Fenice",
+            "Carne di Kraken",
+            "Farina di Nettuno",
+            "Pane di Luce",
+            "Lacrime di Andromeda"
+          ],
+          "techniques": [
+            "Marinatura Psionica",
+            "bollitura termografica a rotazione veloce"
+          ]
+        }
+      ]
+    },
+    {
+      "restaurant": "L'Equilibrio Quantico",
+      "chef": "Alessandro Quantum",
+      "planet": "Tatooine",
+      "licenses": {
+        "Psionica": 2,
+        "Temporale": 2,
+        "Gravitazionale": 1,
+        "Antimateria": 1,
+        "Magnetica": 1,
+        "Quantistica": 11,
+        "Luce": 3
+      },
+      "ltk": 6,
+      "ordini": [
+        "Andromeda",
+        "Naturalisti",
+        "Armonisti"
+      ],
+      "dishes": [
+        {
+          "name": "Sinfonia del Multiverso Nascente",
+          "ordine": null,
+          "ingredients": [
+            "Carne di Balena Spaziale",
+            "Gnocchi del Crepuscolo",
+            "Muffa Lunare",
+            "Polvere di Crononite",
+            "Essenza di Vuoto",
+            "Fibre di Sintetex"
+          ],
+          "techniques": [
+            "Affumicatura Temporale Risonante",
+            "Taglio a Risonanza Sonica Rigenerativa",
+            "Fermentazione Psionica Energetica"
+          ]
+        },
+        {
+          "name": "Antipasto Stellare dell'Eterna Armonia",
+          "ordine": null,
+          "ingredients": [
+            "Pane di Luce",
+            "Farina di Nettuno",
+            "Essenza di Speziaria",
+            "Fibra di Sintetex",
+            "Teste di Idra",
+            "Baccacedro",
+            "Polvere di Crononite"
+          ],
+          "techniques": [
+            "Cottura regolata dalla luce di una stella lontana",
+            "Grigliatura Elettro-Molecolare a Spaziatura Variabile"
+          ]
+        },
+        {
+          "name": "Essenze dell'Infinito",
+          "ordine": null,
+          "ingredients": [
+            "Lattuga Namecciana",
+            "Baccacedro",
+            "Carne di Kraken",
+            "Funghi Orbitali",
+            "Essenza di Vuoto"
+          ],
+          "techniques": [
+            "Congelamento Bio-Luminiscente Sincronico",
+            "Cottura Olografica Quantum Fluttuante",
+            "Fermentazione Quantico Biometrica",
+            "Affumicatura Temporale Risonante",
+            "Affumicatura tramite Big Bang Microcosmico"
+          ]
+        },
+        {
+          "name": "Etereo Crepuscolare",
+          "ordine": null,
+          "ingredients": [
+            "Vero Ghiaccio",
+            "Colonia di Mycoflora",
+            "Lattuga Namecciana",
+            "Gnocchi del Crepuscolo",
+            "Granuli di Nebbia Arcobaleno"
+          ],
+          "techniques": [
+            "Marinatura tramite Reazioni d'Antimateria Diluite",
+            "Decostruzione Magnetica Risonante",
+            "Cottura a Vapore con Flusso di Particelle Isoarmoniche"
+          ]
+        },
+        {
+          "name": "Sinfonia del Multiverso Calante",
+          "ordine": null,
+          "ingredients": [
+            "Shard di Prisma Stellare",
+            "Granuli di Nebbia Arcobaleno",
+            "Fusilli del Vento",
+            "Pane degli Abissi",
+            "Lacrime di Unicorno"
+          ],
+          "techniques": [
+            "Cottura Idrodinamica Autoregolante",
+            "Decostruzione Atomica a Strati Energetici",
+            "Sinergia Elettro-Osmotica Programmabile"
+          ]
+        },
+        {
+          "name": "Sinfonia Quantica dell'Oceano Interstellare",
+          "ordine": null,
+          "ingredients": [
+            "Carne di Kraken",
+            "Carne di Xenodonte",
+            "Teste di Idra",
+            "Nettare di Sirena",
+            "Essenza di Vuoto",
+            "Vero Ghiaccio"
+          ],
+          "techniques": [
+            "Cottura Olografica Quantum Fluttuante",
+            "Marinatura Temporale Sincronizzata",
+            "Fermentazione Psionica Energetica",
+            "Sinergia Elettro-Osmotica Programmabile"
+          ]
+        },
+        {
+          "name": "Sinfonia Temporale di Fenice e Xenodonte su Pane degli Abissi con Colata di Plasma Vitale e Polvere di Crononite",
+          "ordine": null,
+          "ingredients": [
+            "Pane degli Abissi",
+            "Carne di Xenodonte",
+            "Uova di Fenice",
+            "Plasma Vitale",
+            "Polvere di Crononite"
+          ],
+          "techniques": [
+            "Taglio Dimensionale a Lame Fotofiliche",
+            "Bollitura Termografica a Rotazione Veloce"
+          ]
+        },
+        {
+          "name": "Nebulare Asteroideo con Crepuscolo di Mucca",
+          "ordine": null,
+          "ingredients": [
+            "Liane di Plasmodio",
+            "Carne di Mucca",
+            "Cristalli di Nebulite",
+            "Foglie di Nebulosa",
+            "Fibra di Sintetex",
+            "Teste di Idra",
+            "Pane degli Abissi",
+            "Fusilli del Vento",
+            "Gnocchi del Crepuscolo",
+            "Plasma Vitale",
+            "Erba Pipa"
+          ],
+          "techniques": [
+            "Cottura Sottovuoto Multirealità Collassante",
+            "Sferificazione Filamentare a Molecole Vibrazionali",
+            "Ebollizione Magneto-Cinetica Pulsante"
+          ]
+        },
+        {
+          "name": "Sinfonia Temporale del Drago",
+          "ordine": null,
+          "ingredients": [
+            "Carne di Drago",
+            "Amido di Stellarion",
+            "Radici di Gravità",
+            "Polvere di Crononite",
+            "Biscotti della Galassia",
+            "Baccacedro",
+            "Nettare di Sirena"
+          ],
+          "techniques": [
+            "Saltare in Padella Realtà Energetiche Parallele",
+            "Bollitura Entropica Sincronizzata"
+          ]
+        },
+        {
+          "name": "Il Viaggio delle Dimensioni Confluenti",
+          "ordine": null,
+          "ingredients": [
+            "Carne di Balena Spaziale",
+            "Mucca Terrestre",
+            "Riso di Cassandra",
+            "Teste di Idra",
+            "Funghi dell'Etere",
+            "Baccacedro",
+            "Polvere di Crononite",
+            "Amido di Stellarion",
+            "Essenza di Speziaria"
+          ],
+          "techniques": [
+            "Cottura Sottovuoto Antimateria",
+            "Sferificazione Cromatica Interdimensionale",
+            "Marinatura Sotto Zero a Polarità Inversa"
+          ]
+        }
+      ]
+    },
+    {
+      "restaurant": "L'Essenza Cosmica",
+      "chef": "Alessandro Stellanova",
+      "planet": "Pandora",
+      "licenses": {
+        "Psionica": 5,
+        "Temporale": 1,
+        "Gravitazionale": 1,
+        "Antimateria": 0,
+        "Magnetica": null,
+        "Quantistica": 3,
+        "Luce": null
+      },
+      "ltk": 3,
+      "ordini": [
+        "Andromeda",
+        "Naturalisti",
+        "Armonisti"
+      ],
+      "dishes": [
+        {
+          "name": "Nebulosa di Drago Interdimensionale",
+          "ordine": null,
+          "ingredients": [
+            "Carne di Drago",
+            "Pane di Luce",
+            "Amido di Stellarion",
+            "Nettare di Sirena",
+            "Salsa Szechuan",
+            "Verdure stagionali"
+          ],
+          "techniques": [
+            "Marinatura Temporale Sincronizzata",
+            "Grigliatura Elettro-Molecolare a Spaziatura Variabile",
+            "Taglio a Risonanza Sonica Rigenerativa"
+          ]
+        },
+        {
+          "name": "Sinfonia Cosmica: La Danza dell'Universo",
+          "ordine": null,
+          "ingredients": [
+            "Pane di Luce",
+            "Alghe Bioluminescenti",
+            "Foglie di Nebulosa",
+            "Carne di Drago",
+            "Pane degli Abissi",
+            "Lacrime di Andromeda",
+            "Polvere di Crononite",
+            "Mycoflora",
+            "Essenza di Speziaria"
+          ],
+          "techniques": [
+            "Cottura Olografica Quantum Fluttuante",
+            "Affumicatura a Stratificazione Quantica"
+          ]
+        },
+        {
+          "name": "Interstellar Requiem",
+          "ordine": null,
+          "ingredients": [
+            "Colonia di Mycoflora",
+            "Shard di Prisma Stellare",
+            "Alghe Bioluminescenti",
+            "Funghi Orbitali",
+            "Essenza di Speziaria"
+          ],
+          "techniques": [
+            "Cottura a Vapore Termocinetica Multipla",
+            "Fermentazione Psionica Energetica"
+          ]
+        },
+        {
+          "name": "Nebulae Di-Cedri Risvegliati",
+          "ordine": null,
+          "ingredients": [
+            "Polvere di Pulsar",
+            "Granuli di Nebbia Arcobaleno",
+            "Radici di Singolarità",
+            "Foglie di Mandragora",
+            "Salsa Szechuan",
+            "Baccacedro",
+            "Spore Quantiche"
+          ],
+          "techniques": [
+            "Bollitura Infrasonica Armonizzata",
+            "Cottura Olografica Quantum Fluttuante",
+            "Cottura Sottovuoto Bioma Sintetico",
+            "Cottura Sottovuoto Frugale Energeticamente Negativa"
+          ]
+        },
+        {
+          "name": "Nebulosa dell'Infinito: Un Viaggio attraverso il Cosmo del Gusto",
+          "ordine": null,
+          "ingredients": [
+            "Carne di Kraken",
+            "Tagliatelle Spaghi del Sole",
+            "Granuli di Nebbia Arcobaleno",
+            "Alghe Bioluminescenti",
+            "Shard di Materia Oscura",
+            "Pane di Luce",
+            "Nettare di Sirena",
+            "Salsa Szechuan",
+            "Carne di Balena spaziale"
+          ],
+          "techniques": [
+            "Affumicatura Temporale Risonante",
+            "Cottura a Vapore Risonante Simbiotico",
+            "Taglio a Risonanza Sonica Rigenerativa"
+          ]
+        },
+        {
+          "name": "Nebulosa Eterna",
+          "ordine": null,
+          "ingredients": [
+            "Riso di Cassandra",
+            "Carne di Drago",
+            "Alghe Bioluminescenti",
+            "Foglie di Nebulosa",
+            "Granuli di Nebbia Arcobaleno",
+            "Pane degli Abissi",
+            "Plasma Vitale",
+            "Essenza di Vuoto",
+            "Cristalli di Memoria"
+          ],
+          "techniques": [
+            "Bollitura Entropica Sincronizzata",
+            "Affumicatura a Stratificazione Quantica"
+          ]
+        },
+        {
+          "name": "Risveglio Cosmico",
+          "ordine": null,
+          "ingredients": [
+            "Carpaccio di Carne di Kraken",
+            "Muffa Lunare",
+            "Sale Temporale",
+            "Farina di Nettuno",
+            "Amido di Stellarion",
+            "Pane di Luce",
+            "Shard di Prisma Stellare"
+          ],
+          "techniques": [
+            "Pulsazioni Quantistiche",
+            "Cottura Sottovuoto Bioma Sintetico",
+            "Affumicatura Psionica Sensoriale",
+            "Affumicatura Temporale Risonante"
+          ]
+        },
+        {
+          "name": "Aurora del Cosmo",
+          "ordine": null,
+          "ingredients": [
+            "Radici di Singolarità",
+            "Nettare di Sirena",
+            "Shard di Prisma Stellare",
+            "Foglie di Nebulosa",
+            "Fibra di Sintetex",
+            "Petali di Eco"
+          ],
+          "techniques": [
+            "Cottura Sottovuoto Frugale Energeticamente Negativa",
+            "Cottura con Microonde Entropiche Sincronizzate",
+            "Sferificazione a Gravità Psionica Variabile",
+            "Cottura a Vapore Termocinetica Multipla",
+            "Affumicatura a Stratificazione Quantica"
+          ]
+        },
+        {
+          "name": "Galassia nel Piatto: Sinfonia di Sapori e Dimensioni",
+          "ordine": null,
+          "ingredients": [
+            "Gnocchi del Crepuscolo",
+            "Nettare di Sirena",
+            "Lattuga Namecciana",
+            "Radici di Singolarità",
+            "Frammenti di Supernova",
+            "Petali di Eco"
+          ],
+          "techniques": [
+            "Affettamento a Pulsazioni Quantistiche",
+            "Bollitura Infrasonica Armonizzata",
+            "Cottura Sottovuoto Bioma Sintetico"
+          ]
+        },
+        {
+          "name": "Nebulosa Celeste di Terrafirma",
+          "ordine": null,
+          "ingredients": [
+            "Fusilli del Vento",
+            "Carne di Drago",
+            "Carne di Balena spaziale",
+            "Uovo di Fenice",
+            "Pane di Luce",
+            "Lacrime di Unicorno"
+          ],
+          "techniques": [
+            "Amalgamazione Sintetica Molecolare",
+            "Affumicatura temporale risonante"
+          ]
+        }
+      ]
+    },
+    {
+      "restaurant": "L'Essenza del Multiverso",
+      "chef": "Matteo Nexus",
+      "planet": "Pandora",
+      "licenses": {
+        "Psionica": 3,
+        "Temporale": 1,
+        "Gravitazionale": 2,
+        "Antimateria": 1,
+        "Magnetica": 1,
+        "Quantistica": 2,
+        "Luce": 1
+      },
+      "ltk": 6,
+      "ordini": [
+        "Andromeda",
+        "Naturalisti",
+        "Armonisti"
+      ],
+      "dishes": [
+        {
+          "name": "Viaggio Gastronomico tra le Stelle",
+          "ordine": "Andromeda",
+          "ingredients": [
+            "Fusilli del Vento",
+            "Vero Ghiaccio",
+            "Carne di Balena spaziale",
+            "Radici di Singolarità"
+          ],
+          "techniques": [
+            "Ebollizione Magneto-Cinetica Pulsante",
+            "Incisione Elettromagnetica Plasmica",
+            "Essenza di Tachioni"
+          ]
+        },
+        {
+          "name": "Sinfonia del Cosmo Rigenerante",
+          "ordine": "Armonisti",
+          "ingredients": [
+            "Carne di Balena Spaziale",
+            "Cristalli di Memoria",
+            "Uova di Fenice",
+            "Lacrime di Unicorno",
+            "Biscotti della Galassia",
+            "Sale Temporale"
+          ],
+          "techniques": [
+            "Cottura Sottovuoto Frugale Energeticamente Negativa",
+            "Big Bang Microcosmico",
+            "Cottura Sottovuoto Bioma Sintetico"
+          ]
+        },
+        {
+          "name": "Delizia Astrale all'Essenza del Multiverso",
+          "ordine": "Naturalisti",
+          "ingredients": [
+            "Radici di Singolarità",
+            "Carne di Kraken",
+            "Foglie di Nebulosa",
+            "Granuli di Nebbia Arcobaleno",
+            "Lacrime di Andromeda",
+            "Uova di Fenice",
+            "Alghe Bioluminescenti",
+            "Vero Ghiaccio"
+          ],
+          "techniques": [
+            "Tecnica di Sinergia Elettro-Osmotica Programmabile",
+            "Taglio a Risonanza Sonica Rigenerativa",
+            "Amalgamazione Sintetica Molecolare",
+            "Essenza di Tachioni"
+          ]
+        },
+        {
+          "name": "Melodia del Multiverso Parallelo",
+          "ordine": "Andromeda",
+          "ingredients": [
+            "Carne di Mucca",
+            "Incisione Elettromagnetica Plasmica",
+            "Marinatura Temporale Sincronizzata",
+            "Nettare di Sirena",
+            "Uova di Fenice",
+            "Nduja Fritta Tanto",
+            "Fusilli del Vento",
+            "Amido di Stellarion",
+            "Pane degli Abissi",
+            "Idra",
+            "Grigliatura Elettro-Molecolare a Spaziatura Variabile",
+            "Polvere di Crononite"
+          ],
+          "techniques": [
+            "Grigliatura",
+            "Incisione Elettromagnetica Plasmica",
+            "Marinatura Temporale Sincronizzata",
+            "Cottura a Vapore con Flusso di Particelle Isoarmoniche",
+            "Frittura",
+            "Cottura a Vapore con Flusso di Particelle Isoarmoniche",
+            "Cottura a Vapore con Flusso di Particelle Isoarmoniche",
+            "Grigliatura Elettro-Molecolare a Spaziatura Variabile",
+            "Affumicatura",
+            "Sferificazione con Campi Magnetici Entropici"
+          ]
+        },
+        {
+          "name": "Portale Interdimensionale di Sapori",
+          "ordine": "Naturalisti",
+          "ingredients": [
+            "Gnocchi del Crepuscolo",
+            "Carne di Kraken",
+            "Foglie di Mandragora",
+            "Shard di Materia Oscura",
+            "Riso di Cassandra",
+            "Lacrime di Andromeda"
+          ],
+          "techniques": [
+            "Surgelamento Antimaterico a Risonanza Inversa",
+            "Cottura a Vapore con Flusso di Particelle Isoarmoniche",
+            "Grigliatura",
+            "Sferificazione con Campi Magnetici Entropici"
+          ]
+        },
+        {
+          "name": "Ode al Crepuscolo del Multiverso",
+          "ordine": "Armonisti",
+          "ingredients": [
+            "Carne di Mucca",
+            "Gnocchi del Crepuscolo",
+            "Pane degli Abissi",
+            "Lacrime di Unicorno",
+            "Essenza di Vuoto",
+            "Pane di Luce"
+          ],
+          "techniques": [
+            "Grigliatura Plasma Sintetico Risonante",
+            "Affumicatura Polarizzata a Freddo Iperbarico",
+            "Cottura a Vapore con Flusso di Particelle Isoarmoniche",
+            "Sferificazione con Campi Magnetici Entropici"
+          ]
+        },
+        {
+          "name": "Sinfonia Interstellare di Fusilli del Vento con Nettare di Sirena",
+          "ordine": "Andromeda",
+          "ingredients": [
+            "Fusilli del Vento",
+            "Congelazione Iperdimensionalmente Stratificata",
+            "Teste di Idra",
+            "Radici di Gravità",
+            "Foglie di Mandragora",
+            "Nettare di Sirena",
+            "Polvere di Pulsar"
+          ],
+          "techniques": [
+            "Congelazione Iperdimensionalmente Stratificata",
+            "Cottura con Microonde Entropiche Sincronizzate",
+            "Marinatura a Infusione Gravitazionale"
+          ]
+        },
+        {
+          "name": "La Voce del Vento",
+          "ordine": "Naturalisti",
+          "ingredients": [
+            "Carne di Balena Spaziale",
+            "Taglio a Risonanza Sonica Rigenerativa",
+            "Polvere di Pulsar",
+            "Foglie di Nebulosa",
+            "Funghi dell'Etere",
+            "Sale Temporale"
+          ],
+          "techniques": [
+            "Taglio a Risonanza Sonica Rigenerativa",
+            "Bollitura Termografica a Rotazione Veloce"
+          ]
+        },
+        {
+          "name": "Nebulose a Strati",
+          "ordine": "Armonisti",
+          "ingredients": [
+            "Farina di Nettuno",
+            "Essenza di Speziaria",
+            "Carne di Mucca",
+            "Carne di Kraken",
+            "Grigliatura Eletro-Molecolare a Spaziatura Variabile",
+            "Colonia di Mycoflora",
+            "Radici di Gravità",
+            "Pulsante Magneto-Cinetica",
+            "Baccacedro",
+            "Padella via Realtà Energetiche Parallele",
+            "Prisma Stellare",
+            "Plasma Vitale"
+          ],
+          "techniques": [
+            "Grigliatura Eletro-Molecolare a Spaziatura Variabile",
+            "Pulsante Magneto-Cinetica",
+            "Padella via Realtà Energetiche Parallele"
+          ]
+        },
+        {
+          "name": "Sinfonia Aromatica del Multiverso",
+          "ordine": null,
+          "ingredients": [
+            "filetto di vegetali",
+            "Lattuga Namecciana",
+            "Foglie di Nebulosa",
+            "Cristalli di Memoria",
+            "Spore Quantiche",
+            "Sale Temporale"
+          ],
+          "techniques": [
+            "Cottura Sottovuoto Antimateria",
+            "Taglio a Risonanza Sonica Rigenerativa",
+            "Cottura con Microonde Entropiche Sincronizzate"
+          ]
+        }
+      ]
+    },
+    {
+      "restaurant": "L'Essenza delle Dune",
+      "chef": "Alessandra Luminetti",
+      "planet": "Arrakis",
+      "licenses": {
+        "Psionica": 4,
+        "Temporale": 1,
+        "Gravitazionale": 1,
+        "Antimateria": 1,
+        "Magnetica": 1,
+        "Quantistica": null,
+        "Luce": 3
+      },
+      "ltk": 16,
+      "ordini": [
+        "Andromeda",
+        "Naturalisti",
+        "Armonisti"
+      ],
+      "dishes": [
+        {
+          "name": "Il Ricordo del Fuoco Celeste",
+          "ordine": null,
+          "ingredients": [
+            "Farina di Nettuno",
+            "Carne di Drago",
+            "Lattuga Namecciana",
+            "Salsa Szechuan",
+            "Uova di Fenice",
+            "Spaghi del Sole",
+            "Shard di Materia Oscura"
+          ],
+          "techniques": [
+            "Amalgamazione Sintetica Molecolare",
+            "Ebollizione Magneto-Cinetica Pulsante",
+            "Cryo-Tessitura Energetica Polarizzata"
+          ]
+        },
+        {
+          "name": "Sinfonia dei Ricordi Celesti",
+          "ordine": "Naturalisti",
+          "ingredients": [
+            "Carne di Balena Spaziale",
+            "Granuli di Nebbia Arcobaleno",
+            "Impasto Gravitazionale Vorticoso",
+            "Polvere di Crononite",
+            "Cristalli di Sale Temporale"
+          ],
+          "techniques": [
+            "Spore Quantiche",
+            "Cottura a Vapore Termocinetico Multiplo",
+            "Sinergia Elettro-Osmotica Programmabile"
+          ]
+        },
+        {
+          "name": "Sinfonia del Cosmo",
+          "ordine": null,
+          "ingredients": [
+            "Liane di Plasmodio",
+            "Funghi Orbitali",
+            "Fibra di Sintetex",
+            "Foglie di Nebulosa",
+            "Sale Temporale"
+          ],
+          "techniques": [
+            "Ebollizione Magneto-Cinetica Pulsante",
+            "Sinergia Elettro-Osmotica Programmabile",
+            "Bollitura Termografica a Rotazione Veloce"
+          ]
+        },
+        {
+          "name": "Rapsodia dei Ricordi Celesti",
+          "ordine": null,
+          "ingredients": [
+            "Farina di Nettuno",
+            "Carne di Xenodonte",
+            "Carne di Mucca",
+            "Carne di Drago",
+            "Lacrime di Andromeda",
+            "Foglie di Nebulosa",
+            "Essenza di Speziaria"
+          ],
+          "techniques": [
+            "Campi Magnetici Dualistici",
+            "Forno Dinamico Inversionale",
+            "Cottura a Vapore Ecodinamico Bilanciato",
+            "Cottura a Vapore Ecodinamico Bilanciato"
+          ]
+        },
+        {
+          "name": "Il Simposio degli Infiniti Ricordi",
+          "ordine": "Armonisti",
+          "ingredients": [
+            "Pane degli Abissi",
+            "Carne di Balena spaziale",
+            "Carne di Xenodonte",
+            "Lacrime di Unicorno",
+            "Cristalli di Nebulite",
+            "Uova di Fenice",
+            "Granuli di Nebbia Arcobaleno",
+            "Biscotti della Galassia"
+          ],
+          "techniques": [
+            "Microonde Entropiche Sincronizzate",
+            "Cryo-Tessitura Energetica Polarizzata"
+          ]
+        },
+        {
+          "name": "Viaggio dei Ricordi Stellari",
+          "ordine": null,
+          "ingredients": [
+            "Gnocchi del Crepuscolo",
+            "Liane di Plasmodio",
+            "Granuli di Nebbia Arcobaleno",
+            "Pane degli Abissi",
+            "Nduja Fritta Tanto",
+            "Shard di Prisma Stellare",
+            "Plasma Vitale"
+          ],
+          "techniques": [
+            "Bollitura Termografica a Rotazione Veloce",
+            "Sinergia Elettro-Osmotica Programmabile",
+            "Marinatura Sotto Zero a Polarità Inversa",
+            "Cryo-Tessitura Energetica Polarizzata"
+          ]
+        },
+        {
+          "name": "Sinfonia Crepuscolare",
+          "ordine": null,
+          "ingredients": [
+            "Gnoccchi del Crepuscolo",
+            "Pane di Luce",
+            "Biscotti della Galassia",
+            "Spore Quantiche",
+            "Petali di Eco"
+          ],
+          "techniques": [
+            "Grigliatura Eletro-Molecolare a Spaziatura Variabile",
+            "Sinergia ElettroOsmotica Programmabile",
+            "Bollitura Termografica a Rotazione Veloce",
+            "Marinatura Psionica"
+          ]
+        },
+        {
+          "name": "Sinfonia Celestiale dei Ricordi",
+          "ordine": "Andromeda",
+          "ingredients": [
+            "Biscotti della Galassia",
+            "Farina di Nettuno",
+            "Teste di Idra",
+            "Colonia di Mycoflora",
+            "Spaghi del Sole",
+            "Muffa Lunare",
+            "Salsa Szechuan",
+            "Shard di Materia Oscura"
+          ],
+          "techniques": [
+            "Cottura con Microonde Entropiche Sincronizzate",
+            "Impasto a Campi Magnetici Dualistici",
+            "Cottura a Forno Dinamico Inversionale"
+          ]
+        },
+        {
+          "name": "Sfere del Ricordo Astrale",
+          "ordine": null,
+          "ingredients": [
+            "Carne di Drago",
+            "Liane di Plasmodio",
+            "Pane degli Abissi",
+            "Funghi dellʼEtere",
+            "Polvere di Pulsar",
+            "Salsa Szechuan"
+          ],
+          "techniques": [
+            "Marinatura sotto zero a polarità inversa",
+            "Bollitura termografica a rotazione veloce",
+            "Cottura per catturare la salinità minerale dei fondali oceanici",
+            "Cucinati con flusso di particelle isoarmoniche"
+          ]
+        },
+        {
+          "name": "Ordine della Galassia di Andromeda",
+          "ordine": "Andromeda",
+          "ingredients": [],
+          "techniques": []
+        },
+        {
+          "name": "Ordine dei Naturalisti",
+          "ordine": "Naturalisti",
+          "ingredients": [],
+          "techniques": []
+        },
+        {
+          "name": "Ordine degli Armonisti",
+          "ordine": "Armonisti",
+          "ingredients": [],
+          "techniques": []
+        }
+      ]
+    },
+    {
+      "restaurant": "L'Essenza di Asgard",
+      "chef": "Palissandro Luminetti",
+      "planet": "Asgard",
+      "licenses": {
+        "Psionica": 2,
+        "Temporale": 1,
+        "Gravitazionale": 0,
+        "Antimateria": 1,
+        "Magnetica": null,
+        "Quantistica": 13,
+        "Luce": 1
+      },
+      "ltk": 6,
+      "ordini": [
+        "Andromeda",
+        "Naturalisti",
+        "Armonisti"
+      ],
+      "dishes": [
+        {
+          "name": "Quadrifonia Cosmica: Sinfonia di Sapori e Dimensioni",
+          "ordine": null,
+          "ingredients": [
+            "Polvere di Stelle Foglie di Nebulosa Baccacedro",
+            "Foglie di Mandragora",
+            "Teste di Idra",
+            "Pane di Luce Spaghi del Sole Gnocchi del Crepuscolo Lacrime di Unicorno Sale Temporale"
+          ],
+          "techniques": [
+            "Amalgamazione Sintetica Molecolare",
+            "Fermentazione Quantica a Strati Multiversali",
+            "Grigliatura Eletro-Molecolare a Spaziatura Variabile",
+            "Fermentazione Psionica Energetica",
+            "Affumicatura a Stratificazione Quantica"
+          ]
+        },
+        {
+          "name": "Sinfonia Cosmica di Terre e Stelle",
+          "ordine": null,
+          "ingredients": [
+            "Baccacedro",
+            "Liane di Plasmodio",
+            "Fibra di Sintetex",
+            "Carne di Xenodonte",
+            "Pane di Luce",
+            "Pane degli Abissi"
+          ],
+          "techniques": [
+            "Affumicatura Psionica Sensoriale",
+            "Cottura con Microonde Entropiche Sincronizzate",
+            "Fermentazione Psionica Energetica"
+          ]
+        },
+        {
+          "name": "Lumière Cosmica",
+          "ordine": null,
+          "ingredients": [
+            "Polvere di Pulsar",
+            "Radici di Gravità",
+            "Pane degli Abissi",
+            "Funghi Orbitali",
+            "Essenza di Tachioni"
+          ],
+          "techniques": [
+            "Fermentazione Psionica Energetica",
+            "Amalgamazione Sintetica Molecolare"
+          ]
+        },
+        {
+          "name": "Risveglio Cosmico: Un Viaggio nel Sapore Quantistico",
+          "ordine": null,
+          "ingredients": [
+            "Polvere di Stelle",
+            "Liane di Plasmodio",
+            "Biscotti della Galassia",
+            "Amido di Stellarion",
+            "Funghi dell'Etere Salsa Szechuan"
+          ],
+          "techniques": [
+            "Fermentazione Psionica Energetica",
+            "Bollitura Termografica a Rotazione Veloce",
+            "Cottura a Vapore con Flusso di Particelle Isoarmoniche",
+            "Cottura a Forno Dinamico Inversionale"
+          ]
+        },
+        {
+          "name": "L'Ascensione Siderale",
+          "ordine": null,
+          "ingredients": [
+            "Frammenti di Supernova",
+            "Foglie di Nebulosa",
+            "Liane di Plasmodio",
+            "Fibra di Sintetex",
+            "Carne di Balena spaziale",
+            "Fusilli del Vento",
+            "Muffa Lunare",
+            "Essenza di Speziaria"
+          ],
+          "techniques": [
+            "Bollitura Entropica Sincronizzata",
+            "Bollitura Infrasonica Armonizzata"
+          ]
+        },
+        {
+          "name": "Portale di Sapori Arcani",
+          "ordine": null,
+          "ingredients": [
+            "Shard di Prisma Stellare",
+            "Foglie di Mandragora",
+            "Carne di Balena spaziale",
+            "Carne di Kraken",
+            "Essenza di Tachioni"
+          ],
+          "techniques": [
+            "Fermentazione Psionica Energetica",
+            "Cottura con Microonde Entropiche Sincronizzate",
+            "Idro-Cristallizzazione Sonora Quantistica",
+            "Cottura a Vapore Termocinetica Multipla",
+            "Decostruzione Interdimensionale Lovecraftiana"
+          ]
+        },
+        {
+          "name": "Fenice sull'Orizzonte degli Eventi",
+          "ordine": "Andromeda",
+          "ingredients": [
+            "Baccacedro",
+            "Radici di Singolarità",
+            "Colonia di Mycoflora",
+            "Carne di Xenodonte",
+            "Carne di Drago",
+            "Uova di Fenice",
+            "Pane di Luce",
+            "Lacrime di Andromeda",
+            "Spezie Melange"
+          ],
+          "techniques": [
+            "Congelazione Iperdimensionalmente Stratificata",
+            "Cottura a Vapore con Flusso di Particelle Isoarmoniche",
+            "Affumicatura Temporale Risonante"
+          ]
+        },
+        {
+          "name": "Portale Cosmico del Kraken",
+          "ordine": null,
+          "ingredients": [
+            "Polvere di Crononite",
+            "Lattuga Namecciana",
+            "Carne di Drago",
+            "Fibra di Sintetex",
+            "Carne di Kraken",
+            "Amido di Stellarion",
+            "Granuli di Nebbia Arcobaleno",
+            "Farina di Nettuno",
+            "Funghi Orbitali",
+            "Erba Pipa"
+          ],
+          "techniques": [
+            "Affumicatura Temporale Risonante",
+            "Bollitura Infrasonica Armonizzata",
+            "Bollitura Termografica a Rotazione Veloce"
+          ]
+        },
+        {
+          "name": "Una Mucca e una Balena nella Singolarità",
+          "ordine": null,
+          "ingredients": [
+            "Frammenti di Supernova",
+            "Colonia di Mycoflora",
+            "Radici di Singolarità",
+            "Carne di Mucca",
+            "Carne di Balena spaziale",
+            "Fibra di Sintetex",
+            "Farina di Nettuno",
+            "Pane degli Abissi",
+            "Spore Quantiche",
+            "Essenza di Speziaria"
+          ],
+          "techniques": [
+            "Cottura con Microonde Entropiche Sincronizzate",
+            "Fermentazione Quantico Biometrica"
+          ]
+        },
+        {
+          "name": "Risotto Cosmico alla Draconia",
+          "ordine": "Andromeda",
+          "ingredients": [
+            "Cristalli di Nebulite",
+            "Fibra di Sintetex",
+            "Carne di Drago",
+            "Carne di Mucca",
+            "Fusilli del Vento",
+            "Granuli di Nebbia Arcobaleno",
+            "Biscotti della Galassia",
+            "Muffa Lunare",
+            "Petali di Eco"
+          ],
+          "techniques": [
+            "Cottura a Vapore Termocinetica Multipla",
+            "Bollitura Entropica Sincronizzata",
+            "Cottura con Microonde Entropiche Sincronizzate",
+            "Congelazione Iperdimensionalmente Stratificata"
+          ]
+        }
+      ]
+    },
+    {
+      "restaurant": "L'Etere del Gusto",
+      "chef": "Pierino Il Custode Temporali",
+      "planet": "Pandora",
+      "licenses": {
+        "Psionica": 5,
+        "Temporale": 2,
+        "Gravitazionale": 1,
+        "Antimateria": 1,
+        "Magnetica": 1,
+        "Quantistica": null,
+        "Luce": 2
+      },
+      "ltk": 3,
+      "ordini": [
+        "Andromeda",
+        "Naturalisti",
+        "Armonisti"
+      ],
+      "dishes": [
+        {
+          "name": "Galassia di Sapori Eterei",
+          "ordine": "Armonisti",
+          "ingredients": [
+            "Riso di Cassandra",
+            "Foglie di Nebulosa",
+            "Polvere di Stelle",
+            "Granuli di Nebbia Arcobaleno",
+            "Liane di plasmodio",
+            "Farina di Nettuno",
+            "Lacrime di Andromeda"
+          ],
+          "techniques": [
+            "Cottura a Vapore con Flusso di Particelle Isoarmoniche",
+            "Congelamento Bio-Luminiscente Sincronico"
+          ]
+        },
+        {
+          "name": "Il Risveglio del Drago Celeste",
+          "ordine": null,
+          "ingredients": [
+            "Riso di Cassandra",
+            "Carne di Drago",
+            "Carne di Mucca",
+            "Teste di Idra",
+            "Gnocchi del Crepuscolo",
+            "Radici di Singolarità",
+            "Spore Quantiche",
+            "Shard di Prisma Stellare"
+          ],
+          "techniques": [
+            "Cottura a Vapore Ecodinamico Bilanciato",
+            "Fermentazione Quantico Biometrica",
+            "Sinergia Elettro-Osmotica Programmabile"
+          ]
+        },
+        {
+          "name": "L'Abbraccio del Cosmo",
+          "ordine": null,
+          "ingredients": [
+            "Carne di Xenodonte",
+            "Carne di Kraken",
+            "Teste di Idra",
+            "Polvere di Stelle"
+          ],
+          "techniques": [
+            "Cottura a Vapore con Flusso di Particelle Isoarmoniche",
+            "Microonde Entropiche Sincronizzate",
+            "Salsa Szechuan",
+            "Sferificazione Filamentare a Molecole Vibrazionali"
+          ]
+        },
+        {
+          "name": "ATTO II",
+          "ordine": null,
+          "ingredients": [],
+          "techniques": []
+        },
+        {
+          "name": "Cosmic Harmony Infusion",
+          "ordine": null,
+          "ingredients": [
+            "Carne di Balena Spaziale",
+            "Carne di Kraken",
+            "Pane degli Abissi",
+            "Pane di Luce",
+            "Petali di Eco"
+          ],
+          "techniques": [
+            "Affumicatura a Stratificazione Quantica",
+            "Grigliatura Plasma Sintetico Risonante",
+            "Cryo-Tessitura Energetica Polarizzata",
+            "Saltare in Padella Sinergia Psionica"
+          ]
+        },
+        {
+          "name": "Concordanza Cosmica - Sinfonia di Sapori Multidimensionali",
+          "ordine": null,
+          "ingredients": [
+            "Farina di Nettuno",
+            "Carne di Balena Spaziale",
+            "Radici di Singolarità",
+            "Shard di Prisma Stellare",
+            "Pane di Luce",
+            "Uova di Fenice",
+            "Nettare di Sirena",
+            "Essenza di Tachioni"
+          ],
+          "techniques": [
+            "Cottura Olografica Quantum Fluttuante",
+            "Grigliatura Plasma Sintetico Risonante",
+            "Affumicatura Psionica Sensoriale"
+          ]
+        },
+        {
+          "name": "Universo Incantato: Sinfonia dei Gusti Cosmogonici",
+          "ordine": null,
+          "ingredients": [
+            "Spaghi del Sole",
+            "Pulsar",
+            "Foglie di Nebulosa",
+            "Lattuga Namecciana",
+            "Essenza di Speziaria",
+            "Nettare di Sirena"
+          ],
+          "techniques": [
+            "Microonde Entropiche Sincronizzate",
+            "Proiezioni Olografiche Quantum Fluttuanti"
+          ]
+        },
+        {
+          "name": "Eclissi Quantica: Viaggio nei Reami del Gusto",
+          "ordine": null,
+          "ingredients": [
+            "risotto ai Funghi Orbitali",
+            "Farina di Nettuno",
+            "Carne di Mucca",
+            "Fibra di Sintetex",
+            "Salsa Szechuan",
+            "Alghe Bioluminescenti",
+            "Polvere di Stelle",
+            "Foglie di Mandragora",
+            "Amido di Stellarion",
+            "Colonie di Mycoflora"
+          ],
+          "techniques": [
+            "Sottovuoto Antimateria",
+            "Sferificazione Filamentare a Molecole Vibrazionali",
+            "Cottura a Vapore Ecodinamico Bilanciato"
+          ]
+        },
+        {
+          "name": "Sinfonia Multiversale in Otto Movimenti",
+          "ordine": null,
+          "ingredients": [
+            "Brodo di Plasmodio",
+            "Liane di Plasmodio",
+            "Alghe Bioluminescenti",
+            "Rosa di Lattuga Namecciana",
+            "Risotto di Cassandra",
+            "Essenza di Tachioni",
+            "Tartare di Teste di Idra",
+            "Psionica",
+            "Muffa Lunare"
+          ],
+          "techniques": [
+            "Cottura a Vapore Termocinetica Multipla",
+            "Impasto a Campi Magnetici Dualistici",
+            "Cottura a Vapore Ecodinamico Bilanciato"
+          ]
+        },
+        {
+          "name": "La Sinfonia dell'Universo",
+          "ordine": null,
+          "ingredients": [
+            "Spaghi del Sole",
+            "Carne di Drago",
+            "Carne di Mucca",
+            "Biscotti della Galassia",
+            "Farina di Nettuno",
+            "Nettare di Sirena",
+            "Salsa Szechuan",
+            "Vero Ghiaccio"
+          ],
+          "techniques": [
+            "Sinergia Psionica",
+            "Impasto Gravitazionale Vorticoso"
+          ]
+        },
+        {
+          "name": "Sinfonia dell'Universo Morente",
+          "ordine": "Armonisti",
+          "ingredients": [
+            "Riso di Cassandra",
+            "Granuli di Nebbia Arcobaleno",
+            "Carpaccio di Funghi Orbitali",
+            "Gnocchi del Crepuscolo",
+            "Nduja Fritta Tanto",
+            "Cristalli di Memoria",
+            "Liane di Plasmodio"
+          ],
+          "techniques": [
+            "Bollitura Termografica a Rotazione Veloce",
+            "Decostruzione Atomica a Strati Energetici",
+            "Cottura a Vapore Ecodinamico Bilanciato",
+            "Cryo-Tessitura Energetica Polarizzata"
+          ]
+        }
+      ]
+    },
+    {
+      "restaurant": "L'Infinito in un Boccone",
+      "chef": "Alessandro Quantum",
+      "planet": "Krypton",
+      "licenses": {
+        "Psionica": 2,
+        "Temporale": 2,
+        "Gravitazionale": 2,
+        "Antimateria": 0,
+        "Magnetica": null,
+        "Quantistica": 7,
+        "Luce": 1
+      },
+      "ltk": 6,
+      "ordini": [
+        "Andromeda",
+        "Naturalisti",
+        "Armonisti"
+      ],
+      "dishes": [
+        {
+          "name": "Universo in Fluttuazione",
+          "ordine": null,
+          "ingredients": [
+            "Vero Ghiaccio",
+            "scorza artica",
+            "Farina di Nettuno",
+            "Pane di Luce",
+            "Carne di Drago",
+            "Lacrime di Unicorno",
+            "Amido di Stellarion",
+            "Luce (I)"
+          ],
+          "techniques": [
+            "Fermentazione Quantica a Strati Multiversali",
+            "Cottura Sottovuoto Multirealità Collassante",
+            "Taglio a Risonanza Sonica Rigenerativa"
+          ]
+        },
+        {
+          "name": "Sinfonia Astrale - Risotto Multiversale con Risacca Celeste",
+          "ordine": null,
+          "ingredients": [
+            "Riso di Cassandra",
+            "brodo di Teste di Idra",
+            "Carne di Xenodonte",
+            "Polvere di Pulsar",
+            "Lattuga Namecciana",
+            "amido di Stellarion",
+            "Lacrime di Andromeda",
+            "Vuoto"
+          ],
+          "techniques": [
+            "Cottura Sottovuoto Multirealità Collassante",
+            "Bollitura Termografica a Rotazione Veloce",
+            "Congelazione Iperdimensionalmente Stratificata"
+          ]
+        },
+        {
+          "name": "Sinfonia Temporale Galattica",
+          "ordine": null,
+          "ingredients": [
+            "Colonies di Mycoflora",
+            "Fibra di Sintetex",
+            "Cristalli di Nebulite",
+            "Spore Quantiche",
+            "Bacche di Baccacedro",
+            "Sale Temporale"
+          ],
+          "techniques": [
+            "affettamento a pulsazioni quantistiche",
+            "Gravitazionale (I)",
+            "Cottura Olografica Quantum Fluttuante"
+          ]
+        },
+        {
+          "name": "Sinfonia del Multiverso di Gusto",
+          "ordine": null,
+          "ingredients": [
+            "Amido di Stellarion",
+            "Carne di Xenodonte",
+            "Carne di Kraken",
+            "Carne di Mucca",
+            "Granuli di Nebbia Arcobaleno",
+            "Fusilli del Vento",
+            "Erba Pipa"
+          ],
+          "techniques": [
+            "Cottura a Vapore Ecodinamico Bilanciato",
+            "Cottura a Vapore Ecodinamico Bilanciato",
+            "Decostruzione Interdimensionale Lovecraftiana",
+            "Fermentazione Psionica Energetica"
+          ]
+        },
+        {
+          "name": "Sinfonia Cosmica",
+          "ordine": null,
+          "ingredients": [
+            "Shard di Prisma Stellare",
+            "Granuli di Nebbia Arcobaleno",
+            "Colonia di Mycoflora",
+            "Carne di Balena Spaziale",
+            "Radici di Singolarità",
+            "Pane degli Abissi",
+            "Funghi dell'Etere",
+            "Essenza di Vuoto",
+            "Baccacedro"
+          ],
+          "techniques": [
+            "Affettamento a Pulsazioni Quantistiche",
+            "Cottura Sottovuoto Frugale Energeticamente Negativa"
+          ]
+        },
+        {
+          "name": "Danza Cosmica al Crepuscolo",
+          "ordine": null,
+          "ingredients": [
+            "Gnocchi del Crepuscolo",
+            "Carne di Drago",
+            "Muffa Lunare",
+            "Polvere di Stelle",
+            "Essenza di Vuoto"
+          ],
+          "techniques": [
+            "Cottura Sottovuoto Multirealità Collassante",
+            "Fermentazione Quantico Biometrica"
+          ]
+        },
+        {
+          "name": "Sinfonia Astrale",
+          "ordine": null,
+          "ingredients": [
+            "Riso di Cassandra",
+            "Pane degli Abissi",
+            "Gnocchi del Crepuscolo",
+            "Nduja Fritta Tanto",
+            "Uova di Fenice",
+            "Lacrime di Unicorno",
+            "Frammenti di Supernova"
+          ],
+          "techniques": [
+            "Bollitura Infrasonica Armonizzata",
+            "Saltare in Padella Realtà Energetiche Parallele"
+          ]
+        },
+        {
+          "name": "Dimensioni di Sapori Infusi",
+          "ordine": null,
+          "ingredients": [
+            "Riso di Cassandra",
+            "Carne di Mucca",
+            "Pane di Luce",
+            "Colonia di Mycoflora",
+            "Nettare di Sirena",
+            "Foglie di Nebulosa"
+          ],
+          "techniques": [
+            "Idro-Cristallizzazione Sonora Quantistica",
+            "Affumicatura Temporale Risonante",
+            "Fermentazione Psionica Energetica",
+            "Affumicatura Psionica Sensoriale",
+            "Saltare in Padella Realtà Energetiche Parallele"
+          ]
+        },
+        {
+          "name": "Cosmos Culinary Symphony",
+          "ordine": "Armonisti",
+          "ingredients": [
+            "Biscotti della Galassia",
+            "Spaghi del Sole",
+            "Carne di Mucca",
+            "Salsa Szechuan",
+            "Amido di Stellarion",
+            "Radici di Gravità",
+            "Plasma Vitale",
+            "Uova di Fenice",
+            "Lattuga Namecciana",
+            "Vero Ghiaccio"
+          ],
+          "techniques": [
+            "affettamento a pulsazioni quantistiche",
+            "saltare in padella realtà energetiche parallele",
+            "sottovuoto bioma sintetico",
+            "cottura con microonde entropiche sincronizzate"
+          ]
+        },
+        {
+          "name": "Portale delle Meraviglie",
+          "ordine": "Armonisti",
+          "ingredients": [
+            "Pane di Luce",
+            "Carne di Balena spaziale",
+            "Amido di Stellarion",
+            "Carne di Drago",
+            "Singolarità",
+            "Gravità",
+            "Uovo di Fenice",
+            "Marinatura Temporale Sincronizzata",
+            "Granuli di Nebbia Arcobaleno",
+            "Essenza di Speziaria",
+            "Vero Ghiaccio"
+          ],
+          "techniques": [
+            "Cottura Sottovuoto Frugale Energeticamente Negativa",
+            "Affettamento a Pulsazioni Quantistiche",
+            "Marinatura Temporale Sincronizzata",
+            "Decostruzione Interdimensionale Lovecraftiana"
+          ]
+        }
+      ]
+    },
+    {
+      "restaurant": "L'Oasi delle Dune Stellari",
+      "chef": "Alessandra Nova Celestini",
+      "planet": "Tatooine",
+      "licenses": {
+        "Psionica": 4,
+        "Temporale": 3,
+        "Gravitazionale": 1,
+        "Antimateria": 1,
+        "Magnetica": 1,
+        "Quantistica": 9,
+        "Luce": 3
+      },
+      "ltk": 4,
+      "ordini": [
+        "Andromeda",
+        "Naturalisti",
+        "Armonisti"
+      ],
+      "dishes": [
+        {
+          "name": "La Creazione di Nova",
+          "ordine": null,
+          "ingredients": [
+            "Frammenti di Supernova",
+            "Lattuga Namecciana",
+            "Radici di Gravità",
+            "Fibra di Sintetex",
+            "Teste di Idra",
+            "Carne di Drago",
+            "Riso di Cassandra",
+            "Essenza di Vuoto"
+          ],
+          "techniques": [
+            "Cottura a Vapore Ecodinamico Bilanciato",
+            "Cottura a Vapore Ecodinamico Bilanciato",
+            "Olografica Quantum Fluttuante",
+            "Fermentazione Psionica Energetica"
+          ]
+        },
+        {
+          "name": "Eterea Sinfonia di Gravità con Infusione Temporale",
+          "ordine": null,
+          "ingredients": [
+            "Carne di Xenodonte",
+            "Funghi dell'Etere",
+            "Radici di Gravità",
+            "Essenza di Tachioni",
+            "Colonia di Mycoflora",
+            "Teste di Idra"
+          ],
+          "techniques": [
+            "Cottura al Forno con Paradosso Temporale Cronospeculare",
+            "Sinergia Elettro-Osmotica Programmabile",
+            "Congelazione Iperdimensionalmente Stratificata"
+          ]
+        },
+        {
+          "name": "Universo in Fusilli - Variazione Celestiale",
+          "ordine": null,
+          "ingredients": [
+            "Carne di Xenodonte",
+            "Teste di Idra",
+            "Pane degli Abissi",
+            "Fusilli del Vento",
+            "Muffa Lunare"
+          ],
+          "techniques": [
+            "Modellatura Onirica Tetrazionale",
+            "Decostruzione Ancestrale"
+          ]
+        },
+        {
+          "name": "Cosmic Serenade",
+          "ordine": "Andromeda",
+          "ingredients": [
+            "Sfere sferificate a gravità psionica variabile",
+            "Brodo ottenuto tramite ebollizione magneto-cinetica pulsante",
+            "Nettare di Sirena",
+            "Carne di Balena spaziale",
+            "Carne di Kraken",
+            "Essenza di tachioni",
+            "Foglie di Mandragora",
+            "Amido di Stellarion",
+            "Shard di Materia Oscura"
+          ],
+          "techniques": [
+            "Sferificazione a Gravità Psionica Variabile",
+            "Ebollizione Magneto-Cinetica Pulsante"
+          ]
+        },
+        {
+          "name": "Ecosistema Celeste",
+          "ordine": "Naturalisti",
+          "ingredients": [
+            "Liane di Plasmodio",
+            "Colonia di Mycoflora",
+            "Baccacedro",
+            "Amido di Stellarion",
+            "Lacrime di Andromeda",
+            "Nduja Fritta Tanto"
+          ],
+          "techniques": [
+            "Decostruzione Ancestrale",
+            "Surgelamento Antimaterico a Risonanza Inversa",
+            "Sinergia Elettro-Osmotica Programmabile"
+          ]
+        },
+        {
+          "name": "Universo in Un Boccone",
+          "ordine": "Armonisti",
+          "ingredients": [
+            "Pane di Luce",
+            "Sfere create attraverso la tecnica di Sferificazione con Campi Magnetici Entropici",
+            "Essenza di Alghe Bioluminescenti",
+            "Carne di Drago",
+            "Radici di Singolarità",
+            "Gnocchi del Crepuscolo",
+            "Teste di Idra",
+            "Nduja Fritta Tanto",
+            "Frammenti di Supernova",
+            "Muffa Lunare"
+          ],
+          "techniques": [
+            "Sferificazione con Campi Magnetici Entropici",
+            "Cottura Sottovuoto Bioma Sintetico",
+            "Idro-Cristallizzazione Sonora Quantistica"
+          ]
+        },
+        {
+          "name": "Nebulosa Celestiale di Sogni Quantici",
+          "ordine": null,
+          "ingredients": [
+            "Liane di Plasmodio",
+            "Granuli di Nebbia Arcobaleno",
+            "Baccacedro",
+            "Polvere di Crononite",
+            "Lacrime di Unicorno",
+            "Amido di Stellarion",
+            "Salsa Szechuan"
+          ],
+          "techniques": [
+            "Big Bang Microcosmico",
+            "Sferificazione Cromatica Interdimensionale",
+            "Surgelamento Antimaterico a Risonanza Inversa",
+            "Affumicatura Temporale Risonante"
+          ]
+        },
+        {
+          "name": "Universo Cosmico nel Piatto",
+          "ordine": null,
+          "ingredients": [
+            "Spaghi del Sole",
+            "Carne di Kraken",
+            "Lattuga Namecciana",
+            "Vero Ghiaccio",
+            "Colonia di Mycoflora",
+            "Uova di Fenice",
+            "Muffa Lunare",
+            "Erba Pipa"
+          ],
+          "techniques": [
+            "Sferificazione tramite Matrici Biofotiche",
+            "Incisione Elettromagnetica Plasmica",
+            "Idro-Cristallizzazione Sonora Quantistica",
+            "Ebollizione Magneto-Cinetica Pulsante"
+          ]
+        },
+        {
+          "name": "Galassia Speculare",
+          "ordine": null,
+          "ingredients": [
+            "Fusilli del Vento",
+            "Liane di Plasmodio",
+            "Polvere di Pulsar",
+            "Colonia di Mycoflora",
+            "Radici di Singolarità",
+            "Pane di Luce",
+            "Essenza di Tachioni"
+          ],
+          "techniques": [
+            "Sferificazione tramite Matrici Biofotiche",
+            "Ebollizione Magneto-Cinetica Pulsante",
+            "Affumicatura Polarizzata a Freddo Iperbarico",
+            "Cryo-Tessitura Energetica Polarizzata"
+          ]
+        }
+      ]
+    },
+    {
+      "restaurant": "L'Universo in Cucina",
+      "chef": "Chef Crina Cosmi",
+      "planet": "Klyntar",
+      "licenses": {
+        "Psionica": 2,
+        "Temporale": 1,
+        "Gravitazionale": 2,
+        "Antimateria": 1,
+        "Magnetica": null,
+        "Quantistica": 11,
+        "Luce": 1
+      },
+      "ltk": 6,
+      "ordini": [
+        "Andromeda",
+        "Naturalisti",
+        "Armonisti"
+      ],
+      "dishes": [
+        {
+          "name": "Galassia di Sapori Interstellari",
+          "ordine": null,
+          "ingredients": [
+            "Gnocchi del Crepuscolo",
+            "Granuli di Nebbia Arcobaleno",
+            "Amido di Stellarion",
+            "Foglie di Nebulosa",
+            "Erba Pipa",
+            "Spore Quantiche",
+            "Radici di Singolarità",
+            "Baccacedro",
+            "Polvere di Crononite"
+          ],
+          "techniques": [
+            "Cottura a Vapore con Flusso di Particelle Isoarmoniche",
+            "Cottura Sottovuoto Frugale Energeticamente Negativa"
+          ]
+        },
+        {
+          "name": "Galassia Aurorale",
+          "ordine": null,
+          "ingredients": [
+            "Liane di Plasmodio",
+            "Radici di Gravità",
+            "Cristalli di Nebulite",
+            "Carne di Xenodonte",
+            "Carne di Drago",
+            "Foglie di Nebulosa",
+            "Spaghi del Sole",
+            "Uovo di Fenice",
+            "Farina di Nettuno",
+            "Amido di Stellarion"
+          ],
+          "techniques": [
+            "Cottura a Forno Dinamico Inversionale",
+            "Cottura a Vapore Ecodinamico Bilanciato"
+          ]
+        },
+        {
+          "name": "Galassia di Sapori: L'Eterno Ritorno",
+          "ordine": null,
+          "ingredients": [
+            "Riso di Cassandra",
+            "Carne di Balena Spaziale",
+            "Carne di Drago",
+            "Pane di Luce",
+            "Farina di Nettuno",
+            "Radici di Singolarità",
+            "Lacrime di Andromeda",
+            "Sale Temporale",
+            "Cristalli di Memoria",
+            "Fibra di Sintetex"
+          ],
+          "techniques": [
+            "Cottura a Vapore con Flusso di Particelle Isoarmoniche",
+            "Cottura Sottovuoto Frugale Energeticamente Negativa",
+            "Amalgamazione Sintetica Molecolare"
+          ]
+        },
+        {
+          "name": "Rivelazione del Multiverso",
+          "ordine": null,
+          "ingredients": [
+            "Carne di Kraken",
+            "Lacrime di Andromeda",
+            "Sale Temporale",
+            "Pane degli Abissi",
+            "Farina di Nettuno",
+            "Cristalli di Memoria",
+            "Baccacedro"
+          ],
+          "techniques": [
+            "Marinatura a Infusione Gravitazionale",
+            "Pulsazioni Quantistiche",
+            "Cottura Sottovuoto Frugale Energeticamente Negativa",
+            "Affumicatura tramite Big Bang Microcosmico"
+          ]
+        },
+        {
+          "name": "Sinfonia Cosmica della Rinascita",
+          "ordine": null,
+          "ingredients": [
+            "Carne di Mucca",
+            "Uovo di Fenice",
+            "Radici di Singolarità",
+            "Granuli di Nebbia Arcobaleno",
+            "Cristalli di Nebulite",
+            "Spaghi del Sole",
+            "Biscotti della Galassia",
+            "Erba Pipa"
+          ],
+          "techniques": [
+            "Cottura Sottovuoto Antimateria",
+            "Big Bang Microcosmico",
+            "Marinatura tramite Reazioni d'Antimateria Diluite",
+            "Idro-Cristallizzazione Sonora Quantistica",
+            "Decostruzione Interdimensionale Lovecraftiana"
+          ]
+        },
+        {
+          "name": "Galassia di Sapori",
+          "ordine": null,
+          "ingredients": [
+            "Carne di Mucca e Drago",
+            "Radici di Gravità",
+            "Nettare di Sirena",
+            "Essenza di Speziaria"
+          ],
+          "techniques": [
+            "Reazioni d'Antimateria Diluite",
+            "Big Bang Microcosmico"
+          ]
+        },
+        {
+          "name": "Stellar Fusion",
+          "ordine": null,
+          "ingredients": [
+            "Farina di Nettuno",
+            "Amalgamazione Sintetica Molecolare",
+            "Funghi Orbitali",
+            "Fibra di Sintetex",
+            "Grigliatura Elettro-Molecolare a Spaziatura Variabile",
+            "Salsa Szechuan",
+            "Bollitura Infrasonica Armonizzata",
+            "Shard di Materia Oscura",
+            "Cottura Sottovuoto Antimateria",
+            "Saltare in Padella Realtà Energetiche Parallele"
+          ],
+          "techniques": [
+            "Amalgamazione Sintetica Molecolare",
+            "Grigliatura Elettro-Molecolare a Spaziatura Variabile",
+            "Bollitura Infrasonica Armonizzata",
+            "Cottura Sottovuoto Antimateria",
+            "Saltare in Padella Realtà Energetiche Parallele"
+          ]
+        },
+        {
+          "name": "Portale delle Stelle",
+          "ordine": null,
+          "ingredients": [
+            "Carne di Xenodonte",
+            "Microonde Entropiche Sincronizzate",
+            "Funghi dell'Etere",
+            "Biscotti della Galassia",
+            "Frammenti di Supernova",
+            "Spezie Melange",
+            "Decostruzione Atomica a Strati Energetici",
+            "Affumicatura tramite Big Bang Microcosmico",
+            "Fermentazione Quantico Biometrica"
+          ],
+          "techniques": [
+            "Microonde Entropiche Sincronizzate",
+            "Decostruzione Atomica a Strati Energetici",
+            "Affumicatura tramite Big Bang Microcosmico",
+            "Fermentazione Quantico Biometrica"
+          ]
+        },
+        {
+          "name": "Sogni di Abisso Cosmico",
+          "ordine": null,
+          "ingredients": [
+            "Pane degli Abissi",
+            "Carne di Kraken",
+            "Marinatura Temporale Sincronizzata",
+            "Microonde Entropiche Sincronizzate",
+            "Farina di Nettuno",
+            "Cottura Olografica Quantum Fluttuante",
+            "Erba Pipa",
+            "Teste di Idra",
+            "Decostruzione Interdimensionale Lovecraftiana",
+            "Fusilli del Vento",
+            "Cottura Sottovuoto Frugale Energeticamente Negativa",
+            "Uova di Fenice",
+            "Cottura con Microonde Entropiche Sincronizzate"
+          ],
+          "techniques": [
+            "Marinatura Temporale Sincronizzata",
+            "Microonde Entropiche Sincronizzate",
+            "Cottura Olografica Quantum Fluttuante",
+            "Decostruzione Interdimensionale Lovecraftiana",
+            "Cottura Sottovuoto Frugale Energeticamente Negativa",
+            "Cottura con Microonde Entropiche Sincronizzate"
+          ]
+        }
+      ]
+    },
+    {
+      "restaurant": "Le Dimensioni del Gusto",
+      "chef": "Aurora Celestini",
+      "planet": "Ego",
+      "licenses": {
+        "Psionica": 3,
+        "Temporale": null,
+        "Gravitazionale": 1,
+        "Antimateria": 0,
+        "Magnetica": null,
+        "Quantistica": 2,
+        "Luce": null
+      },
+      "ltk": 2,
+      "ordini": [
+        "Andromeda",
+        "Naturalisti",
+        "Armonisti"
+      ],
+      "dishes": [
+        {
+          "name": "Sinfonia Cosmica: la Vendetta Fantasma",
+          "ordine": "Andromeda",
+          "ingredients": [
+            "Fusilli del Vento",
+            "Spaghi del Sole",
+            "Colonia di Mycoflora",
+            "Essenza di Vuoto",
+            "Carne di Balena Spaziale",
+            "Pane di Luce",
+            "Granuli di Nebbia Arcobaleno",
+            "Biscotti della Galassia",
+            "Erba Pipa",
+            "Frammenti di Supernova",
+            "x?ot of40° alimenti"
+          ],
+          "techniques": [
+            "Cottura a Vapore Termocinetica Multipla",
+            "Cottura Sottovuoto Frugale Energeticamente Negativa",
+            "Marinatura Psionica",
+            "Quantico Biometrica",
+            "Grigliatura Elettro-Molecolare a Spaziatura Variabile",
+            "Amalgamazione Sintetica Molecolare",
+            "Impasto Gravitazionale Vorticoso",
+            "Fermentazione Quantico Biometrica",
+            "Taglio a Risonanza Sonica Rigenerativa",
+            "Cottura con Microonde Entropiche Sincronizzate",
+            "Cottura a Vapore Ecodinamico Bilanciato",
+            "Affumicatura a Stratificazione Quantica",
+            "Bollitura Infrasonica Armonizzata",
+            "Manipolazione Gravitazionale",
+            "Cottura a Vapore con Flusso di Particelle Isoarmoniche"
+          ]
+        },
+        {
+          "name": "Sinfonia Cosmica: il Ritorno dell'Imperatore",
+          "ordine": "Andromeda",
+          "ingredients": [
+            "Carne di Balena Spaziale",
+            "Carne di Mucca",
+            "Spore Quantiche",
+            "Polvere di Crononite",
+            "Erba Pipa",
+            "Frammenti di Supernova"
+          ],
+          "techniques": [
+            "Grigliatura Elettro-Molecolare a Spaziatura Variabile",
+            "Amalgamazione Sintetica Molecolare",
+            "Cottura a Vapore Ecodinamico Bilanciato",
+            "Marinatura Psionica",
+            "Quantico Biometrica",
+            "Fermentazione Quantico Biometrica",
+            "Taglio a Risonanza Sonica Rigenerativa",
+            "Cottura con Microonde Entropiche Sincronizzate",
+            "Cottura a Vapore Termocinetica Multipla"
+          ]
+        },
+        {
+          "name": "Evanescenza Cosmica",
+          "ordine": "Andromeda",
+          "ingredients": [
+            "Fusilli del Vento",
+            "Shard di Materia Oscura",
+            "Foglie di Mandragora",
+            "Fibra di Sintetex",
+            "Uova di Fenice",
+            "Plasma Vitale",
+            "Essenza di Tachioni"
+          ],
+          "techniques": [
+            "Impasto Gravitazionale Vorticoso",
+            "Amalgamazione Sintetica Molecolare",
+            "Fermentazione Quantico Biometrica",
+            "Cottura con Microonde Entropiche Sincronizzate",
+            "Quantico Biometrica",
+            "Marinatura Psionica",
+            "Cottura a Vapore Ecodinamico Bilanciato"
+          ]
+        },
+        {
+          "name": "Galassia nel Piatto: Sinfonia Universale di Aromi e Sapori",
+          "ordine": "Andromeda",
+          "ingredients": [
+            "Riso di Cassandra",
+            "Carne di Drago",
+            "Carne di Xenodonte",
+            "Salsa Szechuan",
+            "Spaghi del Sole",
+            "Muffa Lunare",
+            "Biscotti della Galassia",
+            "Vero Ghiaccio"
+          ],
+          "techniques": [
+            "Bollitura Infrasonica Armonizzata",
+            "Cottura a Vapore Termocinetica Multipla",
+            "Affumicatura a Stratificazione Quantica",
+            "Cottura con Microonde Entropiche Sincronizzate",
+            "Quantico Biometrica",
+            "Marinatura Psionica",
+            "Impasto Gravitazionale Vorticoso"
+          ]
+        },
+        {
+          "name": "Sinfonia Galattica di Sapori con Sorpresa di Drago Fiammante",
+          "ordine": "Andromeda",
+          "ingredients": [
+            "Lattuga Namecciana",
+            "Carne di Balena Spaziale",
+            "Teste di Idra",
+            "Fibra di Sintetex",
+            "Funghi Orbitali",
+            "Nduja Fritta Tanto",
+            "Cristalli di Memoria"
+          ],
+          "techniques": [
+            "Marinatura Psionica",
+            "Cottura a Vapore Ecodinamico Bilanciato",
+            "Microonde Entropiche Sincronizzate",
+            "Quantico Biometrica",
+            "Fermentazione Quantico Biometrica",
+            "Impasto Gravitazionale Vorticoso",
+            "Cottura a Vapore Termocinetica Multipla"
+          ]
+        },
+        {
+          "name": "Galassia di Sapori di Aurora",
+          "ordine": "Andromeda",
+          "ingredients": [
+            "Carne di Mucca",
+            "Fibra di Sintetex",
+            "Uova di Fenice",
+            "Funghi dell'Etere",
+            "Amido di Stellarion",
+            "Nduja Fritta Tanto"
+          ],
+          "techniques": [
+            "Grigliatura Elettro-Molecolare a Spaziatura Variabile",
+            "Cottura con Microonde Entropiche Sincronizzate",
+            "Fermentazione Quantico Biometrica",
+            "Impasto Gravitazionale Vorticoso",
+            "Quantico Biometrica",
+            "Marinatura Psionica",
+            "Cottura a Vapore Ecodinamico Bilanciato"
+          ]
+        },
+        {
+          "name": "Galassia di Sapore Interdimensionale",
+          "ordine": "Andromeda",
+          "ingredients": [
+            "Cristalli di Memoria",
+            "Carne di Mucca",
+            "Carne di Balena Spaziale",
+            "Riso di Cassandra",
+            "Erba Pipa",
+            "Pane di Luce"
+          ],
+          "techniques": [
+            "Cottura a Vapore con Flusso di Particelle Isoarmoniche",
+            "Marinatura Psionica",
+            "Quantico Biometrica",
+            "Cottura a Vapore Ecodinamico Bilanciato",
+            "Affumicatura a Stratificazione Quantica",
+            "Bollitura Infrasonica Armonizzata",
+            "Manipolazione Gravitazionale"
+          ]
+        },
+        {
+          "name": "Galassia di Sapori: Sinfonia Transdimensionale",
+          "ordine": "Andromeda",
+          "ingredients": [
+            "Granuli di Nebbia Arcobaleno",
+            "Pane degli Abissi",
+            "Spaghi del Sole",
+            "Muffa Lunare",
+            "Frammenti di Supernova",
+            "Pane di Luce"
+          ],
+          "techniques": [
+            "Cottura a Vapore Termocinetica Multipla",
+            "Cottura con Microonde Entropiche Sincronizzate",
+            "Affumicatura a Stratificazione Quantica",
+            "Cottura a Vapore Ecodinamico Bilanciato",
+            "Fermentazione Quantico Biometrica",
+            "Quantico Biometrica",
+            "Marinatura Psionica"
+          ]
+        }
+      ]
+    },
+    {
+      "restaurant": "Le Stelle che Ballano",
+      "chef": "Alessandra Nova",
+      "planet": "Krypton",
+      "licenses": {
+        "Psionica": 4,
+        "Temporale": null,
+        "Gravitazionale": 1,
+        "Antimateria": 0,
+        "Magnetica": null,
+        "Quantistica": 5,
+        "Luce": null
+      },
+      "ltk": 3,
+      "ordini": [
+        "Andromeda",
+        "Naturalisti",
+        "Armonisti"
+      ],
+      "dishes": [
+        {
+          "name": "Nebulosa Galattica",
+          "ordine": "Andromeda",
+          "ingredients": [
+            "Radici di Gravità",
+            "Alghe Bioluminescenti",
+            "Foglie di Nebulosa",
+            "Gnocchi del Crepuscolo",
+            "Essenza di Tachioni"
+          ],
+          "techniques": [
+            "Cottura a Vapore con Flusso di Particelle Isoarmoniche",
+            "Bollitura Infrasonica Armonizzata",
+            "Sferificazione a Gravità Psionica Variabile",
+            "Affumicatura Psionica Sensoriale"
+          ]
+        },
+        {
+          "name": "Sinfonia Cosmica di Proteine Interstellari",
+          "ordine": "Naturalisti",
+          "ingredients": [
+            "Carne di Balena spaziale",
+            "Mucca",
+            "Xenodonte",
+            "Pane degli Abissi",
+            "Funghi dell'Etere"
+          ],
+          "techniques": [
+            "Marinatura Psionica",
+            "Cottura a Vapore Termocinetica Multipla",
+            "Cottura Sottovuoto Frugale Energeticamente Negativa"
+          ]
+        },
+        {
+          "name": "L'Estasi Cosmica di Nova",
+          "ordine": "Armonisti",
+          "ingredients": [
+            "Polvere di Pulsar",
+            "Foglie di Mandragora",
+            "Carne di Balena spaziale",
+            "Pane di Luce",
+            "Granuli di Nebbia Arcobaleno",
+            "Funghi Orbitali",
+            "Sale Temporale"
+          ],
+          "techniques": [
+            "Fluttuazioni Quantistiche del Vuoto",
+            "Cottura a Vapore con Flusso di Particelle Isoarmoniche"
+          ]
+        },
+        {
+          "name": "Viaggio Galattico: Sinfonia dei Sensi",
+          "ordine": "Andromeda",
+          "ingredients": [
+            "Carne di Xenodonte",
+            "Kraken",
+            "Baccacedro",
+            "Riso di Cassandra",
+            "Essenza di Speziaria",
+            "Shard di Prisma Stellare"
+          ],
+          "techniques": [
+            "Cottura a Vapore con Flusso di Particelle Isoarmoniche",
+            "Bollitura Entropica Sincronizzata",
+            "Affumicatura a Stratificazione Quantica"
+          ]
+        },
+        {
+          "name": "Cosmic Synchrony: Il Destino di Pulsar",
+          "ordine": "Armonisti",
+          "ingredients": [
+            "Plasma Vitale",
+            "Spaghi del Sole",
+            "Farina di Nettuno",
+            "Foglie di Mandragora",
+            "Polvere di Pulsar",
+            "Essenza di Tachioni"
+          ],
+          "techniques": [
+            "Sferificazione a Gravità Psionica Variabile",
+            "Marinatura Psionica",
+            "Cottura a Vapore Termocinetica Multipla",
+            "Bollitura Entropica Sincronizzata"
+          ]
+        },
+        {
+          "name": "Il Crepuscolo dell’Unicorno",
+          "ordine": "Naturalisti",
+          "ingredients": [
+            "Amido di Stellarion",
+            "Radici di Gravità",
+            "Shard di Materia Oscura",
+            "Alghe Bioluminescenti",
+            "Lacrime di Unicorno"
+          ],
+          "techniques": [
+            "Cottura Olografica Quantum Fluttuante",
+            "Fermentazione Psionica Energetica",
+            "Taglio a Risonanza Sonica Rigenerativa"
+          ]
+        },
+        {
+          "name": "Galassia di Sapore",
+          "ordine": "Andromeda",
+          "ingredients": [
+            "Carne di Xenodonte",
+            "Carne di Balena spaziale",
+            "Amido di Stellarion",
+            "Carne di Kraken",
+            "Colonia di Mycoflora",
+            "Lattuga Namecciana",
+            "Erba Pipa",
+            "Shard di Prisma Stellare"
+          ],
+          "techniques": [
+            "Cottura con Microonde Entropiche Sincronizzate",
+            "Amalgamazione Sintetica Molecolare"
+          ]
+        },
+        {
+          "name": "Il Risveglio della Fenice sull'Arcobaleno d'Oceano",
+          "ordine": "Armonisti",
+          "ingredients": [
+            "Granuli di Nebbia Arcobaleno",
+            "Uova di Fenice",
+            "Foglie di Nebulosa",
+            "Pane degli Abissi",
+            "Nettare di Sirena",
+            "Essenza di Speziaria",
+            "Polvere di Pulsar",
+            "Colonia di Mycoflora"
+          ],
+          "techniques": [
+            "Saltare in Padella Classica",
+            "Taglio a Risonanza Sonica Rigenerativa"
+          ]
+        },
+        {
+          "name": "Il Viaggio Celeste",
+          "ordine": "Naturalisti",
+          "ingredients": [
+            "Gnocchi del Crepuscolo",
+            "Lattuga Namecciana",
+            "Carne di Kraken",
+            "Carne di Drago",
+            "Polvere di Crononite",
+            "Fibra di Sintetex",
+            "Muffa Lunare",
+            "Erba Pipa"
+          ],
+          "techniques": [
+            "Cottura a Vapore Termocinetica Multipla",
+            "Fermentazione Quantico Biometrica"
+          ]
+        },
+        {
+          "name": "Luce e Ombra di Nomea Spaziale",
+          "ordine": "Andromeda",
+          "ingredients": [
+            "Lattuga Namecciana",
+            "Carne di Balena spaziale",
+            "Fusilli del Vento",
+            "Pane di Luce",
+            "Lacrime di Unicorno",
+            "Essenza di Speziaria"
+          ],
+          "techniques": [
+            "Taglio Sinaptico Biomimetico",
+            "Idro-Cristallizzazione Sonora Quantistica",
+            "Grigliatura Elettro-Molecolare a Spaziatura Variabile",
+            "Cottura a Vapore Risonante Simbiotico",
+            "Affettamento a Pulsazioni Quantistiche"
+          ]
+        }
+      ]
+    },
+    {
+      "restaurant": "Le Stelle Danzanti",
+      "chef": "Asteria Nova",
+      "planet": null,
+      "licenses": {
+        "Psionica": 3,
+        "Temporale": null,
+        "Gravitazionale": 2,
+        "Antimateria": 0,
+        "Magnetica": null,
+        "Quantistica": null,
+        "Luce": 3
+      },
+      "ltk": 4,
+      "ordini": [
+        "Andromeda"
+      ],
+      "dishes": [
+        {
+          "name": "Rivisitazione del Kraken sotto Molecole",
+          "ordine": null,
+          "ingredients": [
+            "Carne di Kraken",
+            "Colonia di Mycoflora",
+            "Spezie Melange",
+            "Fusilli del Vento",
+            "Foglie di Mandragora",
+            "Polvere di Crononite",
+            "Pane di Luce",
+            "Fibra di Sintetex"
+          ],
+          "techniques": [
+            "Grigliatura a Energia Stellare DiV",
+            "Amalgamazione Sintetica Molecolare",
+            "Cottura a Vapore Termocinetico Multiplo"
+          ]
+        },
+        {
+          "name": "Sinfonia Celestiale",
+          "ordine": null,
+          "ingredients": [
+            "Gnocchi del Crepuscolo",
+            "Muffa Lunare",
+            "Pane degli Abissi",
+            "Uova di Fenice",
+            "Teste di Idra",
+            "Polvere di Stelle",
+            "Petali di Eco",
+            "Biscotti della Galassia"
+          ],
+          "techniques": [
+            "Grigliatura Psionica Dinamica Ritmica",
+            "Cottura in Microonde Entropiche Sincronizzate",
+            "Amalgamazione Sintetica Molecolare"
+          ]
+        },
+        {
+          "name": "Sinfonia Cosmica di Sapori",
+          "ordine": null,
+          "ingredients": [
+            "Liane di Plasmodio",
+            "Teste di Idra",
+            "Alghe Bioluminescenti",
+            "Biscotti della Galassia",
+            "Lattuga Namecciana",
+            "Shard di Materia Oscura",
+            "Nduja Fritta Tanto",
+            "Nettare di Sirena"
+          ],
+          "techniques": [
+            "Cottura a Vapore Risonante Simbiotico",
+            "Cottura Olografica Quantum Fluttuante",
+            "Fermentazione Psionica Energetica"
+          ]
+        },
+        {
+          "name": "Galassia di Sogni Cosmogastronomici",
+          "ordine": "Andromeda",
+          "ingredients": [
+            "Spaghi del Sole",
+            "Shard di Prisma Stellare",
+            "Nettare di Sirena",
+            "Nebbia Arcobaleno",
+            "Baccacedro",
+            "Erba Pipa"
+          ],
+          "techniques": [
+            "Cottura a Vapore Risonante Simbiotico",
+            "Fermentazione Quantico Biometrica",
+            "Grigliatura Elettro-Molecolare a Spaziatura Variabile"
+          ]
+        },
+        {
+          "name": "Entropia Eterna",
+          "ordine": "Naturalisti",
+          "ingredients": [
+            "Carne di Balena Spaziale",
+            "Teste di Idra",
+            "Fibra di Sintetex",
+            "Biscotti della Galassia"
+          ],
+          "techniques": [
+            "Affumicatura a Stratificazione Quantica",
+            "Bollitura Termografica a Rotazione Veloce"
+          ]
+        },
+        {
+          "name": "Valzer delle Stelle",
+          "ordine": "Armonisti",
+          "ingredients": [
+            "Carne di Drago",
+            "Spaghi del Sole",
+            "Carne di Kraken",
+            "Pane di Luce",
+            "Uova di Fenice",
+            "Amido di Stellarion",
+            "Polvere di Pulsar",
+            "Spore Quantiche",
+            "Nduja Fritta Tanto"
+          ],
+          "techniques": [
+            "Cottura Sottovuoto Frugale Energeticamente Negativa",
+            "Fermentazione Quantico Biometrica",
+            "Affumicatura Psionica Sensoriale"
+          ]
+        },
+        {
+          "name": "Sinfonia di Galassie Riflesse",
+          "ordine": "Andromeda",
+          "ingredients": [
+            "Fusilli del Vento",
+            "Carne di Kraken",
+            "I Funghi dell'Etere",
+            "Shard di Materia Oscura",
+            "Foglie di Mandragora",
+            "Colonia di Mycoflora",
+            "Petali di Eco"
+          ],
+          "techniques": [
+            "Cottura a Vapore Ecodinamico Bilanciato",
+            "Cottura a Vapore Risonante Simbiotico",
+            "Sferificazione Cromatica Interdimensionale",
+            "Bollitura Termografica a Rotazione Veloce",
+            "Decostruzione Bio-Fotonica Emotiva"
+          ]
+        },
+        {
+          "name": "Valzer Cosmico di Asteria",
+          "ordine": "Armonisti",
+          "ingredients": [
+            "Carne di Xenodonte",
+            "Pane di Luce",
+            "Nettare di Sirena",
+            "Frammenti di Supernova",
+            "Affumicatura a Stratificazione Quantica",
+            "Uova di Fenice",
+            "Erba Pipa"
+          ],
+          "techniques": [
+            "Cottura Sottovuoto Frugale Energeticamente Negativa",
+            "Cottura a Vapore Risonante Simbiotico",
+            "Affumicatura a Stratificazione Quantica"
+          ]
+        }
+      ]
+    },
+    {
+      "restaurant": "Il Ristorante delle Dune Stellari",
+      "chef": "Chef Alessandro Temporini",
+      "planet": "Arrakis",
+      "licenses": {
+        "Psionica": 4,
+        "Temporale": 3,
+        "Gravitazionale": 1,
+        "Antimateria": 1,
+        "Magnetica": 1,
+        "Quantistica": 12,
+        "Luce": 3
+      },
+      "ltk": 2,
+      "ordini": [
+        "Andromeda",
+        "Naturalisti",
+        "Armonisti"
+      ],
+      "dishes": [
+        {
+          "name": "Sinfonia di Cristalli e Rigenerazione",
+          "ordine": null,
+          "ingredients": [
+            "Riso di Cassandra",
+            "Uova di Fenice",
+            "Liane di Plasmodio",
+            "Radici di Gravità",
+            "Shard di Prisma Stellare",
+            "Funghi dell'Etere",
+            "Essenza di Tachioni",
+            "Pane degli Abissi"
+          ],
+          "techniques": [
+            "Cottura a Vapore Ecodinamico Bilanciato",
+            "Cottura a Vapore Ecodinamico Bilanciato",
+            "Marinatura Sotto Zero a Polarità Inversa",
+            "Cottura a Vapore con Flusso di Particelle Isoarmoniche",
+            "Cryo-Tessitura Energetica Polarizzata"
+          ]
+        },
+        {
+          "name": "Stella Nova",
+          "ordine": null,
+          "ingredients": [
+            "Fusilli del Vento",
+            "Foglie di Nebulosa",
+            "Pane degli Abissi",
+            "Pane di Luce",
+            "Fibra di Sintetex",
+            "Lacrime di Unicorno",
+            "Cristalli di Nebulite",
+            "Erba Pipa"
+          ],
+          "techniques": [
+            "Affumicatura a Stratificazione Quantica",
+            "Grigliatura a Energia Stellare DiV",
+            "Marinatura tramite Reazioni d'Antimateria Diluite"
+          ]
+        },
+        {
+          "name": "Sinfonia del Multiverso",
+          "ordine": null,
+          "ingredients": [
+            "Fusilli del Vento",
+            "Radici di Singolarità",
+            "Cristalli di Memoria",
+            "Foglie di Mandragora",
+            "Plasma Vitale"
+          ],
+          "techniques": [
+            "Affumicatura Temporale Risonante",
+            "Marinatura Sotto Zero a Polarità Inversa",
+            "Amalgamazione Sintetica Molecolare",
+            "Fermentazione Quantico Biometrica"
+          ]
+        },
+        {
+          "name": "Sinfonia di Multiverso: La Danza degli Elementi",
+          "ordine": null,
+          "ingredients": [
+            "Carne di Balena Spaziale",
+            "Carne di Drago",
+            "Shard di Prisma Stellare",
+            "Teste di Idra",
+            "Essenza di Vuoto"
+          ],
+          "techniques": [
+            "Marinatura Psionica",
+            "Cottura a Forno Dinamico Inversionale",
+            "Impasto a Campi Magnetici Dualistici",
+            "Cryo-Tessitura Energetica Polarizzata",
+            "Decostruzione Bio-Fotonica Emotiva"
+          ]
+        },
+        {
+          "name": "Più Lontano delle Stelle",
+          "ordine": null,
+          "ingredients": [
+            "Polvere di Pulsar",
+            "Foglie di Mandragora",
+            "Teste di Idra",
+            "Lacrime di Unicorno",
+            "Essenza di Vuoto"
+          ],
+          "techniques": [
+            "Affumicatura Polarizzata a Freddo Iperbarico",
+            "Congelamento Bio-Luminiscente Sincronico",
+            "Grigliatura Eletro-Molecolare a Spaziatura Variabile",
+            "Cottura a Vapore Termocinetica Multipla",
+            "Cottura Sottovuoto Frugale Energeticamente Negativa"
+          ]
+        },
+        {
+          "name": "Sinfonia Cosmica del Multiverso",
+          "ordine": null,
+          "ingredients": [
+            "Frammenti di Supernova",
+            "Baccacedro",
+            "Radici di Gravità",
+            "Colonia di Mycoflora",
+            "Granuli di Nebbia Arcobaleno",
+            "Lacrime di Andromeda",
+            "Essenza di Vuoto"
+          ],
+          "techniques": [
+            "Decostruzione Ancestrale",
+            "Affumicatura a Stratificazione Quantica",
+            "Marinatura Temporale Sincronizzata",
+            "Amalgamazione Sintetica Molecolare",
+            "Congelamento Bio-Luminiscente Sincronico"
+          ]
+        },
+        {
+          "name": "Viaggio Celeste nel Multiverso",
+          "ordine": null,
+          "ingredients": [
+            "Lattuga Namecciana",
+            "Mandragora",
+            "Carne di Balena spaziale",
+            "Fibra di Sintetex",
+            "Lacrime di Unicorno",
+            "Salsa Szechuan",
+            "Cristalli di Memoria"
+          ],
+          "techniques": [
+            "Cottura a Vapore Termocinetica Multipla",
+            "Cottura a Vapore con Flusso di Particelle Isoarmoniche"
+          ]
+        },
+        {
+          "name": "Sinfonia di Gusti del Multiverso",
+          "ordine": null,
+          "ingredients": [
+            "Carne di Kraken",
+            "Carne di Drago",
+            "Fusilli del Vento",
+            "Pane degli Abissi",
+            "Pane di Luce",
+            "Alghe Bioluminescenti"
+          ],
+          "techniques": [
+            "Cottura a Vapore con Flusso di Particelle Isoarmoniche",
+            "Sferificazione con Campi Magnetici Entropici"
+          ]
+        },
+        {
+          "name": "Portale del Cosmo: Sinfonia di Sapori Multidimensionali",
+          "ordine": null,
+          "ingredients": [
+            "Granuli di Nebbia Arcobaleno",
+            "Lattuga Namecciana",
+            "Polvere di Stelle",
+            "Baccacedro",
+            "Essenza di Vuoto"
+          ],
+          "techniques": [
+            "Bollitura Termografica a Rotazione Veloce",
+            "Decostruzione Bio-Fotonica Emotiva",
+            "Grigliatura a Energia Stellare DiV",
+            "Amalgamazione Sintetica Molecolare"
+          ]
+        },
+        {
+          "name": "Sinfonia Galattica ai Cristalli di Nebulite",
+          "ordine": "Armonisti",
+          "ingredients": [
+            "Spaghi del Sole",
+            "Colonia di Mycoflora",
+            "Liane di Plasmodio",
+            "Cristalli di Nebulite",
+            "Lacrime di Unicorno",
+            "Petali di Eco"
+          ],
+          "techniques": [
+            "Decostruzione Bio-Fotonica Emotiva",
+            "Decostruzione Ancestrale",
+            "Cottura a Vapore Termocinetica Multipla",
+            "Cottura Idrodinamica Autoregolante",
+            "Amalgamazione Sintetica Molecolare"
+          ]
+        }
+      ]
+    },
+    {
+      "restaurant": "Ristorante Quantico",
+      "chef": "Alessandra Temporini",
+      "planet": "Pandora",
+      "licenses": {
+        "Psionica": 4,
+        "Temporale": 3,
+        "Gravitazionale": 2,
+        "Antimateria": 1,
+        "Magnetica": null,
+        "Quantistica": 11,
+        "Luce": 1
+      },
+      "ltk": 2,
+      "ordini": [
+        "Andromeda",
+        "Naturalisti",
+        "Armonisti"
+      ],
+      "dishes": [
+        {
+          "name": "Echi del Mare Eterno",
+          "ordine": null,
+          "ingredients": [
+            "Carne di Kraken",
+            "Plasma Vitale",
+            "Teste di Idra",
+            "Salsa Szechuan interdimensionale",
+            "Cristalli di Memoria"
+          ],
+          "techniques": [
+            "Cottura a Vapore Termocinetica Multipla",
+            "Cottura a Vapore Ecodinamico Bilanciato",
+            "Cryo-Tessitura Energetica Polarizzata"
+          ]
+        },
+        {
+          "name": "Odissea Temporale",
+          "ordine": null,
+          "ingredients": [
+            "Carne di Drago",
+            "Reazioni d'Antimateria Diluite",
+            "Carne di Mucca",
+            "Foglie di Mandragora",
+            "Lacrime di Unicorno",
+            "Essenza di Tachioni",
+            "Teste di Idra",
+            "Flusso di Particelle Isoarmoniche",
+            "Vero Ghiaccio"
+          ],
+          "techniques": [
+            "Cottura a Vapore Ecodinamico Bilanciato",
+            "Flusso di Particelle Isoarmoniche"
+          ]
+        },
+        {
+          "name": "Rintocchi del Cosmo",
+          "ordine": null,
+          "ingredients": [
+            "Lattuga Namecciana",
+            "Radici di Gravità",
+            "Shard di Materia Oscura",
+            "Funghi dell'Etere",
+            "Essenza di Vuoto"
+          ],
+          "techniques": [
+            "Impasto Gravitazionale Vorticoso",
+            "Cryo-Tessitura Energetica Polarizzata"
+          ]
+        },
+        {
+          "name": "Armonia Cosmica alla Tavola d'Oro",
+          "ordine": "Armonisti",
+          "ingredients": [
+            "Muffa Lunare",
+            "Polvere di Crononite",
+            "Succo di Baccacedro",
+            "Pane degli Abissi",
+            "Sale Temporale",
+            "Luce"
+          ],
+          "techniques": [
+            "Sferificazione",
+            "Grigliatura Elettro-Molecolare a Spaziatura Variabile",
+            "Luminante"
+          ]
+        },
+        {
+          "name": "Echi del Cosmo",
+          "ordine": "Naturalisti",
+          "ingredients": [
+            "Riso di Cassandra",
+            "Carne di Mucca",
+            "Carne di Kraken",
+            "Farina di Nettuno",
+            "Lacrime di Andromeda",
+            "Cristalli di Memoria"
+          ],
+          "techniques": [
+            "Marinatura Temporale Sincronizzata",
+            "Incisione Elettromagnetica Plasmica"
+          ]
+        },
+        {
+          "name": "Ethereal Temporal Elixir",
+          "ordine": "Andromeda",
+          "ingredients": [
+            "Pane di Luce",
+            "Carne di Balena Spaziale",
+            "Spaghi del Sole",
+            "Baccacedro",
+            "Colonie di Mycoflora",
+            "Funghi dell'Etere",
+            "Polvere di Crononite",
+            "Nduja Fritta Tanto"
+          ],
+          "techniques": [
+            "Bollitura Termografica a Rotazione Veloce",
+            "Sinergia Elettro-Osmotica Programmabile",
+            "Impasto a Campi Magnetici Dualistici"
+          ]
+        },
+        {
+          "name": "Sinfonia Celestiale di Gnocchi del Crepuscolo",
+          "ordine": null,
+          "ingredients": [
+            "Gnocchi del Crepuscolo",
+            "Impasto a Campi Magnetici Dualistici",
+            "Marinatura tramite Reazioni d'Antimateria Diluite",
+            "Essenza di Speziaria",
+            "Affumicatura Temporale Risonante",
+            "Nebbia Arcobaleno",
+            "Ebollizione Magneto-Cinetica Pulsante",
+            "Farina di Nettuno",
+            "Amalgamazione Sintetica Molecolare",
+            "Shard di Materia Oscura",
+            "Foglie di Mandragora"
+          ],
+          "techniques": [
+            "Impasto a Campi Magnetici Dualistici",
+            "Marinatura tramite Reazioni d'Antimateria Diluite",
+            "Ebollizione Magneto-Cinetica Pulsante",
+            "Amalgamazione Sintetica Molecolare"
+          ]
+        },
+        {
+          "name": "Eclissi Armonica di Sapori",
+          "ordine": null,
+          "ingredients": [
+            "Spaghi del Sole",
+            "Cottura a Vapore Ecodinamico Bilanciato",
+            "Muffa Lunare",
+            "Granuli di Nebbia Arcobaleno",
+            "Sferificazione Filamentare a Molecole Vibrazionali",
+            "Carne di Xenodonte",
+            "Reazioni d'Antimateria Diluite",
+            "Taglio a Risonanza Sonica Rigenerativa",
+            "Foglie di Mandragora",
+            "Marinatura Psionica",
+            "Riso di Cassandra",
+            "Salsa Szechuan Interdimensionale"
+          ],
+          "techniques": [
+            "Cottura a Vapore Ecodinamico Bilanciato",
+            "Sferificazione Filamentare a Molecole Vibrazionali",
+            "Reazioni d'Antimateria Diluite",
+            "Taglio a Risonanza Sonica Rigenerativa",
+            "Marinatura Psionica"
+          ]
+        },
+        {
+          "name": "Il Viaggio dell'Etereo Risveglio",
+          "ordine": null,
+          "ingredients": [
+            "Gnocchi del Crepuscolo",
+            "Cristalli di Nebulite",
+            "Carne di Xenodonte",
+            "Carne di Balena Spaziale",
+            "Amalgamazione Sintetica Molecolare",
+            "Alghe Bioluminescenti",
+            "Fibra di Sintetex",
+            "Decostruzione Magnetica Risonante",
+            "Amido di Stellarion",
+            "Plasma Vitale",
+            "Essenza di Tachioni",
+            "Sofisticata Sferificazione Filamentare a Molecole Vibrazionali"
+          ],
+          "techniques": [
+            "Amalgamazione Sintetica Molecolare",
+            "Decostruzione Magnetica Risonante",
+            "Sofisticata Sferificazione Filamentare a Molecole Vibrazionali",
+            "Cottura a Vapore Termocinetica Multipla"
+          ]
+        },
+        {
+          "name": "Sinfonia Cosmica di Mare e Stelle",
+          "ordine": null,
+          "ingredients": [
+            "Carne di Kraken",
+            "Carne di Xenodonte",
+            "Carne di Balena spaziale",
+            "Lacrime di Andromeda"
+          ],
+          "techniques": [
+            "Marinatura Sotto Zero a Polarità Inversa",
+            "Cryo-Tessitura Energetica Polarizzata"
+          ]
+        }
+      ]
+    },
+    {
+      "restaurant": "Sala del Valhalla",
+      "chef": "Maestro Cuciniere Alessandro Quantum",
+      "planet": "Asgard",
+      "licenses": {
+        "Psionica": 0,
+        "Temporale": null,
+        "Gravitazionale": 1,
+        "Antimateria": 1,
+        "Magnetica": null,
+        "Quantistica": 8,
+        "Luce": null
+      },
+      "ltk": 6,
+      "ordini": [
+        "Andromeda",
+        "Naturalisti",
+        "Armonisti"
+      ],
+      "dishes": [
+        {
+          "name": "Pane e Carne Rivisitato",
+          "ordine": null,
+          "ingredients": [
+            "Spaghi del Sole",
+            "Carne di Drago",
+            "Frammenti di Supernova",
+            "Lattuga Namecciana",
+            "Baccacedro",
+            "Foglie di Nebulosa",
+            "Pane degli Abissi",
+            "Pane di Luce",
+            "Plasma Vitale",
+            "Salsa Szechuan"
+          ],
+          "techniques": [
+            "Cottura a Vapore Termocinetica Multipla",
+            "Saltare in Padella Classica",
+            "Impasto Gravitazionale Vorticoso"
+          ]
+        },
+        {
+          "name": "Risotto Cosmico Multiversale",
+          "ordine": null,
+          "ingredients": [
+            "Granuli di Nebbia Arcobaleno",
+            "Carne di Xenodonte",
+            "Carne di Mucca",
+            "Shard di Materia Oscura",
+            "Muffa Lunare"
+          ],
+          "techniques": [
+            "Saltare in Padella Realtà Energetiche Parallele",
+            "Grigliatura Elettro-Molecolare a Spaziatura Variabile"
+          ]
+        },
+        {
+          "name": "Il Risveglio del Multiverso",
+          "ordine": null,
+          "ingredients": [
+            "Radici di Singolarità",
+            "Alghe Bioluminescenti",
+            "Foglie di Mandragora",
+            "Granuli di Nebbia Arcobaleno",
+            "Plasma Vitale"
+          ],
+          "techniques": [
+            "Cottura a Vapore con Flusso di Particelle Isoarmoniche",
+            "Cottura Sottovuoto Frugale Energeticamente Negativa"
+          ]
+        },
+        {
+          "name": "Sinfonia del Cosmo e della Leggenda",
+          "ordine": null,
+          "ingredients": [
+            "Carne di Xenodonte",
+            "Funghi Orbitali",
+            "Teste di Idra",
+            "Nduja Fritta Tanto",
+            "Carne di Drago"
+          ],
+          "techniques": [
+            "Taglio a Risonanza Sonica Rigenerativa",
+            "Bollitura Infrasonica Armonizzata",
+            "Affumicatura tramite Big Bang Microcosmico",
+            "Idro-Cristallizzazione Sonora Quantistica",
+            "Decostruzione Interdimensionale Lovecraftiana"
+          ]
+        },
+        {
+          "name": "Cosmos Quantum Fusion",
+          "ordine": null,
+          "ingredients": [
+            "Gnocchi del Crepuscolo",
+            "Carne di Kraken",
+            "Funghi Orbitali",
+            "Nduja Fritta Tanto",
+            "Vero Ghiaccio"
+          ],
+          "techniques": [
+            "Affumicatura a Stratificazione Quantica",
+            "Bollitura Infrasonica Armonizzata"
+          ]
+        },
+        {
+          "name": "Più-dimensionale Sinfonia di Sapori: La Carne del Cosmo",
+          "ordine": null,
+          "ingredients": [
+            "Carne di Xenodonte",
+            "Carne di Balena spaziale",
+            "Pane degli Abissi",
+            "Shard di Prisma Stellare",
+            "Muffa Lunare",
+            "Spezie Melange"
+          ],
+          "techniques": [
+            "Idro-Cristallizzazione Sonora Quantistica",
+            "Impasto Gravitazionale Vorticoso",
+            "Grigliatura Eletro-Molecolare a Spaziatura Variabile"
+          ]
+        },
+        {
+          "name": "Plasma Celestiale",
+          "ordine": null,
+          "ingredients": [
+            "Carne di Kraken",
+            "Granuli di Nebbia Arcobaleno",
+            "Spaghi del Sole",
+            "Fibra di Sintetex",
+            "Cristalli di Memoria",
+            "Biscotti della Galassia",
+            "Essenza di Vuoto"
+          ],
+          "techniques": [
+            "Cottura a Forno Dinamico Inversionale",
+            "Cottura a Forno Dinamico Inversionale",
+            "Taglio a Risonanza Sonica Rigenerativa",
+            "Grigliatura Eletro-Molecolare a Spaziatura Variabile",
+            "Grigliatura Eletro-Molecolare a Spaziatura Variabile"
+          ]
+        },
+        {
+          "name": "Risotto Interdimensionale alla Carne di Drago e Balena Spaziale con Biscotti della Galassia Croccanti",
+          "ordine": null,
+          "ingredients": [
+            "Liane di Plasmodio",
+            "Carne di Drago",
+            "Carne di Balena spaziale",
+            "Baccacedro",
+            "Radici di Gravità",
+            "Biscotti della Galassia",
+            "Pane di Luce",
+            "Spezie Melange"
+          ],
+          "techniques": [
+            "Saltare in Padella Classica",
+            "Saltare in Padella Classica",
+            "Affettamento a Pulsazioni Quantistiche",
+            "Affettamento a Pulsazioni Quantistiche"
+          ]
+        },
+        {
+          "name": "Alternate Realities Risotto",
+          "ordine": null,
+          "ingredients": [
+            "Riso di Cassandra",
+            "Carne di Drago",
+            "Carne di Balena spaziale",
+            "Polvere di Stelle",
+            "Radici di Singolarità",
+            "Nettare di Sirena",
+            "Sale Temporale"
+          ],
+          "techniques": [
+            "Sinergia Elettro-Osmotica Programmabile",
+            "Sinergia Elettro-Osmotica Programmabile",
+            "Grigliatura Eletro-Molecolare a Spaziatura Variabile",
+            "Grigliatura Eletro-Molecolare a Spaziatura Variabile"
+          ]
+        }
+      ]
+    },
+    {
+      "restaurant": "Sapore del Dune",
+      "chef": "Alessandra Quanti",
+      "planet": "Tatooine",
+      "licenses": {
+        "Psionica": 2,
+        "Temporale": null,
+        "Gravitazionale": 1,
+        "Antimateria": 0,
+        "Magnetica": null,
+        "Quantistica": 13,
+        "Luce": 2
+      },
+      "ltk": 2,
+      "ordini": [
+        "Psionica"
+      ],
+      "dishes": [
+        {
+          "name": "Sinfonia Quantistica delle Stelle",
+          "ordine": null,
+          "ingredients": [
+            "Shard di Prisma Stellare",
+            "Lattuga Namecciana",
+            "Radici di Singolarità",
+            "Fibra di Sintetex",
+            "Carne di Balena spaziale",
+            "Teste di Idra",
+            "Nettare di Sirena Sale Temporale"
+          ],
+          "techniques": [
+            "Marinatura Temporale Sincronizzata",
+            "Cottura Sottovuoto Frugale Energeticamente Negativa",
+            "Cottura a Vapore Termocinetica Multipla",
+            "Cottura a Vapore Ecodinamico Bilanciato"
+          ]
+        },
+        {
+          "name": "Sinfonia Quantistica dell'Universo",
+          "ordine": null,
+          "ingredients": [
+            "Shard di Prisma Stellare",
+            "Foglie di Nebulosa",
+            "Lattuga Namecciana",
+            "Teste di Idra",
+            "Carne di Mucca",
+            "Farina di Nettuno",
+            "Riso di Cassandra",
+            "Fusilli del Vento",
+            "Nduja Fritta Tanto"
+          ],
+          "techniques": [
+            "Cottura Sottovuoto Frugale Energeticamente Negativa",
+            "Cottura a Vapore Termocinetica Multipla",
+            "Marinatura Temporale Sincronizzata"
+          ]
+        },
+        {
+          "name": "Evanescenza Quantica",
+          "ordine": null,
+          "ingredients": [
+            "Cristalli di Memoria",
+            "Radici di Singolarità",
+            "Lattuga Namecciana",
+            "Baccacedro",
+            "Granuli di Nebbia Arcobaleno",
+            "Plasma Vitale",
+            "Petali di Eco"
+          ],
+          "techniques": [
+            "Cottura Sottovuoto Frugale Energeticamente Negativa",
+            "Grigliatura Eletro-Molecolare a Spaziatura Variabile",
+            "Bollitura Termografica a Rotazione Veloce",
+            "Affumicatura a Stratificazione Quantica",
+            "Saltare in Padella Classica"
+          ]
+        },
+        {
+          "name": "Galassia di Sapori Sublimi",
+          "ordine": null,
+          "ingredients": [
+            "Frammenti di Supernova",
+            "Baccacedro",
+            "Foglie di Nebulosa",
+            "Radici di Singolarità",
+            "Amido di Stellarion",
+            "Fusilli del Vento"
+          ],
+          "techniques": [
+            "Cottura con Microonde Entropiche Sincronizzate",
+            "Congelamento Bio-Luminiscente Sincronico",
+            "Cottura Sottovuoto Frugale Energeticamente Negativa",
+            "Marinatura Temporale Sincronizzata",
+            "Impasto Gravitazionale Vorticoso"
+          ]
+        },
+        {
+          "name": "Galassia di Sapore Quantico",
+          "ordine": null,
+          "ingredients": [
+            "Polvere di Stelle",
+            "Alghe Bioluminescenti",
+            "Colonia di Mycoflora",
+            "Carne di Drago",
+            "Teste di Idra",
+            "Plasma Vitale",
+            "Nduja Fritta Tanto"
+          ],
+          "techniques": [
+            "Grigliatura Eletro-Molecolare a Spaziatura Variabile",
+            "Cottura a Vapore Termocinetica Multipla",
+            "Cottura Sottovuoto Frugale Energeticamente Negativa",
+            "Impasto Gravitazionale Vorticoso"
+          ]
+        },
+        {
+          "name": "Interstellare Risveglio di Kraken",
+          "ordine": null,
+          "ingredients": [
+            "Polvere di Pulsar",
+            "Liane di Plasmodio",
+            "Radici di Singolarità",
+            "Carne di Kraken",
+            "Amido di Stellarion",
+            "Riso di Cassandra",
+            "Plasma Vitale",
+            "Nduja Fritta Tanto"
+          ],
+          "techniques": [
+            "Congelamento Bio-Luminiscente Sincronico",
+            "Affumicatura a Stratificazione Quantica",
+            "Bollitura Infrasonica Armonizzata"
+          ]
+        },
+        {
+          "name": "Sinfonia Temporale delle Profondità Infrasoniche",
+          "ordine": null,
+          "ingredients": [
+            "Polvere di Crononite",
+            "Carne di Kraken",
+            "Carne di Balena spaziale",
+            "Funghi Orbitali",
+            "Sale Temporale"
+          ],
+          "techniques": [
+            "Saltare in Padella Classica",
+            "Bollitura Infrasonica Armonizzata",
+            "Cottura Sottovuoto",
+            "Frugale Energeticamente Negativa"
+          ]
+        },
+        {
+          "name": "Pioggia di Dimensioni Galattiche",
+          "ordine": null,
+          "ingredients": [
+            "Shard di Prisma Stellare",
+            "Lattuga Namecciana",
+            "Biscotti della Galassia",
+            "Pane degli Abissi",
+            "Nettare di Sirena",
+            "Essenza di Vuoto"
+          ],
+          "techniques": [
+            "Bollitura Termografica a Rotazione Veloce",
+            "Affumicatura a Stratificazione Quantica",
+            "Fermentazione Quantico Biometrica"
+          ]
+        },
+        {
+          "name": "Ode Cosmica di Terra e Stelle",
+          "ordine": null,
+          "ingredients": [
+            "Polvere di Stelle",
+            "Alghe Bioluminescenti",
+            "Teste di Idra",
+            "Fibra di Sintetex",
+            "Carne di Balena spaziale",
+            "Spaghi del Sole",
+            "Nettare di Sirena",
+            "Spezie Melange"
+          ],
+          "techniques": [
+            "Grigliatura Eletro-Molecolare a Spaziatura Variabile",
+            "Marinatura Temporale Sincronizzata"
+          ]
+        },
+        {
+          "name": "Sinfonia Galattica",
+          "ordine": null,
+          "ingredients": [
+            "Cristalli di Nebulite",
+            "Colonia di Mycoflora",
+            "Teste di Idra",
+            "Carne di Xenodonte",
+            "Carne di Drago",
+            "Pane degli Abissi",
+            "Funghi dell'Etere"
+          ],
+          "techniques": [
+            "Cottura a Vapore con Flusso di Particelle Isoarmoniche",
+            "Marinatura Temporale Sincronizzata"
+          ]
+        }
+      ]
+    },
+    {
+      "restaurant": "Stelle Astrofisiche",
+      "chef": "Alessandro Zod-Marinetti",
+      "planet": "Krypton",
+      "licenses": {
+        "Psionica": 0,
+        "Temporale": null,
+        "Gravitazionale": 2,
+        "Antimateria": 1,
+        "Magnetica": null,
+        "Quantistica": 4,
+        "Luce": 3
+      },
+      "ltk": 4,
+      "ordini": [
+        "Andromeda"
+      ],
+      "dishes": [
+        {
+          "name": "Viaggio Cosmico tra Mare e Stelle",
+          "ordine": "Andromeda",
+          "ingredients": [
+            "Carne di Balena Spaziale",
+            "Carne di Kraken",
+            "Teste di Idra",
+            "Lacrime di Andromeda",
+            "Riso di Cassandra",
+            "Pane degli Abissi",
+            "Spezie Melange"
+          ],
+          "techniques": [
+            "Cottura a Vapore Termocinetica Multipla",
+            "Taglio a Risonanza Sonica Rigenerativa",
+            "Cottura con Microonde Entropiche Sincronizzate"
+          ]
+        },
+        {
+          "name": "Nebulosa di Dragone all'Essenza di Vuoto",
+          "ordine": "Naturalisti",
+          "ingredients": [
+            "Lattuga Namecciana",
+            "Polvere di stelle",
+            "Carne di Drago",
+            "Spore Quantiche"
+          ],
+          "techniques": [
+            "Bollitura Termografica a Rotazione Veloce"
+          ]
+        },
+        {
+          "name": "Il Viaggio Cosmico di Marinetti",
+          "ordine": null,
+          "ingredients": [
+            "Pane degli Abissi",
+            "Polvere di Crononite",
+            "Teste di Idra",
+            "Granuli di Nebbia Arcobaleno",
+            "Alghe Bioluminescenti",
+            "Amalgamazione Sintetica Molecolare",
+            "Cryo-Tessitura Energetica Polarizzata",
+            "Colonia di Mycoflora"
+          ],
+          "techniques": [
+            "Cottura a Vapore Ecodinamico Bilanciato"
+          ]
+        },
+        {
+          "name": "IL PRIMO DEL GIORNO",
+          "ordine": null,
+          "ingredients": [],
+          "techniques": []
+        },
+        {
+          "name": "Piastrella Celestiale di Gnocchi del Crepuscolo con Nebulosa di Riso di Cassandra, Lacrime di Unicorno e Velo di Materia Oscura",
+          "ordine": null,
+          "ingredients": [
+            "Gnocchi del Crepuscolo",
+            "Nebulosa di Riso di Cassandra",
+            "Lacrime di Unicorno",
+            "Materia Oscura"
+          ],
+          "techniques": [
+            "Cottura a Vapore Termocinetica Multipla",
+            "Amalgamazione Sintetica Molecolare",
+            "Cottura a Vapore con Flusso di Particelle Isoarmoniche"
+          ]
+        },
+        {
+          "name": "Sinfonia Celeste di Granuli Arcobaleno e Riso di Cassandra",
+          "ordine": null,
+          "ingredients": [
+            "Granuli di Nebbia Arcobaleno",
+            "Riso di Cassandra",
+            "Fusilli del Vento",
+            "Essenza di Speziaria",
+            "Nettare di Sirena"
+          ],
+          "techniques": [
+            "Cottura a Vapore con Flusso di Particelle Isoarmoniche",
+            "Bollitura Termografica a Rotazione Veloce",
+            "Amalgamazione Sintetica Molecolare"
+          ]
+        },
+        {
+          "name": "Cosmos in Tavola",
+          "ordine": null,
+          "ingredients": [
+            "Gnocchi del Crepuscolo",
+            "Carne di Drago",
+            "Cristalli di Nebulite",
+            "Amido di Stellarion",
+            "Nettare di Sirena",
+            "Biscotti della Galassia"
+          ],
+          "techniques": [
+            "Cottura a Vapore Termocinetica Multipla",
+            "Saltare in Padella Classica"
+          ]
+        },
+        {
+          "name": "Eclissi del Drago nell'Abbraccio del Kraken",
+          "ordine": null,
+          "ingredients": [
+            "Carne di Drago",
+            "Riso di Cassandra",
+            "Colonia di Mycoflora",
+            "Plasma Vitale",
+            "Shard di Materia Oscura"
+          ],
+          "techniques": [
+            "Grigliatura Elettro-Molecolare a Spaziatura Variabile",
+            "Cottura a Vapore Ecodinamico Bilanciato"
+          ]
+        },
+        {
+          "name": "Sinfonia Quantica Galattica",
+          "ordine": null,
+          "ingredients": [
+            "Lattuga Namecciana",
+            "Carne di Drago",
+            "Riso di Cassandra",
+            "Salsa Szechuan",
+            "Biscotti della Galassia"
+          ],
+          "techniques": [
+            "Taglio a Risonanza Sonica Rigenerativa",
+            "Cottura a Vapore Termocinetica Multipla",
+            "Flusso di Particelle Isoarmoniche"
+          ]
+        },
+        {
+          "name": "Sinfonia Galattica Agentica",
+          "ordine": null,
+          "ingredients": [
+            "Pane di Luce",
+            "Carne di Drago",
+            "Carne di Balena spaziale",
+            "Carne di Kraken",
+            "Plasma Vitale"
+          ],
+          "techniques": [
+            "Cottura con Microonde Entropiche Sincronizzate",
+            "Cryo-Tessitura Energetica Polarizzata",
+            "Taglio a Risonanza Sonica Rigenerativa"
+          ]
+        }
+      ]
+    },
+    {
+      "restaurant": "Stelle dell'Infinito Celestiale",
+      "chef": "Jessica Cosmica",
+      "planet": "Namecc",
+      "licenses": {
+        "Psionica": 1,
+        "Temporale": 1,
+        "Gravitazionale": 3,
+        "Antimateria": 1,
+        "Magnetica": 1,
+        "Quantistica": 9,
+        "Luce": 2
+      },
+      "ltk": 6,
+      "ordini": [
+        "Andromeda",
+        "Naturalisti",
+        "Armonisti"
+      ],
+      "dishes": [
+        {
+          "name": "La Mucca Che Stordisce l'Universo",
+          "ordine": null,
+          "ingredients": [
+            "Polvere di Stelle",
+            "Lattuga Namecciana",
+            "Colonia di Mycoflora",
+            "Carne di Mucca",
+            "Gnocchi del Crepuscolo",
+            "Lacrime di Andromeda",
+            "Petali di Eco"
+          ],
+          "techniques": [
+            "Cottura Olografica Quantum Fluttuante",
+            "Decostruzione Interdimensionale Lovecraftiana"
+          ]
+        },
+        {
+          "name": "Piccola Odissea Cosmica",
+          "ordine": null,
+          "ingredients": [
+            "Polvere di Pulsar",
+            "Carne di Balena spaziale",
+            "Uova di Fenice",
+            "Teste di Idra",
+            "Spaghi del Sole",
+            "Essenza di Vuoto"
+          ],
+          "techniques": [
+            "Affettamento a Pulsazioni Quantistiche",
+            "Bollitura Entropica Sincronizzata"
+          ]
+        },
+        {
+          "name": "L'Unicorno piange il Kraken",
+          "ordine": null,
+          "ingredients": [
+            "Foglie di Nebulosa",
+            "Lattuga Namecciana",
+            "Carne di Xenodonte",
+            "Fibra di Sintetex",
+            "Carne di Kraken",
+            "Granuli di Nebbia Arcobaleno",
+            "Lacrime di Unicorno",
+            "Spezie Melange"
+          ],
+          "techniques": [
+            "Cottura Olografica Quantum Fluttuante",
+            "Saltare in Padella Singolarità Inversa",
+            "Cottura con Microonde Entropiche Sincronizzate",
+            "Affettamento a Pulsazioni Quantistiche"
+          ]
+        },
+        {
+          "name": "L'Eternità al Crepuscolo",
+          "ordine": null,
+          "ingredients": [
+            "Vero Ghiaccio",
+            "Foglie di Nebulosa",
+            "Carne di Kraken",
+            "Fibra di Sintetex",
+            "Gnocchi del Crepuscolo",
+            "Biscotti della Galassia",
+            "Funghi dell'Etere"
+          ],
+          "techniques": [
+            "Cottura Sottovuoto Pulsar Magnetica",
+            "Affumicatura a Stratificazione Quantica",
+            "Marinatura tramite Reazioni d'Antimateria Diluite",
+            "Impasto Gravitazionale Vorticoso",
+            "Ebollizione Magneto-Cinetica Pulsante"
+          ]
+        },
+        {
+          "name": "La Balena Sputafuoco",
+          "ordine": null,
+          "ingredients": [
+            "Frammenti di Supernova",
+            "Carne di Balena spaziale",
+            "Pane degli Abissi",
+            "Funghi dell'Etere",
+            "Nduja Fritta Tanto"
+          ],
+          "techniques": [
+            "Cottura Sottovuoto Antimateria",
+            "Impasto Gravitazionale Vorticoso",
+            "Decostruzione Interdimensionale Lovecraftiana",
+            "Cottura Sottovuoto Multirealità Collassante",
+            "Sferificazione con Campi Magnetici Entropici"
+          ]
+        },
+        {
+          "name": "Sassi e Sassolini",
+          "ordine": null,
+          "ingredients": [
+            "Foglie di Mandragora",
+            "Radici di Singolarità",
+            "Biscotti della Galassia",
+            "Farina di Nettuno",
+            "Funghi dell'Etere",
+            "Spezie Melange"
+          ],
+          "techniques": [
+            "Cottura Idrodinamica Autoregolante",
+            "Sferificazione con Campi Magnetici Entropici",
+            "Impasto Gravitazionale Vorticoso",
+            "Affumicatura a Stratificazione Quantica",
+            "Grigliatura Plasma Sintetico Risonante"
+          ]
+        },
+        {
+          "name": "Galassia Ardente",
+          "ordine": null,
+          "ingredients": [
+            "Frammenti di Supernova",
+            "Radici di Singolarità",
+            "Foglie di Mandragora",
+            "Carne di Kraken",
+            "Spaghi del Sole",
+            "Amido di Stellarion",
+            "Pane di Luce Muffa Lunare Spezie Melange"
+          ],
+          "techniques": [
+            "Congelamento Bio-Luminiscente Sincronico",
+            "Decostruzione Magnetica Risonante",
+            "Affettamento a Pulsazioni Quantistiche",
+            "Grigliatura Plasma Sintetico Risonante",
+            "Decostruzione Interdimensionale Lovecraftiana"
+          ]
+        },
+        {
+          "name": "Galassia di Cosmo-Delizie",
+          "ordine": null,
+          "ingredients": [
+            "Vero Ghiaccio",
+            "Lattuga Namecciana",
+            "Carne di Drago",
+            "Amido di Stellarion",
+            "Lacrime di Unicorno",
+            "Essenza di Speziaria"
+          ],
+          "techniques": [
+            "Decostruzione Magnetica Risonante",
+            "Cottura Sottovuoto",
+            "Pulsar Magnetica"
+          ]
+        },
+        {
+          "name": "Nebulosa di Confini Sfondati",
+          "ordine": null,
+          "ingredients": [
+            "Shard di Materia Oscura",
+            "Radici di Singolarità",
+            "Alghe Bioluminescenti",
+            "Foglie di Mandragora",
+            "Amido di Stellarion",
+            "Farina di Nettuno",
+            "Plasma Vitale",
+            "Petali di Eco"
+          ],
+          "techniques": [
+            "Cottura Olografica Quantum Fluttuante",
+            "Congelamento Bio-Luminiscente Sincronico",
+            "Saltare in Padella Singolarità",
+            "Affumicatura a Stratificazione Quantica",
+            "Surgelamento Antimaterico a Risonanza Inversa"
+          ]
+        }
+      ]
+    },
+    {
+      "restaurant": "Tutti a TARSvola",
+      "chef": "Isabella Quantum-Stellari",
+      "planet": "Tatooine",
+      "licenses": {
+        "Psionica": 4,
+        "Temporale": null,
+        "Gravitazionale": 1,
+        "Antimateria": 1,
+        "Magnetica": null,
+        "Quantistica": 8,
+        "Luce": 2
+      },
+      "ltk": 16,
+      "ordini": [
+        "Andromeda",
+        "Naturalisti",
+        "Armonisti"
+      ],
+      "dishes": [
+        {
+          "name": "Galassia Sensoriale",
+          "ordine": null,
+          "ingredients": [
+            "Frammenti di Supernova Pane di Luce",
+            "Spaghi del Sole",
+            "Riso di Cassandra",
+            "Nettare di Sirena",
+            "Petali di Eco"
+          ],
+          "techniques": [
+            "Marinatura Psionica",
+            "Cottura a Vapore",
+            "Termocinetica Multipla"
+          ]
+        },
+        {
+          "name": "Cosmopastico di Meraviglie Celesti",
+          "ordine": null,
+          "ingredients": [
+            "Carne di Kraken",
+            "Uova di Fenice",
+            "Carne di Drago",
+            "Pane di Luce",
+            "Spaghi del Sole",
+            "Riso di Cassandra",
+            "Spezie Melange"
+          ],
+          "techniques": [
+            "Impasto Gravitazionale Vorticoso",
+            "Sinergia Elettro-Osmotica Programmabile",
+            "Bollitura Infrasonica Armonizzata",
+            "Grigliatura Eletro-Molecolare a Spaziatura Variabile",
+            "Marinatura Psionica"
+          ]
+        },
+        {
+          "name": "Sinfonia Cosmica all'Alba di Fenice",
+          "ordine": null,
+          "ingredients": [
+            "Cristalli di Nebulite",
+            "Uova di Fenice",
+            "Carne di Mucca",
+            "Carne di Kraken",
+            "Funghi dell'Etere",
+            "Essenza di Tachioni"
+          ],
+          "techniques": [
+            "Impasto Gravitazionale Vorticoso",
+            "Cottura con Microonde Entropiche Sincronizzate",
+            "Cottura a Vapore Ecodinamico Bilanciato",
+            "Taglio a Risonanza Sonica Rigenerativa",
+            "Grigliatura Eletro-Molecolare a Spaziatura Variabile"
+          ]
+        },
+        {
+          "name": "Sinfonia Cosmica alla Szechuan",
+          "ordine": null,
+          "ingredients": [
+            "Lattuga Namecciana Colonia di Mycoflora Teste di Idra",
+            "Granuli di Nebbia Arcobaleno Plasma Vitale Salsa Szechuan"
+          ],
+          "techniques": [
+            "Saltare in Padella Classica",
+            "Cottura a Vapore con Flusso di Particelle Isoarmoniche",
+            "Cottura a Vapore Ecodinamico Bilanciato",
+            "Cottura a Vapore Ecodinamico Bilanciato",
+            "Impasto Gravitazionale Vorticoso",
+            "Cottura con Microonde Entropiche Sincronizzate"
+          ]
+        },
+        {
+          "name": "Sinfonia Cosmica: Il Crescendo delle Stelle",
+          "ordine": null,
+          "ingredients": [
+            "Radici di Gravità",
+            "Radici di Singolarità",
+            "Liane di Plasmodio",
+            "Carne di Balena spaziale",
+            "Uova di Fenice",
+            "Carne di Kraken",
+            "Gnocchi del Crepuscolo",
+            "Pane di Luce Funghi Orbitali Petali di Eco"
+          ],
+          "techniques": [
+            "Cottura a Forno Dinamico Inversionale",
+            "Cottura a Vapore Termocinetica Multipla",
+            "Amalgamazione Sintetica Molecolare"
+          ]
+        },
+        {
+          "name": "Cosmofantasia di Terra e Mare nel Vortice delle Stelle",
+          "ordine": null,
+          "ingredients": [
+            "Shard di Materia Oscura",
+            "Lattuga Namecciana",
+            "Radici di Gravità",
+            "Carne di Kraken",
+            "Carne di Mucca",
+            "Carne di Balena spaziale",
+            "Amido di Stellarion",
+            "Nettare di Sirena Essenza di Tachioni"
+          ],
+          "techniques": [
+            "Impasto Gravitazionale Vorticoso",
+            "Marinatura Psionica",
+            "Cottura a Vapore Termocinetica Multipla"
+          ]
+        },
+        {
+          "name": "Cosmic Symphony di Ghiaccio e Fuoco",
+          "ordine": "Andromeda",
+          "ingredients": [
+            "Vero Ghiaccio",
+            "Colonia di Mycoflora",
+            "Radici di Gravità",
+            "Pane di Luce",
+            "Lacrime di Andromeda Nduja Fritta Tanto"
+          ],
+          "techniques": [
+            "Cryo-Tessitura Energetica Polarizzata",
+            "Grigliatura Eletro-Molecolare a Spaziatura Variabile",
+            "Amalgamazione Sintetica Molecolare",
+            "Marinatura Psionica"
+          ]
+        },
+        {
+          "name": "Odissea Celestiale",
+          "ordine": null,
+          "ingredients": [
+            "Cristalli di Memoria",
+            "Fibra di Sintetex",
+            "Carne di Drago",
+            "Biscotti della Galassia",
+            "Pane degli Abissi",
+            "Gnocchi del Crepuscolo",
+            "Muffa Lunare",
+            "Spezie Melange"
+          ],
+          "techniques": [
+            "Impasto Gravitazionale Vorticoso",
+            "Amalgamazione Sintetica Molecolare",
+            "Cottura a Vapore con Flusso di Particelle Isoarmoniche"
+          ]
+        },
+        {
+          "name": "Il Banchetto delle Galassie",
+          "ordine": null,
+          "ingredients": [
+            "Lattuga Namecciana",
+            "Liane di Plasmodio",
+            "Carne di Kraken",
+            "Carne di Mucca",
+            "Pane di Luce",
+            "Pane degli Abissi",
+            "Funghi dell'Etere",
+            "Essenza di Speziaria"
+          ],
+          "techniques": [
+            "Cottura a Vapore Ecodinamico Bilanciato",
+            "Cottura a Vapore Ecodinamico Bilanciato",
+            "Sinergia Elettro-Osmotica Programmabile",
+            "Cottura con Microonde Entropiche Sincronizzate",
+            "Bollitura Infrasonica Armonizzata"
+          ]
+        },
+        {
+          "name": "Cosmologia Terrestre: Viaggio in Otto Dimensioni",
+          "ordine": null,
+          "ingredients": [
+            "Baccacedro",
+            "Radici di Gravità",
+            "Foglie di Mandragora",
+            "Carne di Mucca",
+            "Salsa Szechuan"
+          ],
+          "techniques": [
+            "Cottura a Vapore Ecodinamico Bilanciato",
+            "Sinergia Elettro-Osmotica Programmabile"
+          ]
+        }
+      ]
+    },
+    {
+      "restaurant": "Universo Gastronomico di Namecc",
+      "chef": "Alice Quantum-Rossi",
+      "planet": "Namecc",
+      "licenses": {
+        "Psionica": 2,
+        "Temporale": 1,
+        "Gravitazionale": 1,
+        "Antimateria": 0,
+        "Magnetica": 1,
+        "Quantistica": 15,
+        "Luce": 1
+      },
+      "ltk": 6,
+      "ordini": [
+        "Andromeda",
+        "Naturalisti",
+        "Armonisti"
+      ],
+      "dishes": [
+        {
+          "name": "Risotto dei Multiversi",
+          "ordine": null,
+          "ingredients": [
+            "Riso di Cassandra",
+            "Cristalli di Nebulite",
+            "Lacrime di Unicorno",
+            "Sale Temporale",
+            "Spaghi del Sole",
+            "Fermentazione Psionica Energetica",
+            "Decostruzione Interdimensionale Lovecraftiana",
+            "Cottura Olografica Quantum Fluttuante",
+            "Affumicatura Psionica Sensoriale"
+          ],
+          "techniques": [
+            "Cottura a Vapore Ecodinamico Bilanciato",
+            "Cottura a Vapore Ecodinamico Bilanciato",
+            "Cottura Olografica Quantum Fluttuante",
+            "Affumicatura Psionica Sensoriale"
+          ]
+        },
+        {
+          "name": "Panetto di Carne",
+          "ordine": null,
+          "ingredients": [
+            "Farina di Nettuno",
+            "Funghi Orbitali",
+            "Pane di Luce",
+            "Carne di Kraken",
+            "Xenodonte",
+            "Sale Temporale",
+            "Cristalli di Nebulite",
+            "Pane degli Abissi"
+          ],
+          "techniques": [
+            "Decostruzione Interdimensionale Lovecraftiana",
+            "Affumicatura Temporale Risonante",
+            "Sferificazione Filamentare a Molecole Vibrazionali",
+            "Affumicatura Polarizzata a Freddo Iperbarico"
+          ]
+        },
+        {
+          "name": "Cosmos Risotto Reale",
+          "ordine": null,
+          "ingredients": [
+            "Amido di Stellarion",
+            "Carne di Kraken",
+            "Funghi Orbitali",
+            "Pane di Luce",
+            "Essenza di Vuoto",
+            "Ghiaccio di Criofenice"
+          ],
+          "techniques": [
+            "Saltare in Padella Realtà Energetiche Parallele",
+            "Bollitura Infrasonica Armonizzata",
+            "Cottura a Vapore Ecodinamico Bilanciato"
+          ]
+        },
+        {
+          "name": "Vero Ghiaccio",
+          "ordine": null,
+          "ingredients": [
+            "Ghiaccio"
+          ],
+          "techniques": [
+            "Taglio a Risonanza Sonica Rigenerativa"
+          ]
+        },
+        {
+          "name": "Radici di Singolarità",
+          "ordine": null,
+          "ingredients": [
+            "Radici di Singolarità"
+          ],
+          "techniques": []
+        },
+        {
+          "name": "Carne di Balena spaziale",
+          "ordine": null,
+          "ingredients": [
+            "Carne di Balena spaziale",
+            "Muffa Lunare"
+          ],
+          "techniques": [
+            "Marinatura Temporale Sincronizzata"
+          ]
+        },
+        {
+          "name": "Foglie di Mandragora",
+          "ordine": null,
+          "ingredients": [
+            "Foglie di Mandragora"
+          ],
+          "techniques": []
+        },
+        {
+          "name": "Pane di Luce",
+          "ordine": null,
+          "ingredients": [
+            "Pane di Luce"
+          ],
+          "techniques": [
+            "Cotto al calore di una lontana stella"
+          ]
+        },
+        {
+          "name": "Petali di Eco",
+          "ordine": null,
+          "ingredients": [
+            "Petali di Eco"
+          ],
+          "techniques": []
+        },
+        {
+          "name": "La Balena incontra la Mandragora",
+          "ordine": null,
+          "ingredients": [
+            "Ghiaccio",
+            "Radici di Singolarità",
+            "Carne di Balena spaziale",
+            "Muffa Lunare",
+            "Foglie di Mandragora",
+            "Pane di Luce",
+            "Petali di Eco"
+          ],
+          "techniques": [
+            "Taglio a Risonanza Sonica Rigenerativa",
+            "Marinatura Temporale Sincronizzata",
+            "Cotto al calore di una lontana stella"
+          ]
+        },
+        {
+          "name": "Armonia Cosmica della Fenice",
+          "ordine": null,
+          "ingredients": [
+            "Polvere di Stelle",
+            "Carne di mucca",
+            "Uova di Fenice",
+            "Fibra di Sintetex",
+            "Lacrime di Unicorno",
+            "Essenza di Tachioni"
+          ],
+          "techniques": [
+            "Taglio a Risonanza Sonica Rigenerativa",
+            "Fermentazione psionica energetica",
+            "Decostruzione Magnetica Risonante",
+            "Decostruzione Interdimensionale Lovecraftiana",
+            "Cottura Sottovuoto Bioma Sintetico"
+          ]
+        },
+        {
+          "name": "Fenice Galattica",
+          "ordine": null,
+          "ingredients": [
+            "Riso di Cassandra",
+            "Cristalli di Nebulite",
+            "Alghe Bioluminescenti",
+            "Lattuga Namecciana",
+            "Uova di Fenice",
+            "Muffa Lunare"
+          ],
+          "techniques": [
+            "Marinatura Temporale Sincronizzata",
+            "Congelazione Iperdimensionalmente Stratificata",
+            "Cottura con Microonde Entropiche Sincronizzate",
+            "Bioma Sintetico"
+          ]
+        },
+        {
+          "name": "Rapsodia Quantistica nel Cosmo",
+          "ordine": null,
+          "ingredients": [
+            "Carne di Balena Spaziale",
+            "terra",
+            "Carne di Xenodonte",
+            "Nebulite",
+            "Fibra di Sintetex",
+            "Lacrime di Unicorno"
+          ],
+          "techniques": [
+            "Risonanza Sonica Rigenerativa",
+            "Pulsazioni Quantistiche",
+            "Marinatura Sotto Zero a Polarità Inversa"
+          ]
+        },
+        {
+          "name": "Galassia di Sapore Quantum",
+          "ordine": null,
+          "ingredients": [
+            "Fusilli del Vento",
+            "Alghe Bioluminescenti",
+            "Risotto dei Multiversi",
+            "Polvere di Crononite",
+            "Biscotti della Galassia",
+            "Essenza di Tachioni"
+          ],
+          "techniques": [
+            "Idro-Cristallizzazione Sonora Quantistica",
+            "Cottura a Vapore Ecodinamico Bilanciato"
+          ]
+        },
+        {
+          "name": "Tris di Carne con Pane",
+          "ordine": null,
+          "ingredients": [
+            "Pane di Luce",
+            "Carne di Xenodonte",
+            "Carne di Kraken",
+            "Fusilli del Vento",
+            "Cristalli di Memoria",
+            "Pane degli Abissi",
+            "Sale Temporale",
+            "Lacrime di Unicorno"
+          ],
+          "techniques": [
+            "Impasto a Campi Magnetici Dualistici",
+            "Decostruzione Magnetica Risonante",
+            "Ebollizione Magneto-Cinetica Pulsante",
+            "Sferificazione Filamentare a Molecole Vibrazionali",
+            "Cottura Olografica Quantum Fluttuante"
+          ]
+        }
+      ]
+    }
+  ]
+}

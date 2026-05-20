@@ -1,0 +1,207 @@
+{
+  "restaurant": "L'Universo in Cucina",
+  "chef": "Chef Crina Cosmi",
+  "planet": "Klyntar",
+  "licenses": {
+    "Psionica": 2,
+    "Temporale": 1,
+    "Gravitazionale": 2,
+    "Antimateria": 1,
+    "Magnetica": null,
+    "Quantistica": 11,
+    "Luce": 1
+  },
+  "ltk": 6,
+  "ordini": [
+    "Andromeda",
+    "Naturalisti",
+    "Armonisti"
+  ],
+  "dishes": [
+    {
+      "name": "Galassia di Sapori Interstellari",
+      "ordine": null,
+      "ingredients": [
+        "Gnocchi del Crepuscolo",
+        "Granuli di Nebbia Arcobaleno",
+        "Amido di Stellarion",
+        "Foglie di Nebulosa",
+        "Erba Pipa",
+        "Spore Quantiche",
+        "Radici di Singolarità",
+        "Baccacedro",
+        "Polvere di Crononite"
+      ],
+      "techniques": [
+        "Cottura a Vapore con Flusso di Particelle Isoarmoniche",
+        "Cottura Sottovuoto Frugale Energeticamente Negativa"
+      ]
+    },
+    {
+      "name": "Galassia Aurorale",
+      "ordine": null,
+      "ingredients": [
+        "Liane di Plasmodio",
+        "Radici di Gravità",
+        "Cristalli di Nebulite",
+        "Carne di Xenodonte",
+        "Carne di Drago",
+        "Foglie di Nebulosa",
+        "Spaghi del Sole",
+        "Uovo di Fenice",
+        "Farina di Nettuno",
+        "Amido di Stellarion"
+      ],
+      "techniques": [
+        "Cottura a Forno Dinamico Inversionale",
+        "Cottura a Vapore Ecodinamico Bilanciato"
+      ]
+    },
+    {
+      "name": "Galassia di Sapori: L'Eterno Ritorno",
+      "ordine": null,
+      "ingredients": [
+        "Riso di Cassandra",
+        "Carne di Balena Spaziale",
+        "Carne di Drago",
+        "Pane di Luce",
+        "Farina di Nettuno",
+        "Radici di Singolarità",
+        "Lacrime di Andromeda",
+        "Sale Temporale",
+        "Cristalli di Memoria",
+        "Fibra di Sintetex"
+      ],
+      "techniques": [
+        "Cottura a Vapore con Flusso di Particelle Isoarmoniche",
+        "Cottura Sottovuoto Frugale Energeticamente Negativa",
+        "Amalgamazione Sintetica Molecolare"
+      ]
+    },
+    {
+      "name": "Rivelazione del Multiverso",
+      "ordine": null,
+      "ingredients": [
+        "Carne di Kraken",
+        "Lacrime di Andromeda",
+        "Sale Temporale",
+        "Pane degli Abissi",
+        "Farina di Nettuno",
+        "Cristalli di Memoria",
+        "Baccacedro"
+      ],
+      "techniques": [
+        "Marinatura a Infusione Gravitazionale",
+        "Pulsazioni Quantistiche",
+        "Cottura Sottovuoto Frugale Energeticamente Negativa",
+        "Affumicatura tramite Big Bang Microcosmico"
+      ]
+    },
+    {
+      "name": "Sinfonia Cosmica della Rinascita",
+      "ordine": null,
+      "ingredients": [
+        "Carne di Mucca",
+        "Uovo di Fenice",
+        "Radici di Singolarità",
+        "Granuli di Nebbia Arcobaleno",
+        "Cristalli di Nebulite",
+        "Spaghi del Sole",
+        "Biscotti della Galassia",
+        "Erba Pipa"
+      ],
+      "techniques": [
+        "Cottura Sottovuoto Antimateria",
+        "Big Bang Microcosmico",
+        "Marinatura tramite Reazioni d'Antimateria Diluite",
+        "Idro-Cristallizzazione Sonora Quantistica",
+        "Decostruzione Interdimensionale Lovecraftiana"
+      ]
+    },
+    {
+      "name": "Galassia di Sapori",
+      "ordine": null,
+      "ingredients": [
+        "Carne di Mucca e Drago",
+        "Radici di Gravità",
+        "Nettare di Sirena",
+        "Essenza di Speziaria"
+      ],
+      "techniques": [
+        "Reazioni d'Antimateria Diluite",
+        "Big Bang Microcosmico"
+      ]
+    },
+    {
+      "name": "Stellar Fusion",
+      "ordine": null,
+      "ingredients": [
+        "Farina di Nettuno",
+        "Amalgamazione Sintetica Molecolare",
+        "Funghi Orbitali",
+        "Fibra di Sintetex",
+        "Grigliatura Elettro-Molecolare a Spaziatura Variabile",
+        "Salsa Szechuan",
+        "Bollitura Infrasonica Armonizzata",
+        "Shard di Materia Oscura",
+        "Cottura Sottovuoto Antimateria",
+        "Saltare in Padella Realtà Energetiche Parallele"
+      ],
+      "techniques": [
+        "Amalgamazione Sintetica Molecolare",
+        "Grigliatura Elettro-Molecolare a Spaziatura Variabile",
+        "Bollitura Infrasonica Armonizzata",
+        "Cottura Sottovuoto Antimateria",
+        "Saltare in Padella Realtà Energetiche Parallele"
+      ]
+    },
+    {
+      "name": "Portale delle Stelle",
+      "ordine": null,
+      "ingredients": [
+        "Carne di Xenodonte",
+        "Microonde Entropiche Sincronizzate",
+        "Funghi dell'Etere",
+        "Biscotti della Galassia",
+        "Frammenti di Supernova",
+        "Spezie Melange",
+        "Decostruzione Atomica a Strati Energetici",
+        "Affumicatura tramite Big Bang Microcosmico",
+        "Fermentazione Quantico Biometrica"
+      ],
+      "techniques": [
+        "Microonde Entropiche Sincronizzate",
+        "Decostruzione Atomica a Strati Energetici",
+        "Affumicatura tramite Big Bang Microcosmico",
+        "Fermentazione Quantico Biometrica"
+      ]
+    },
+    {
+      "name": "Sogni di Abisso Cosmico",
+      "ordine": null,
+      "ingredients": [
+        "Pane degli Abissi",
+        "Carne di Kraken",
+        "Marinatura Temporale Sincronizzata",
+        "Microonde Entropiche Sincronizzate",
+        "Farina di Nettuno",
+        "Cottura Olografica Quantum Fluttuante",
+        "Erba Pipa",
+        "Teste di Idra",
+        "Decostruzione Interdimensionale Lovecraftiana",
+        "Fusilli del Vento",
+        "Cottura Sottovuoto Frugale Energeticamente Negativa",
+        "Uova di Fenice",
+        "Cottura con Microonde Entropiche Sincronizzate"
+      ],
+      "techniques": [
+        "Marinatura Temporale Sincronizzata",
+        "Microonde Entropiche Sincronizzate",
+        "Cottura Olografica Quantum Fluttuante",
+        "Decostruzione Interdimensionale Lovecraftiana",
+        "Cottura Sottovuoto Frugale Energeticamente Negativa",
+        "Cottura con Microonde Entropiche Sincronizzate"
+      ]
+    }
+  ]
+}
