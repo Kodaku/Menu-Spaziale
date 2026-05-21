@@ -33,7 +33,8 @@ Questa parte presenta anche un problema non indifferente di scalabilità per i s
 1. Se l'LLM lo si usa con API bisogna tenere presente dei limiti di utilizzo, consumi di token, disponibilità del modello a X richieste al minuto, ecc. Lo studio dell'LLM più adatto al caso è maggiormente incentrato sulla parte di availability e costi piuttosto che sulla parte di accuratezza delle risposte.
 Inoltre la scelta dell'LLM stesso può portarsi costi non indifferenti.
 2. Se l'LLM è locale bisogna innanzitutto sincerarsi di avere le risorse a disposizione, di base una GPU. Supponendo di avere a disposizione le risorse allora ci si può concentrare più sulla parte di availability e accuratezza (spesso i modelli locali sono leggeri e molto proni ad allucinare). Più le risorse a disposizione sono maggiori e più si può spostare l'attenzione agli stessi punti del punto 1 (i costi sarebbero di setup e manutenzione dell'architettura).
-3. Fatta la scelta si consiglia uno stress test per andare a stimare al meglio quanto il sistema reggerebbe, quando inizia a degenerare, quali costi comporterebbe un carico di un certo tipo, ecc. Le modalità di stress test dipendono dalla soluzione adottata.
+3. In ogni caso, se si pensa di esporre il sistema verso l'esterno (ma anche nel caso sia tenuto in azienda, non si sa mai), si consiglia di renderlo robusto ad attacchi di prompt injection. Le modalità vanno definite contestualmente al task. Più è generico, più gli attacchi di prompt injection possono essere vari.
+4. Fatta la scelta si consiglia uno stress test per andare a stimare al meglio quanto il sistema reggerebbe, quando inizia a degenerare, quali costi comporterebbe un carico di un certo tipo, ecc. Le modalità di stress test dipendono dalla soluzione adottata.
 
 **In sintesi, per esperienza:**
 - **LLM su API** → alta qualità delle risposte ma richiede attenzione a costi, limiti di utilizzo e che fine faranno i dati.
