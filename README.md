@@ -36,6 +36,7 @@ Sono state considerate anche queste soluzioni:
 
 4. Introdurre un sistema di monitoraggio sull'utilizzo degli LLM: consumo di token totale, consumo medio di token per domanda, ecc.
 5. Rendere il sistema generalizzabile all'utilizzo di diversi LLM. Nella soluzione attuale una grande debolezza è che, appena si raggiungono i limiti sull'API di Groq bisogna aspettare che si resettino. Questo rallenta molto il testing.
+6. Rendere il sistema, in caso sia messo a disposizione verso l'esterno, robusto verso attacchi di prompt injection.
 
 # Utilizzo
 Si consiglia di lasciare tutto così com'è in quanto la soluzione si basa sull'API di Groq con tutti i limiti di utilizzo.
